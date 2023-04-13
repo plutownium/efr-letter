@@ -37,11 +37,16 @@
       </p>
 
       <p>
-        Would you like to find out about how to become a person who acts as if they were addicted to
-        a positive, life changing behavior…
+        Would you like to find out about how to become a person who acts <span class="font-bold"
+          >as if</span
+        > they were addicted to a positive, life changing behavior…
       </p>
 
-      <p>So that you end up doing it without any internal effort whatsoever to act on the habit?</p>
+      <p>
+        So that you end up doing it <span class="italic"
+          >without any internal effort whatsoever</span
+        > to act on the habit?
+      </p>
 
       <h2 class="mt-4">
         No Matter How Far You Get In Life You’ll Still Feel Behind Unless You Do This
@@ -125,21 +130,27 @@
         <h2>Scary story right?</h2>
 
         <p>I repeat: This person is not real, yet he exists.</p>
-        <p>Probably thousands or millions of real people are just like him.</p>
+        <p>
+          Probably thousands or millions of real people are <span class="underline"
+            >just like him</span
+          >.
+        </p>
         <p>People who were born rich or poor, short or tall, weak or strong.</p>
         <p>
-          All types of people recognize themselves in the story, because the story could just as
-          well be about them:
+          All types of people recognize themselves in the story, because <span class="underline"
+            >the story could just as well be about them</span
+          >.
         </p>
         <p>“If I was Thomas Whitman, I too would feel behind.”</p>
       </CenteredTextBox>
 
       <p>
-        The point of the story is this: No matter how much money you make, if your financial
-        responsibility isn’t there, if your habits, routines, attitudes and beliefs aren’t dialed
-        in…
+        The point of the story is this: <span class="font-bold"
+          >No matter how much money you make, if your financial responsibility isn’t there, if your
+          habits, routines, attitudes and beliefs aren’t dialed in…</span
+        >
       </p>
-      <p>
+      <p class="font-bold">
         You will always have an abundance of people who are doing better than you in terms of money.
       </p>
       <p>
@@ -160,20 +171,30 @@
         this way for so long, that I take a lot of it for granted.
       </p>
       <p>
-        What I don’t take for granted is that in the domain of net worth, i am ahead of everyone who
-        has more debt than assets.
+        What I don’t take for granted is that <span class="underline"
+          >in the domain of net worth, I am ahead of everyone who has more debt than assets</span
+        >.
       </p>
       <p>If I lose my job or become too sick to work…</p>
-      <p>“lol, lmao, i have enough money to live on for the rest of my life.”</p>
+
+      <p>If the naturally recurrent hardships of life try to take me out…</p>
+
+      <p>I’ll tell the indifferent suffering of the universe:</p>
+
+      <p class="font-bold">“lol, lmao, i have enough money to live on for the rest of my life.”</p>
       <p>I am protected.</p>
       <p>
-        The indifferent suffering of the universe, with regards to being or becoming financially
+        To the indifferent suffering of the universe, with regards to being or becoming financially
         needy…
       </p>
       <p>
-        I am untouchable. It cannot hurt me. Only I can turn my finances from great into fukt up.
+        I am untouchable. It cannot hurt me. <span class="underline"
+          >Only I can turn my finances from great into fukt up</span
+        >.
       </p>
-      <p>The money is safe from everyone, and everything, but my own negligence.</p>
+      <p class="underline">
+        The money is safe from everyone, and everything, but my own negligence.
+      </p>
       <p>
         If I lost my job due to an accident that left me unable to work for five whole years. Five.
         Whole. Years…
@@ -191,15 +212,20 @@
       </li>
       <p>(Yet I’m ahead of a firm 95% of the population.)</p>
       <li>
-        It means that if someone told me I was *financially* irresponsible, it would be the first
-        time I’d heard it in my entire life.
+        It means that if someone told me I was *financially* irresponsible, <span class="underline"
+          >it would be the first time I’d heard it in my entire life</span
+        >.
       </li>
       <p>(I am somewhat irresponsible in other domains, but not this one.)</p>
       <p>
         But it doesn’t mean I can drop my guard, take off the guard rails (that I built up with my
         bare hands), and spend willy-nilly.
       </p>
-      <p>Because then people who tell me I've become irresponsible would be right.</p>
+      <p>
+        Because then people who tell me I've become irresponsible <span class="underline"
+          >would be right</span
+        >.
+      </p>
 
       <p>
         Yet I am ahead of many people, again, in the specific domain of net worth. It is a fact.
@@ -216,8 +242,9 @@
         <p>
           People from within those two domains tell me regularly. They would tell you too if you
           pursued progress aggressively for a few years. The comments would be rare. The comments
-          would be mostly ones you prompted them to give you. And then once in a while they would
-          tell you that you were admirable.
+          would be mostly ones you prompted them to give you. <span class="underline"
+            >And then once in a while they would tell you that you were admirable</span
+          >.
         </p>
 
         <li>
@@ -229,12 +256,15 @@
           about their finances. Even the rich ones. Do we need to worry about that?”
         </li>
         <p>
-          Enabling you to realize: No, you pretty fucking firmly do not need to worry. (Though you
-          wouldn’t say the cursing part out loud!)
+          Enabling you to realize: <span class="underline"
+            >No, you pretty fucking firmly do not need to worry</span
+          >. (Though you wouldn’t say the cursing part out loud!)
         </p>
       </ol>
 
-      <h3>Here’s a real activity you could do to make the most of these advantages:</h3>
+      <h3 class="mt-4 text-xl">
+        Here’s a real activity you could do to make the most of these advantages:
+      </h3>
 
       <p>
         You could use your own character, actions, thoughts and words to set a positive example for
@@ -242,8 +272,9 @@
       </p>
       <p>
         The hard parts, by the time you are ready to do this, would all be behind you. (Unless you
-        count dealing with their doubts as hard; in which case, nevermind.) You would be ready to
-        tell anyone who will listen:
+        count dealing with their doubts as hard; in which case, nevermind.) You would be <span
+          class="underline">ready</span
+        > to tell anyone who will listen:
       </p>
       <p>
         “Yeah, even if you’re starting from zero at age whatever, in two years, you can put a
@@ -255,7 +286,7 @@
         do it using the guide if you wanted to.)
       </p>
 
-      <h3>Here’s another one:</h3>
+      <h3 class="mt-4 text-xl">Here’s another one:</h3>
 
       <p>
         You could, in your senior years, begin a permanent and recurrent habit of donating to
@@ -266,12 +297,12 @@
         Because by that point, you’d have applied financially responsible behaviors, for so long,
         for so many years… (If and only if you actually apply it, by the way)
       </p>
-      <p>That you’d be able to donate a hundred dollars a month.</p>
+      <p>That you’d be able to donate <span class="underline">a hundred dollars a month</span>.</p>
       <p>Or even thousands.</p>
       <p>And it would be easy.</p>
       <p>You wouldn’t notice the money was missing.</p>
 
-      <h3>
+      <h3 class="mt-4 text-xl">
         Here’s yet another way you could enjoy the interest payments from your retirement account:
       </h3>
 
@@ -307,7 +338,9 @@
         Whether you agree or disagree about comparing yourself to others being always good, or
         always bad, or somewhere in between…
       </p>
-      <p>Having more money than average absolutely is a good thing.</p>
+      <p class="underline">
+        Having more money than average <span class="font-bold">absolutely is a good thing</span>.
+      </p>
       <p>It doesn’t mean that you are greedy.</p>
       <p>It doesn’t mean that you love money more than people.</p>
       <p>It doesn’t mean that you are selfish.</p>
@@ -349,7 +382,7 @@
         future that will exist regardless of whether you’re a man or a woman. And I will tell you
         the truth:
       </p>
-      <p>Financial responsibility is costly.</p>
+      <p class="underline">Financial responsibility is costly.</p>
       <p>
         It means you “skip lattes” in the sense that you don’t spend $2,000 on a new wardrobe when:
       </p>
@@ -358,49 +391,57 @@
       <p>You’re already going to earn less than you’ll spend this month.</p>
       <p>
         No, you don’t have to “skip lattes,” because that is a yawn fest and majoring in the minor.
-        $5 latte every day, oh no. $5 * 30 = $150. Boring!
+        $5 latte every day, <span class="italic">oh no!</span> $5 * 30 = $150. Boring!
       </p>
       <p>What you do have to do is avoid:</p>
-      <p>(1) Making big financial mistakes</p>
+      <p>(1) Making <span class="underline">big</span> financial mistakes</p>
       <p>
-        (2) Making repeated financial mistakes that add up to big ones (but if I say lattes you’ll
-        rightly quit reading out of boredom)
+        (2) Making <span class="underline">repeated</span> financial mistakes that add up to big ones
+        (but if I say lattes you’ll rightly quit reading out of boredom)
       </p>
       <p>But back on topic:</p>
       <p>
-        I’m not going to tell you that becoming more financially responsible means all desirable
-        partners will want you more. Because that would be a lie. It’s definitely not all of them.
-        But guessing that more of them will like the financially responsible version of you more is
-        accurate.
+        I’m not going to tell you that becoming more financially responsible means <span
+          class="underline font-bold">all</span
+        >
+        desirable partners will want you more. Because that would be a lie. It’s
+        <span class="font-bold">definitely not all of them</span>. But
+        <span class="font-bold"
+          >guessing that more of them will like the financially responsible version of you more is
+          accurate.</span
+        >
       </p>
       <p>
-        And participating in the habit this page talks about is not only going to generate money for
-        you, but also you could describe it as…
+        And participating in the habit this page talks about is not only going to <span
+          class="underline">generate</span
+        > money for you, but also you could describe it as…
       </p>
     </div>
     <div>
       <CenteredTextBox>
-        <h2 class="mt-4">
+        <h2 class="mt-4 font-bold">
           The Pleasant And Almost But Not Actually Compulsive Financial Habit That Will Make Your
           Spouse Love You Forever
         </h2>
 
-        <h3 class="mt-2 text-xl">Disclaimer:</h3>
+        <h3 class="mt-2 text-xl font-bold">Disclaimer:</h3>
 
-        <h3 class="mt-2 mb-2 text-lg">Only Works If They Recognize A Catch When They See One…</h3>
+        <h3 class="mt-2 mb-2 text-lg font-bold">
+          Only Works If They Recognize A Catch When They See One…
+        </h3>
       </CenteredTextBox>
 
       <p>
         I’m not going to tell you that being financially responsible is sexy. Quite the opposite. To
         most people, it’s dull and boring.
       </p>
-      <p>And yet it makes you a badass that a good partner will cherish.</p>
+      <p class="font-bold">And yet it makes you a badass that a good partner will cherish.</p>
       <p>
         Yes, it’s extremely unlikely that they will want you specifically because you’re financially
         responsible. As I said: It isn’t sexy.
       </p>
       <p>But as we will find out, debt isn’t either!</p>
-      <p>
+      <p class="underline">
         In fact, we both know that having six figures of debt would be a repellent in the dating
         pool.
       </p>
@@ -409,8 +450,10 @@
         bank account.)
       </p>
       <p>
-        So, the return on investment on your financial responsibility is sky high. Because becoming
-        financially responsible makes you more attractive immediately to a potential partner.
+        <span class="underline"
+          >So, the return on investment on your financial responsibility is sky high</span
+        >. Because becoming financially responsible makes you more attractive
+        <span class="underline">immediately</span> to a potential partner.
       </p>
     </div>
     <div>
@@ -423,20 +466,20 @@
       </CenteredTextBox>
 
       <p>
-        Everyone and their mother has heard of setting up an automatic transfer from their chequing
+        Everyone and their mother has heard of setting up an automatic transfer from their checking
         account into their savings account.
       </p>
-      <p>It is not special.</p>
+      <p class=""><span class="underline">It is not special</span>.</p>
       <p>What is special is the change that will occur along the way.</p>
       <p>
-        The change that will happen after you’ve set up the totally yawn-inducing “banking
-        automation.”
+        The change that will happen <span class="underline">after</span> you’ve set up the totally yawn-inducing
+        “banking automation.”
       </p>
-      <p>It is an internal change.</p>
+      <p>It is an <span class="underline">internal</span> change.</p>
       <p>The automated habit is not the bank’s or some software program’s, but your own.</p>
       <p>And acquisition of the habit only happens along the way, and after you start doing it.</p>
-      <p>This is a promise to you.</p>
-      <p>I guarantee you will get it.</p>
+      <p><span class="underline">This is a promise to you.</span></p>
+      <p class="undelrine">I <span class="font-bold">guarantee</span> you will get it.</p>
       <p>You will experience the following change:</p>
       <p>You will grow to appreciate having the money.</p>
       <p>
@@ -452,20 +495,28 @@
         You’ll like it better even if you’re the laziest, most irresponsible person in the world.
       </p>
       <p>
-        You’ll also like it better if you’re industrious, conscientious, responsible, or any
-        combination of those qualities.
+        You’ll also like it <span class="underline">better</span> if you’re industrious, conscientious,
+        responsible, or any combination of those qualities.
       </p>
       <p>Why?</p>
       <p>
-        The Secret Sauce: When you build up your financial habits, blah blah blah automate your bank
-        account, boring boring yawn, is not the whole story.
+        <span class="underline">The Secret Sauce</span>: When you build up your financial habits,
+        <span class="italic"
+          >blah blah blah automate your bank account, boring boring yawn, is <span class="underline"
+            >not the whole story</span
+          >.</span
+        >
       </p>
 
-      <h3>The SAUCE is that you change. You. Not just your bank account.</h3>
+      <h3 class="text-xl mt-4">
+        The SAUCE is that <span class="underline">you change</span>. You. Not just your bank
+        account.
+      </h3>
 
-      <p>
-        Since the norm is to be in debt, having a net worth of even one dollar makes you better than
-        average.
+      <p class="underline">
+        Since the norm is to be in debt, <span class="font-bold"
+          >having a net worth of even one dollar makes you better than average.</span
+        >
       </p>
       <p>
         Are you satisfied being average, or worse, below average, in the specific category of
@@ -473,17 +524,21 @@
       </p>
       <p>I bet you aren’t.</p>
       <p>I bet you want to improve that shit.</p>
-      <p>And that is fucking awesome.</p>
-      <p>But if wanting is good, doing is even better.</p>
-      <p>This is the boring, normal, special automated habit that will get you ahead:</p>
+      <p>And that is fucking <span class="underline">awesome</span>.</p>
+      <p>But if wanting is good, <span class="underline">doing is even better</span>.</p>
+      <p>
+        <span class="underline"
+          >This is the boring, normal, special automated habit that will get you ahead</span
+        >:
+      </p>
 
       <CenteredTextBox>
-        <h3 class="mt-4 text-2xl">
+        <h3 class="mt-4 text-2xl font-bold">
           You will get addicted to the feedback you get from stacking cash in your bank account.
         </h3>
 
-        <p>“Oh no, I might over-save!”</p>
-        <p>Trust me, it’s better than being in debt.</p>
+        <p class="tailwind-failed-text-size">“Oh no, I might over-save!”</p>
+        <p class="tailwind-failed-text-size">Trust me, it’s better than being in debt.</p>
       </CenteredTextBox>
     </div>
   </PaddingBox></StandardBox
@@ -497,20 +552,27 @@
         Your Financial Concerns About Your Future (But Not For Good)
       </h2>
 
-      <p>The boring part of this segment is that eight hours of setup will earn you millions.</p>
+      <p class="font-bold">
+        The boring part of this segment is that eight hours of setup will earn you millions.
+      </p>
       <p>That’s cool. Don’t get me wrong. That is cool, very cool.</p>
-      <p>But it is boring. Way too normal of a statement to be cool.</p>
-      <p>You can hear about it elsewhere.</p>
+      <p>
+        But it is boring. <span class="font-bold">Way too normal of a statement to be cool.</span>
+      </p>
+      <p class="font-bold">You can hear about it elsewhere.</p>
 
-      <h3>
-        But you can hear “if you can’t hang onto your money, no amount of earning will give you a
-        high net worth” here, and you can hear it almost nowhere else.
+      <h3 class="mt-4 text-xl">
+        But you can hear <span class="font-bold"
+          >“if you can’t hang onto your money, no amount of earning will give you a high net worth”</span
+        > here, and you can hear it almost nowhere else.
       </h3>
 
       <p>That statement should excite you.</p>
       <p>
-        Because the inverse is true also: “If you can hang onto your money, even a small amount of
-        earning will give you a high net worth.”
+        Because the inverse is true also: <span class="font-bold"
+          >“If you can hang onto your money, even a small amount of earning will give you a high net
+          worth.”</span
+        >
       </p>
 
       <CenteredTextBox>
@@ -527,8 +589,9 @@
       </p>
       <p>No, it isn’t easy to start for every single person who does it.</p>
       <p>
-        Yet if the text on this page is right for you, you will manage to pull off becoming a
-        disciplined winner.
+        Yet if the text on this page is right for you, <span class="underline"
+          >you will manage to pull off becoming a disciplined winner</span
+        >.
       </p>
 
       <CenteredTextBox>
@@ -597,7 +660,8 @@
       </div>
 
       <h3 class="mt-4 text-2xl text-center">
-        Attention: The second set of options is remarkably, undeniably better!
+        <span class="underline">Attention</span>: The second set of options is
+        <span class="underline">remarkably, undeniably better</span>!
       </h3>
 
       <p>
@@ -625,26 +689,28 @@
       <p>You’ll suffer less.</p>
       <p>Your defeats will be fewer and easier to deal with.</p>
       <p>
-        And the victory you experience as a result of building up even four thousand dollars into
-        your investment accounts…
+        And the victory you experience as a result of building up <span class="italic"
+          >even four thousand dollars</span
+        > into your investment accounts…
       </p>
       <p>
-        Will quickly spiral out of control in the good direction if you permit yourself to let it
-        happen.
+        Will quickly spiral out of control <span class="italic">in the good direction</span> if you permit
+        yourself to let it happen.
       </p>
       <p>I say again:</p>
-      <p>You have to give yourself permission to succeed.</p>
+      <p class="underline">You have to give yourself permission to succeed.</p>
     </div>
     <div class="pb-12">
       <h2 class="mt-4">The Fully Automated Habit That Your Children Will Thank You For</h2>
 
       <p>
-        Given that your children will thank you for your success in various ways… Will you give
-        yourself permission to succeed in this domain?
+        Given that your children will thank you for your success in various ways… <span
+          class="underline">Will you give yourself permission to succeed in this domain?</span
+        >
       </p>
       <p>
         We’ve talked about the financial habit being “fully automated.” Meaning you will
-        automatically carry out the behavior.
+        <span class="underline">automatically</span> carry out the behavior.
       </p>
       <p>
         You won’t have to think about whether it’s worth it. You won’t have to think about whether
@@ -717,38 +783,36 @@
       <p>Everything.</p>
 
       <!-- // fixme: make this text REALLY BIG. -->
-      <h2>If You Read This Far, It’s Time For...<br /> The Big Reveal!</h2>
-
-      <p>The entire document you’re reading right now is not “just” about finances.</p>
-      <p>It’s also about love!</p>
-      <p>
-        Do you love yourself enough to follow a guide given to you from an expert in debt reduction
-        and net worth enhancement?
-      </p>
-      <p>
-        Are you willing to do a little work (but truthfully not much) every month or two to manage
-        your own behavior…
-      </p>
-      <p>So that your current or future spouse can rely on you when they need to?</p>
-      <p>
-        So that your current or future kids can trust you to teach them about care and
-        responsibility?
-      </p>
-      <p>
-        If you answer affirmatively, and yet you recognize that some challenges are guaranteed along
-        the way…
-      </p>
-      <p>
-        You are saying that yourself and your family are entirely, entirely worth doing this for.
-      </p>
-      <p>(And if you can't will yourself to do it, it’s still about love. Just in another way.)</p>
-      <p>
-        Whether you do or don’t, you must acknowledge, at the minimum, that choosing to do so would
-        be a firmly affirmative sign…
-      </p>
-      <p>That you want to be a hero for somebody!</p>
-      <p>Out of love!</p>
+      <h2>If You Read This Far, It’s Time For...</h2>
+      <h2 class="font-bold">The Big Reveal!</h2>
     </CenteredTextBox>
+
+    <p>The entire document you’re reading right now is not “just” about finances.</p>
+    <p>It’s also about love!</p>
+    <p>
+      Do you love yourself enough to follow a guide given to you from an expert in debt reduction
+      and net worth enhancement?
+    </p>
+    <p>
+      Are you willing to do a little work (but truthfully not much) every month or two to manage
+      your own behavior…
+    </p>
+    <p>So that your current or future spouse can rely on you when they need to?</p>
+    <p>
+      So that your current or future kids can trust you to teach them about care and responsibility?
+    </p>
+    <p>
+      If you answer affirmatively, and yet you recognize that some challenges are guaranteed along
+      the way…
+    </p>
+    <p>You are saying that yourself and your family are entirely, entirely worth doing this for.</p>
+    <p>(And if you can't will yourself to do it, it’s still about love. Just in another way.)</p>
+    <p>
+      Whether you do or don’t, you must acknowledge, at the minimum, that choosing to do so would be
+      a firmly affirmative sign…
+    </p>
+    <p>That you want to be a hero for somebody!</p>
+    <p>Out of love!</p>
   </WideBox>
 </div>
 
@@ -812,7 +876,7 @@
         growing “automatically” because of interest.
       </li>
 
-      <h4>This…</h4>
+      <h4 class="mt-4 text-2xl">This…</h4>
       <li>
         The older version of yourself, at age 60, wrinkles on your face and grey in your hair, still
         stuck going to work every day because you didn’t save up.
@@ -1449,77 +1513,71 @@
       <CenteredTextBox>
         <!-- //todo: all massive text -->
         <h2>
-          “Okay Effer, You’ve Convinced Me: Responsibility With Personal Finance Is Important and
-          Worth Doing. Tell Me About The Guide.”
+          “Okay Effer, I Agree: Responsibility With Personal Finance Is Important and Worth Doing.
+          Tell Me About The Guide.”
         </h2>
 
         <p>Well for one, it’s title is:</p>
 
-        <h2>Zero To Some:</h2>
-        <h2>How To UnFukt Your Finances</h2>
-
-        <h2>“Great Title, But How Does The Advice In The Guide Actually Work?”</h2>
-
-        <p>The answers to this question below! And also the answers to:</p>
-
-        <h2>And Will It Work For You Even If:</h2>
-        <ul class="list-with-bullets pl-4">
-          <li>You’re A Young Adult With Low Income, or</li>
-
-          <li>You’ve been in debt for years, or</li>
-
-          <li>You currently have no idea how you’ll ever afford a house, or</li>
-
-          <li>Some combination of the above 3 things</li>
-        </ul>
-
-        <p>Spoiler: The answer is yes, now find out how & why</p>
-
-        <!-- //todo: all massive text -->
+        <h2 class="guide-title">Zero To Some:</h2>
+        <h2 class="guide-title">How To UnFukt Your Finances</h2>
       </CenteredTextBox>
+
+      <h2>How Does The Advice In The Guide Actually Work?</h2>
+
+      <p>The answers to this question below! And also the answers to:</p>
+
+      <h2>Will It Work For You Even If:</h2>
+      <ul class="list-with-bullets pl-4">
+        <li>You’re A Young Adult With Low Income, or</li>
+
+        <li>You’ve been in debt for years, or</li>
+
+        <li>You currently have no idea how you’ll ever afford a house, or</li>
+
+        <li>Some combination of the above 3 things</li>
+      </ul>
+
+      <p>Spoiler: The answer is yes, now find out how & why</p>
+
+      <!-- //todo: all massive text -->
       <div>
-        <CenteredTextBox>
-          <!-- disclaimer -->
-          <!-- disclaimer -->
-          <!-- disclaimer -->
-          <!-- disclaimer -->
-          <!-- disclaimer -->
-          <h3>But first, two disclaimers:</h3>
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <h3 class="mt-4 text-2xl">But first, two disclaimers:</h3>
 
-          <h4>Disclaimer #1:</h4>
+        <h4 class="mt-4 text-xl">Disclaimer #1:</h4>
 
-          <p>You notice how “even if you don’t have a job” isn’t in the list?</p>
+        <p>You notice how “even if you don’t have a job” isn’t in the list?</p>
 
-          <p>It will work for you if you get a job, but you’ll need to get one!</p>
+        <p>It will work for you if you get a job, but you’ll need to get one!</p>
 
-          <p>So if you don’t have a job, and…</p>
+        <p>So if you don’t have a job, and…</p>
 
-          <p>(and, and, and, please notice the and)</p>
+        <p>You are also unwilling to get one...</p>
+        <p>Well, sorry.</p>
 
-          <p>You are also unwilling to get one, well, sorry.</p>
+        <p>But the guide is not for you.</p>
 
-          <p>But the guide is not for you.</p>
+        <p>It could be for your husband, your wife, your son, your daughter.</p>
 
-          <p>It could be for your husband, your wife, your son, your daughter.</p>
+        <p>But not for you.</p>
 
-          <p>But not for you.</p>
+        <p>
+          (Disclaimer about the disclaimer: The moment you change your mind about the job thing, the
+          disclaimer is irrelevant. The guide will start to work the instant you change your mind
+          and decide you’re willing to work. Also, concerns about joblessness would be invalidated
+          if you wanted to learn to control your spending anyway.)
+        </p>
 
-          <p>
-            (Disclaimer about the disclaimer: The moment you change your mind about the job thing,
-            the disclaimer is irrelevant. The guide will start to work the instant you change your
-            mind and decide you’re willing to work. Also, concerns about joblessness would be
-            invalidated if you wanted to learn to control your spending anyway.)
-          </p>
+        <h4 class="mt-4 text-xl">Disclaimer #2:</h4>
 
-          <h4>Disclaimer #2:</h4>
+        <p>If you are unwilling to implement the advice, the guide won’t work for you!</p>
 
-          <p>
-            If you are unwilling to implement the advice, or you’re the type of person to “buy and
-            never try,” the guide won’t work!
-          </p>
-
-          <p>With that out of the way, onward…</p>
-        </CenteredTextBox>
+        <p>With that out of the way, onward…</p>
       </div>
     </div>
   </WideBox>
@@ -1535,7 +1593,7 @@
 
       <p>I’ll address these entirely reasonable questions one by one.</p>
 
-      <h3>Even If You’re A Young Adult With Low Income</h3>
+      <h3 class="mt-4 text-2xl">(1) It'll Work Even If You’re A Young Adult With Low Income</h3>
 
       <p>You’re a young adult with low income?</p>
 
@@ -1565,7 +1623,7 @@
 
       <p>Trust me, as a young adult, points (3) and (4) and (5) will do a lot for you.</p>
 
-      <h3>Even If You’ve Been In Debt For Years</h3>
+      <h3 class="mt-4 text-2xl">(2) It'll Work Even If You’ve Been In Debt For Years</h3>
 
       <p>You’ve been in debt for years?</p>
 
@@ -1596,7 +1654,9 @@
         a GOOD feeling.)
       </p>
 
-      <h3>Even If You Have No Idea How You’ll Afford A House</h3>
+      <h3 class="mt-4 text-2xl">
+        (3) It'll Work Even If You Have No Idea How You’ll Afford A House
+      </h3>
 
       <p>You have no idea how you’ll afford a house?</p>
 
@@ -2320,7 +2380,8 @@
       </p>
 
       <h3 class="mt-4 text-2xl">
-        <span class="underline">Thought</span>: I don’t need to think about my kids’ future yet OR
+        <span class="underline">Thought</span>: I don’t need to think about my kids’ future yet
+        OR...
       </h3>
 
       <h3 class="mt-4 text-2xl">
@@ -2586,15 +2647,19 @@
     font-size: 1.8em;
   }
 
+  .guide-title {
+    font-size: 2.6em;
+  }
+
   .list-with-bullets > li {
-    font-size: 20px;
+    font-size: 16px;
     list-style-type: disc;
   }
 
   p,
   li {
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .mixed-group > * {
@@ -2611,5 +2676,9 @@
 
   .text-off-white-container * {
     color: #e5eef5;
+  }
+
+  .tailwind-failed-text-size {
+    font-size: 22px;
   }
 </style>
