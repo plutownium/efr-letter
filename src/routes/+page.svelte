@@ -379,7 +379,7 @@
 <StandardBox
   ><PaddingBox>
     <div>
-      <h2>
+      <h2 class="mt-4">
         How Normal, Boring Yet Special Automated Habits You Haven’t Heard About Before Make You
         Exceptional, Get You A Spouse Who Loves & Admires You, Kids With A Great Future, & A Lasting
         Sense of Success… With Only Six Hours of Setup Time!
