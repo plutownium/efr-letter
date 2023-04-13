@@ -1979,7 +1979,560 @@
 
     <p>The longer you wait, the more your net worth suffers.</p>
   </div>
+
+  <div>
+    <h2>So do you have to take this opportunity to change right now? Right this second?</h2>
+
+    <p>
+      Are you a self disciplined winner already? Perhaps the most disciplined winner you’ll ever
+      want to be?
+    </p>
+
+    <p>Is it just something you sense that you want but are unwilling to work for?</p>
+
+    <p>Or is it more than that?</p>
+
+    <p>Maybe you’ve decided you’ll take advantage of the opportunity…</p>
+
+    <p>Maybe you’ve given yourself permission to take advantage of the opportunity…</p>
+
+    <p>Yet it is not clear whether this is something you can put off until tomorrow.</p>
+
+    <p>Something you could do later, not today.</p>
+
+    <p>I’m here to tell you the time is now, and here’s why:</p>
+
+    <p>You do want to change now.</p>
+
+    <p>You do recognize the opportunity.</p>
+
+    <p>You do recognize the wisdom contained within the pages.’</p>
+
+    <p>
+      The problem is that after the moment to act has passed, the odds of it returning are immensely
+      low.
+    </p>
+
+    <p>You’ll go back to your busy life, with lots of other important tasks to complete.</p>
+
+    <p>Your fear of all this fukt up stuff I told you was coming… will fade.</p>
+
+    <p>Remember this part? What your life will be like when you’re OLD?</p>
+
+    <!-- todo: before/after img "option #1" "option #2" -->
+
+    <p>What I want for you is unimportant, but what you want for yourself is your whole world.</p>
+
+    <p>Your desires and decisions make your world. You create the future with your actions.</p>
+
+    <p>So what’ll it be…? Do you want to use the guide?</p>
+
+    <p>
+      You could get it with 100 hours of research and planning and execution spread across months
+      and months of activity.
+    </p>
+
+    <p>You could do it yourself.</p>
+
+    <p>But you’d make it a lot easier on yourself by investing in the guide.</p>
+
+    <!-- todo: centered text  -->
+    <p>
+      And if you act now, you’re guaranteed to avoid the possibility of forgetting the page,
+      forgetting the important visions of the future you saw, and avoid saying to yourself:
+    </p>
+  </div>
 </WideBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <h2>
+        “Nah, I’m too busy to get that guide right now. I am too busy to buy a PDF from the
+        Internet. I am too busy to act on under 3 hours of advice a month to get out of debt.”
+      </h2>
+
+      <div>
+        <!-- todo: centered text box  -->
+
+        <p>I remind you:</p>
+
+        <h3>Spending less money takes less time, not more time.</h3>
+
+        <p>The act of spending itself is a time sink.</p>
+
+        <p>You have less stuff to deal with.</p>
+
+        <p>More time for progress.</p>
+      </div>
+
+      <p>But if your real reason you aren’t yet certain you want the guide go something like:</p>
+
+      <h2>“Nah, I’m not sure I’ll get the return on investment I’m promised”...</h2>
+
+      <p>I’m here to tell you:</p>
+      <ul>
+        <li>(1) You receive a 30 day money back guarantee.</li>
+
+        <li>
+          (2) Dude/dudette, you read the page and decided you desire to use and apply the guide.
+        </li>
+      </ul>
+
+      <div>
+        <!-- // todo: centered text box -->
+
+        <p>Let’s talk about that.</p>
+
+        <h3>Regarding point #2:</h3>
+
+        <p>
+          You are already the type of person who would make use of the guide. Or else you would have
+          left already.
+        </p>
+
+        <p>I can’t tell you that you’re guaranteed to get:</p>
+
+        <p>Enough money to pay for your parents’ home care when they’re old.</p>
+
+        <p>Enough money to pay for your kids’ to use their young years their best.</p>
+
+        <p>Enough money to help your current/future spouse out when you are called to do so.</p>
+
+        <p>But you can make it a guarantee yourself.</p>
+
+        <h3>Extension of point #2, about the 30 day money back guarantee:</h3>
+
+        <p>You are entitled to buy the guide, use the guide, try it out…</p>
+
+        <p>
+          And so long as you prove you took action on paying off $50 of debt, you’ll be eligible to
+          receive…
+        </p>
+
+        <h3>A Full Refund!</h3>
+
+        <p>(“Dude Trust Me” is acceptable proof. I'll take your word for it.)</p>
+
+        <p>Now, with that refund offer out of the way…</p>
+      </div>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<!-- objections  -->
+<!-- objections  -->
+<!-- objections  -->
+<!-- objections  -->
+<!-- objections  -->
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <h2>Here are some reasonable thoughts you could still have out of concern for yourself…</h2>
+      <h2>Out of a desire to make the right choice for yourself…</h2>
+      <h2>Right now…</h2>
+      <h2>And responses to them.</h2>
+
+      <h3>Thought: “Effer, I am too busy to act on the advice in your guide.”</h3>
+
+      <p>
+        That’s right! Your life may, in fact, be super busy. I can’t tell from this side of the
+        screen so you are trusted to tell yourself the truth on the matter.
+      </p>
+
+      <p>
+        You have responsibilities to handle. You have people to take care of. You have pressing
+        concerns to make allowances for.
+      </p>
+
+      <p>
+        Yet the advice in the guide will take less than 10 hours of initial setup time, less than 5
+        if you’re fast.
+      </p>
+
+      <p>From there, the only change you have to make to your schedule is:</p>
+
+      <ul>
+        <li>(a) Add some more income generating activities, or</li>
+
+        <li>(b) Reduce your spending to get yourself out of debt, and then</li>
+
+        <li>
+          c) Be willing and able to setup an investment account (again in less than ten hours) some
+          months down the line.
+        </li>
+      </ul>
+
+      <p>
+        Choosing to make more income usually takes time, true. Yet choosing to spend less for a few
+        months or years while you work yourself out of debt… Takes less time, because you avoid:
+      </p>
+      <ul>
+        <li>Having to think about the purchase</li>
+
+        <li>Having to use the purchase</li>
+
+        <li>Having to clean up the empty packaging of the purchase</li>
+
+        <li>
+          Having to restrain yourself from avoiding ruining the gains of the purchase (hard, but
+          nigh zero cost in terms of time)
+        </li>
+      </ul>
+
+      <p>
+        If you have a total of twenty free hours over the next six months or less, you will find a
+        way to make time for the guide. You can promise yourself that right now.
+      </p>
+
+      <p>In fact, you can promise yourself all that even if you believe…</p>
+
+      <h3>Thought: This won’t work for me</h3>
+
+      <p>
+        Your success with the guide is up to you. However I encourage you to ask yourself: but why?
+        Why won’t it work for you? Be specific. For instance:
+      </p>
+
+      <ul>
+        <li>Do you lack the time?</li>
+
+        <li>Do you lack the desire?</li>
+
+        <li>Do you lack the belief that you can pull it off?</li>
+
+        <p>
+          If you find yourself saying “yes, yes” to any of those questions, you are encouraged to
+          re-read the rest of the page and look for the time, the desire, or the belief that you can
+          pull it off in the pages.
+        </p>
+
+        <p>
+          What you can believe is that paying off debt and investing in the future are both good
+          behaviors that are self-reinforcing.
+        </p>
+
+        <p>
+          If you’ll allow yourself to start, and allow yourself to proceed, you will get the victory
+          you’re after.
+        </p>
+
+        <p>It will become automatic.</p>
+
+        <p>You will build the habit and character into yourself of your own doing.</p>
+
+        <p>And speaking of character…</p>
+
+        <h3>Thought: This will make me into a Scrooge.</h3>
+
+        <p>That may happen. Nothing in the guide talks about avoiding becoming Scrooge himself.</p>
+
+        <p>
+          Yet the way you are now will get you somewhere worse. Scrooge is a rich penny pincher, but
+          being in debt your whole life means you pinch pennies anyway.
+        </p>
+
+        <p>So if the next thought seems relevant to you also, you should read that segment too…</p>
+
+        <h3>Thought: I don’t have enough income for this advice to be relevant.</h3>
+
+        <p>
+          If you don’t have enough income for this advice to be relevant now, you also won’t have
+          enough income for the guide later. Because you’ll never learn how easy it can be to get
+          there… from the guide!
+        </p>
+
+        <p>
+          If you don’t build good financial habits while you lack money, you’ll always lack money.
+          The future where you have enough money for building good financial habits will never
+          arrive. It’s a catch 22.
+        </p>
+
+        <p>
+          Think about it. What happens when you spend guiltlessly, take no care for wisdom, and
+          still manage to progress from whatever income level you’re at now, to 30% more? To 80%
+          more?
+        </p>
+
+        <p>
+          If you still suck at budgeting and investing, at making good choices, when you have more
+          income than you do now…
+        </p>
+
+        <p>
+          You’ll end up with the same things you have now: Debts and a way-too-tiny investment
+          account.
+        </p>
+
+        <h3>Thought: I don’t need to save for a house yet, OR…</h3>
+
+        <h3>Thought: I don’t know if I’ll want to buy a house.</h3>
+
+        <p>
+          That is completely fine. You don’t need to want to buy a house to make investing in your
+          future and your family’s future worthwhile.
+        </p>
+
+        <p>
+          It’s up to you what you do with the guide, but a house would have been an obvious choice
+          for most readers, so I put it in there. You can go without or skip the “buy a house” part.
+        </p>
+
+        <p>
+          Everyone is welcome to use the guide to pay off debts and learn to invest, even you just
+          want to:
+        </p>
+
+        <ul>
+          <li>Stop losing $86 a month to debt payments</li>
+
+          <li>Start putting away $100 a month of savings or investments</li>
+
+          <p>
+            Incidentally, if you wonder whether you’ll ever even want your own house, I recommend
+            reading the response to the following thought as well…
+          </p>
+
+          <h3>Thought: I don’t need to think about my kids’ future yet OR</h3>
+
+          <h3>Thought: I don’t know if I’ll have kids.</h3>
+
+          <p>
+            One thing I learned when I was young man was that I can’t accurately predict what I’ll
+            want in the future.
+          </p>
+
+          <p>
+            I learned by making both right and wrong moves that had permanently life-changing
+            consequences. (Not mentioned on the page, by the way!)
+          </p>
+
+          <p>
+            I learned by realizing, time after time, that I had neglected preparation for my current
+            problems & opportunities… all by failing to recognize that one day, I might really wish
+            I had been prepared for the desire.
+          </p>
+
+          <p>
+            The lesson is that it is possible to fail to prepare for something you develop the
+            desire to have later, not now.
+          </p>
+
+          <p>Now:</p>
+
+          <p>Are you able to see yourself in that story?</p>
+
+          <p>If so, you tell me what you should do about it…</p>
+
+          <p>
+            And on the topic of what you should do about it, the following thought might still get
+            in your way somehow, so let’s address it…
+          </p>
+
+          <h3>Thought: Saving and investing money isn’t important.</h3>
+
+          <p>
+            If you read the whole page or even most of it and you are still 100% convinced the
+            thought is true, you are invited to go do something else; my guide is not for you.
+          </p>
+
+          <p>However, the entire page is dedicated to conflict with the belief.</p>
+
+          <p>
+            You have ample opportunity to re-read the page and think about the statement, and
+            whether it is true or false.
+          </p>
+
+          <p>
+            Maybe you’re an Ultra High Net Worth Individual. If so, maybe you inherited enough
+            financially responsible habits that the guide would be useless to you. Because it’s
+            already “built in.”
+          </p>
+
+          <p>
+            But if not, to be blunt, I don’t know how you can read the whole page and still believe
+            this. Really. Do it and see what you believe when you’re done.
+          </p>
+
+          <p>It is a long page, so take your time.</p>
+
+          <p>And speaking of taking your time reading things…</p>
+
+          <h3>Thought: “It’s 100 pages long? I won’t be able to finish it.”</h3>
+
+          <p>
+            A 10 page guide would be more finishable. However, you wouldn’t get enough actionable
+            advice to actually implement the advice. In contrast, this guide will take you from
+            where you’re at – wherever that is – and go with you for years.
+          </p>
+
+          <p>
+            You can also choose to consume the guide in ten minutes a week for twenty weeks, for a
+            total of 200 minutes of invested time. You would begin receiving the upsides of reading
+            the guide immediately.
+          </p>
+
+          <h3>Thought: I’ll buy it and won’t apply it.</h3>
+
+          <p>
+            That is up to you. I can’t make you apply it. However, you should know that there are
+            clearly given actions to take at the end of each chapter.
+          </p>
+
+          <p>
+            You should also know that if you break the task of following the guide down into clear,
+            actionable, appealing and bite-sized steps, you will want to use the guide.
+          </p>
+
+          <p>
+            Finally, you are invited to press Ctrl + S and save the whole page to remind yourself of
+            why you chose to invest in yourself and your future.
+          </p>
+
+          <p>
+            Because if you re-read it every few months, you’ll never ever have the following
+            thought:
+          </p>
+
+          <h3>Thought: The cost of applying the guide is too high.</h3>
+
+          <p>
+            The immediate and short term costs are indeed large and will take you a lot of time,
+            money and other resources you suppose you cannot get back.
+          </p>
+
+          <p>
+            You have every reason to wonder about whether the cost is too big for the expected
+            returned value it will provide.
+          </p>
+
+          <p>
+            However, as a responsible saver and investor myself, I want to tell you my real opinion
+            on the matter:
+          </p>
+
+          <p>
+            The cost isn’t too high. You don’t have any better way to sacrifice in the Money
+            category:
+          </p>
+
+          <p>The time it takes is negligible compared to the time it will free up later.</p>
+
+          <p>
+            The money is negligible compared to the money the decision will return back to you over
+            time. The energy you’ll spend is less than the energy you’ll gain by being stress-free
+            about money.
+          </p>
+
+          <p>
+            I’ll say it once more so I’m sure I said it at least once in response to all these
+            worries and concerns: If you get the guide, and you try several times to apply the
+            guide, and you encounter trouble…
+          </p>
+
+          <p>
+            You are welcome to DM me for further instructions. I don’t promise I’ll respond right
+            away, or the very first time you message me. But as a customer, if I recognize you, you
+            will get help.
+          </p>
+        </ul>
+      </ul>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <h2>Are You Ready?</h2>
+
+      <h2>To Know The Path</h2>
+      <h2>To A Successful & Responsible</h2>
+      <h2>Financial Future?</h2>
+
+      <p>If you read the whole page, or even half of it, then by this point…</p>
+
+      <p>You’ve considered what the results from investing in your future will be like for you.</p>
+
+      <p>You’ve weighed the pros and cons.</p>
+
+      <p>You’ve imagined what success would be like.</p>
+
+      <p>You’ve recognized the foreseeable problems you will encounter if you do not change.</p>
+
+      <p>
+        You’ve recognized pains that will keep happening, over and over, if you continue on the way
+        you are now.
+      </p>
+
+      <p>
+        Yet you recognize that you can use the guide to create your own financial future. A better
+        future. A good one, or possibly, if I did my job right, a great one.
+      </p>
+
+      <p>So what’ll it be?</p>
+
+      <p>Would you like help ensuring the future is good?</p>
+
+      <p>Would you like to find out what you’re like once you’ve become your best self?</p>
+
+      <p>If so, tell me:</p>
+
+      <BigBeautifulButton />
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<!-- box for scrolloooooooors -->
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <h2>
+        P.S. Are you someone who scrolls immediately to the bottom of the page instead of reading
+        it?
+      </h2>
+
+      <p>Here’s the high level summary of what you missed:</p>
+
+      <p>Becoming financially responsible is good for:</p>
+      <ul>
+        <li>You</li>
+
+        <li>Your mom and/or dad.</li>
+
+        <li>Your future or current spouse.</li>
+
+        <li>Your future or current kids.</li>
+      </ul>
+
+      <p>They can’t depend on someone who can’t depend on themselves.</p>
+
+      <p>Is "undependable" who you want to be?</p>
+
+      <p>If so, close the page. You have better things to do!</p>
+
+      <p>
+        But if you want to become someone you, yourself, and the people who count on you, can count
+        on to save the day…
+      </p>
+
+      <p>
+        Count on you to be there, over and over, every single day of their lives, if and when they
+        need you…
+      </p>
+
+      <p>Well, it would be magnificent if you were there. If you were like that.</p>
+
+      <p>Does it sound worth making a few easy, fully achievable upgrades to become that person?</p>
+
+      <p>If so, use the button:</p>
+
+      <BigBeautifulButton />
+    </div>
+  </PaddingBox>
+</StandardBox>
 
 <style>
   h1 {
