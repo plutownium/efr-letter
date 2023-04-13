@@ -73,7 +73,11 @@
         times a year across the USA.
       </p>
 
-      <!-- // todo: img, of dr Manhattan -->
+      <div class="flex justify-center">
+        <div class="my-8 w-72">
+          <img src="/img/image1.jpg" alt="a meme of dr manhattan saying 'i made it up'" />
+        </div>
+      </div>
 
       <p>
         Anyway, here’s a story about Thomas Whitman, 49 year old Vice President of an investment
@@ -485,7 +489,7 @@
       <p>
         You will like it better than the way your life was before. Because the old version of you:
       </p>
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Had debts for months or years that cost them significant cash… every single month.</li>
         <li>Had routine pains and stresses due to a lack of cash… every single month.</li>
         <li>Feared being jobless for even two months at a time… every single month.</li>
@@ -622,7 +626,7 @@
       <div>
         <div>
           <h3 class="mt-4 text-2xl">Set of Options #1</h3>
-          <ul class="list-with-bullets pl-4">
+          <ul class="list-with-bullets pl-5">
             <li>You have to ask your kids for money to keep ownership of your tiny apartment.</li>
             <li>You are accurately described by “did not amount to much.”</li>
             <li>You’ll never leave anything to your kids when you die.</li>
@@ -640,7 +644,7 @@
 
         <div>
           <h3 class="mt-4 text-2xl">Set of Options #2</h3>
-          <ul class="list-with-bullets pl-4">
+          <ul class="list-with-bullets pl-5">
             <li>Your kids learned what everyday greatness looks like by watching you.</li>
             <li>
               Your grandkids had lots of happy stories from you about times your strengths
@@ -786,18 +790,19 @@
 
 <div class="bg-rose py-12">
   <WideBox>
-    <!-- // todo: big wide red box -->
     <CenteredTextBox>
       <h3 class="text-2xl">Would you like to be able to live this story?</h3>
 
       <p>Make it real?</p>
       <p>What would financial success be <span class="underline">worth</span> to you?</p>
       <p>Here’s the answer I would give if the story were about me and my children:</p>
-      <p class="font-bold"><span class="underline">Everything</span>.</p>
+      <p class="font-bold"><span class="underline text-2xl">Everything.</span></p>
 
       <!-- // fixme: make this text REALLY BIG. -->
-      <h2>If You Read This Far, It’s Time For...</h2>
-      <h2 class="font-bold">The Big Reveal!</h2>
+      <h2 class="mt-20">If You Read This Far, It’s Time For...</h2>
+      <h2 class="mt-12 mb-8 font-bold text-warning">
+        <span class="text-5xl">The Big Reveal!</span>
+      </h2>
     </CenteredTextBox>
 
     <p>The entire document you’re reading right now is not “just” about finances.</p>
@@ -841,7 +846,7 @@
 
       <h3 class="mt-4 text-2xl underline">The Joys of Changing For The Better</h3>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>
           The joy of looking at a bank account that has increased 11 months out of 12 for six
           straight years. (You missed a payment in February; no one’s perfect.)
@@ -862,7 +867,7 @@
       <p>Now compare that to the next list:</p>
 
       <h3 class="mt-4 text-2xl underline">Pains Of Staying The Same</h3>
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Looking at credit card debt piling up</li>
         <li>
           Conflict between the desire to enjoy life and the guilt/sting of more credit card debt
@@ -896,7 +901,7 @@
       </li>
 
       <h4 class="mt-4 text-2xl"><span class="underline">Or this</span>?</h4>
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>
           That same older version of yourself, but you’re retired, laying on the couch at 11 am,
           having a nap on a Tuesday.
@@ -915,7 +920,7 @@
         A debtor is getting themselves into a situation that's harder and harder to escape. Means
         they get closer to a life where:
       </p>
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>They have to say no to fun social outings because they can’t afford it</li>
 
         <li>They can’t replace something that breaks because they can’t afford it</li>
@@ -933,7 +938,7 @@
         better. It snowballs. Until one day in the future they can:
       </p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Spend as much as 30x a month what they’d be able to if they were bad with money</li>
 
         <li>Go out with friends whenever they want to</li>
@@ -985,12 +990,15 @@
 
       <p>You are lying to yourself if you think it isn’t.</p>
 
-      <!-- // todo: huge huge text -->
-      <h2 class="mt-4 huge-text">Burdened by debt, unable to be depended on by others.</h2>
+      <h2 class="mt-4 huge-text text-mid-blue">
+        Burdened by debt, unable to be depended on by others.
+      </h2>
 
-      <h2 class="mt-4 huge-text">Is that who you want to be?</h2>
+      <h2 class="mt-4 huge-text text-mid-blue">Is that who you want to be?</h2>
 
-      <h2 class="mt-4 huge-text underline font-bold">No, it’s not who you want to be.</h2>
+      <h2 class="mt-4 huge-text underline font-bold text-mid-blue">
+        No, it’s not who you want to be.
+      </h2>
 
       <h3 class="mt-4 text-2xl">You want to be great… or as great as you can.</h3>
 
@@ -1076,7 +1084,7 @@
 
     <p>Because you know your parents need you to:</p>
 
-    <ul class="list-with-bullets pl-4">
+    <ul class="list-with-bullets pl-5">
       <li>Be trustworthy with large sums of money, including their money.</li>
 
       <li>Be able to plan your finances and stick to the plan.</li>
@@ -1088,7 +1096,7 @@
 
     <p>You know your spouse will need you to:</p>
 
-    <ul class="list-with-bullets pl-4">
+    <ul class="list-with-bullets pl-5">
       <li>Be trustworthy with money. (Notice a theme here?)</li>
 
       <li>Be able to make and stick to a financial plan.</li>
@@ -1098,7 +1106,7 @@
 
     <p>…and you can, in fact, experience gratitude for being able to do that.</p>
 
-    <ul class="list-with-bullets pl-4">
+    <ul class="list-with-bullets pl-5">
       <li>Be trustworthy with money.</li>
 
       <li>Show them the difference between good behavior and bad behavior.</li>
@@ -1288,12 +1296,16 @@
 
       <p>Yeah, about that. Have you seen this diagram before?</p>
 
-      <!-- // todo: effer wife venn diagram -->
+      <div class="mt-12 h-76 w-96">
+        <img src="/img/image2.png" alt="a venn diagram about my wife" />
+      </div>
 
-      <p>
-        “She’s a gold digger!” is a predictable response, so I have to address it. If I didn’t, you
-        might miss the point of the article.
-      </p>
+      <div class="mt-4">
+        <p class="">
+          “She’s a gold digger!” is a predictable response, so I have to address it. If I didn’t,
+          you might miss the point of the article.
+        </p>
+      </div>
 
       <p>The takeaway is this:</p>
 
@@ -1417,7 +1429,7 @@
 
       <p>I say in conclusion:</p>
       <CenteredTextBox>
-        <h3 class="mt-4 text-2xl font-bold">
+        <h3 class="mt-4 text-3xl font-bold text-warning">
           Debt Isn’t Sexy. I know it isn’t, you know it isn’t.
         </h3>
 
@@ -1553,7 +1565,6 @@
   <WideBox>
     <div class="py-8">
       <CenteredTextBox>
-        <!-- //todo: all massive text -->
         <h2>
           “Okay Effer, I Agree: Responsibility With Personal Finance Is Important and Worth Doing.
           Tell Me About The Guide.”
@@ -1561,16 +1572,20 @@
 
         <p>Well for one, it’s title is:</p>
 
-        <h2 class="guide-title"><span class="underline">Zero To Some</span>:</h2>
-        <h2 class="guide-title">How To UnFukt Your Finances</h2>
+        <h2 class="mt-12 guide-title">
+          <span class="underline text-dark-blue font-bold">Zero To Some</span>:
+        </h2>
+        <h2 class="mb-12 guide-title text-dark-blue font-bold">How To UnFukt Your Finances</h2>
       </CenteredTextBox>
+
+      <p class="mb-4">And now you might be asking...</p>
 
       <h2>How Does The Advice In The Guide Actually Work?</h2>
 
-      <p>The answers to this question below! And also the answers to:</p>
+      <p class="mb-4">The answers to this question below! And also the answers to:</p>
 
       <h2>Will It Work For You Even If:</h2>
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>You’re A Young Adult With Low Income, or</li>
 
         <li>You’ve been in debt for years, or</li>
@@ -1582,13 +1597,10 @@
 
       <p>Spoiler: The answer is yes, now find out how & why</p>
 
-      <!-- //todo: all massive text -->
       <div>
         <!-- disclaimer -->
         <!-- disclaimer -->
-        <!-- disclaimer -->
-        <!-- disclaimer -->
-        <!-- disclaimer -->
+
         <h3 class="mt-4 text-2xl">But first, two disclaimers:</h3>
 
         <h4 class="mt-4 text-xl">Disclaimer #1:</h4>
@@ -1621,6 +1633,8 @@
         <p>If you are unwilling to implement the advice, the guide won’t work for you!</p>
 
         <p>With that out of the way, onward…</p>
+        <!-- disclaimer -->
+        <!-- disclaimer -->
       </div>
     </div>
   </WideBox>
@@ -1644,7 +1658,7 @@
 
       <p>A young adult with low income will:</p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Read the guide.</li>
 
         <li>Apply the guide.</li>
@@ -1674,7 +1688,7 @@
 
       <p>A person who has been in debt for years will:</p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Read the guide.</li>
 
         <li>Apply the guide.</li>
@@ -1716,7 +1730,7 @@
 
       <p>A person who has no idea how they’ll afford a house will:</p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Read the guide.</li>
         <li>Apply the guide.</li>
 
@@ -1840,7 +1854,7 @@
       </p>
 
       <CenteredTextBox>
-        <h2>You Will Own A House!</h2>
+        <h2 class="mt-4 text-mid-blue font-bold">You Will Own A House!</h2>
       </CenteredTextBox>
 
       <p>See? Wasn’t that better than a bunch of boring numbers?</p>
@@ -1862,7 +1876,11 @@
 <StandardBox>
   <PaddingBox>
     <div class="py-8">
-      <h2>“Ok So What Exactly Is In Your Guide, Zero To Some - How To UnFukt Your Finances?”</h2>
+      <h2>
+        “Ok So What Exactly Is In Your Guide, <span class="text-mid-blue"
+          >Zero To Some - How To UnFukt Your Finances</span
+        >?”
+      </h2>
 
       <p>
         I wrote higher up on the page that this is a guide aimed at beginners and intermediates.
@@ -1885,7 +1903,7 @@
 
       <p>(1) In section 1, you’ll see how to adopt the right mindset. It includes:</p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>How the word “deserve” fits into your financial vocabulary.</li>
 
         <li>Whether you should start later or right now.</li>
@@ -1901,7 +1919,7 @@
 
       <p>(2) In section 2, you’ll learn how to get out of debt. This section includes:</p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Whether to do it like an avalanche or a snowball</li>
 
         <li>The difference between Bad Debt, Less Bad Debt and almost entirely benign debt…</li>
@@ -1914,7 +1932,7 @@
 
       <p>(3) In section 3, you’ll learn how to set up a budget, including:</p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>How to assess your situation… and why Abundance Mindsets can be misleading.</li>
 
         <li>Your Budget Basics in four easy steps.</li>
@@ -1936,7 +1954,7 @@
         success. Including:
       </p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Why Making More Money Is Always Financially Better</li>
 
         <li>How More Money Makes You More Robust (less likely to be harmed by misfortune)</li>
@@ -1954,7 +1972,7 @@
 
       <div>
         <CenteredTextBox>
-          <h2>You’ll Get All That And More!</h2>
+          <h2 class="mt-4">You’ll Get All That And More!</h2>
 
           <p>But you might still be asking:</p>
 
@@ -1993,7 +2011,11 @@
 
       <p>Ok, so you’ll remember that we talked about:</p>
 
-      <li>Being able to pay for your parents’ to have in-home senior care when they’re old.</li>
+      <p class="">
+        <span class="text-2xl">
+          (1) Being able to pay for your parents’ to have in-home senior care when they’re old.
+        </span>
+      </p>
 
       <p>Value: <span class="underline">Priceless</span>.</p>
 
@@ -2002,36 +2024,50 @@
         in a row if you use the guide.
       </p>
 
-      <li>
-        Being able to help your current or future spouse out when they encounter a huge debt by
-        mistake.
-      </li>
+      <p class="list-disc">
+        <span class="text-2xl"
+          >(2) Being able to help your current or future spouse out when they encounter a huge debt
+          by mistake.</span
+        >
+      </p>
       <p>
         Value: <span class="underline">Priceless</span>.
       </p>
       <p>But let’s say <span class="font-bold">$4,000</span> if you do it even one time.</p>
 
-      <li>Being able to rely on yourself a bit more than you could yesterday.</li>
+      <p class="list-disc">
+        <span class="text-2xl"
+          >(3) Being able to rely on yourself a bit more than you could yesterday.</span
+        >
+      </p>
       <p>Value: <span class="underline">Priceless</span>.</p>
       <p>But let’s say <span class="font-bold">$1,000</span>.</p>
 
-      <li>Being able to help your kids make the most of their childhood.</li>
+      <p class="list-disc">
+        <span class="text-2xl"
+          >(4) Being able to help your kids make the most of their childhood.</span
+        >
+      </p>
       <p>Value: <span class="underline">Priceless</span>.</p>
       <p>But let’s say <span class="font-bold">$26,000</span>.</p>
 
-      <h2 class="mt-4">Total value: $36,000</h2>
+      <h2 class="mt-4">Total value: <span class="font-bold">$36,000</span></h2>
 
-      <h3 class="mt-4 text-2xl">Yet today the guide will be yours for only $100.</h3>
+      <h3 class="mt-4 text-3xl">
+        Yet today the guide will be yours for <span class="underline"
+          >only <span class="font-bold">$100</span></span
+        >.
+      </h3>
     </div>
     <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
-      <h4 class="mb-4 text-2xl">But the question remains: Why invest in changing your life?</h4>
+      <h2 class="mb-4 text-2xl">But the question remains: Why invest in changing your life?</h2>
 
       <h2>Why do you need to act now?</h2>
 
       <h2 class="mt-4">Here’s why:</h2>
 
-      <h2 class="mt-2">
-        Reminder: <span class="underline">You stumbled upon this page by chance</span>.
+      <h2 class="mt-2 mb-4">
+        <span class="underline">You stumbled upon this page by chance</span>.
       </h2>
 
       <p>
@@ -2042,7 +2078,7 @@
 
       <p>And at this point, we’ve talked about:</p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>
           Why your parents, if you are lucky enough to still have them, need to up your game
           financially.
@@ -2153,10 +2189,13 @@
       <p>Remember this part? What your life will be like when you’re OLD?</p>
 
       <!-- todo: before/after img "option #1" "option #2" -->
+      <div class="mt-4">
+        <img src="/img/image3.png" alt="lots of text previously seen in the article" />
+      </div>
 
       <p>
         What I want for you is unimportant, <span class="underline"
-          >but what you want for yourself is your whole world</span
+          >but what you want for yourself becomes your whole world</span
         >.
       </p>
 
@@ -2192,7 +2231,6 @@
       </h2>
 
       <div>
-        <!-- todo: centered text box  -->
         <p>I remind you:</p>
 
         <h3 class="mt-4 text-2xl">Spending less money takes less time, not more time.</h3>
@@ -2209,7 +2247,7 @@
       <h2 class="mt-4">“Nah, I’m not sure I’ll get the return on investment I’m promised”...</h2>
 
       <p>I’m here to tell you:</p>
-      <ul class="pl-4">
+      <ul class="pl-5">
         <li>(1) You receive a 30 day money back guarantee.</li>
 
         <li>
@@ -2293,13 +2331,13 @@
 
       <p>From there, the only change you have to make to your schedule is:</p>
 
-      <ul class="list-with-bullets pl-4">
-        <li>(a) Add some more income generating activities, or</li>
+      <ul class="list-with-bullets pl-5">
+        <li>Add some more income generating activities, or</li>
 
-        <li>(b) Reduce your spending to get yourself out of debt, and then</li>
+        <li>Reduce your spending to get yourself out of debt, and then</li>
 
         <li>
-          c) Be willing and able to setup an investment account (again in less than ten hours) some
+          Be willing and able to setup an investment account (again in less than ten hours) some
           months down the line.
         </li>
       </ul>
@@ -2308,7 +2346,7 @@
         Choosing to make more income usually takes time, true. Yet choosing to spend less for a few
         months or years while you work yourself out of debt… Takes less time, because you avoid:
       </p>
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Having to think about the purchase</li>
 
         <li>Having to use the purchase</li>
@@ -2335,7 +2373,7 @@
         Why won’t it work for you? Be specific. For instance:
       </p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Do you lack the time?</li>
 
         <li>Do you lack the desire?</li>
@@ -2380,7 +2418,7 @@
 
       <p>So if the next thought seems relevant to you also, you should read that segment too…</p>
 
-      <h3 class="text-2xl">
+      <h3 class="mt-4 text-2xl">
         <span class="underline">Thought</span>: I don’t have enough income for this advice to be
         relevant.
       </h3>
@@ -2435,7 +2473,7 @@
         want to:
       </p>
 
-      <ul class="list-with-bullets pl-4">
+      <ul class="list-with-bullets pl-5">
         <li>Stop losing $86 a month to debt payments</li>
 
         <li>Start putting away $100 a month of savings or investments</li>
@@ -2654,56 +2692,60 @@
 
 <!-- box for scrolloooooooors -->
 
-<StandardBox>
-  <PaddingBox>
-    <div class="mb-40">
-      <h2>
-        P.S. Are you someone who scrolls immediately to the bottom of the page instead of reading
-        it?
-      </h2>
+<div class="bg-yellow pt-12">
+  <StandardBox>
+    <PaddingBox>
+      <div class="mb-40">
+        <h2>
+          P.S. Are you someone who scrolls immediately to the bottom of the page instead of reading
+          it?
+        </h2>
 
-      <p>Here’s the high level summary of what you missed:</p>
+        <p>Here’s the high level summary of what you missed:</p>
 
-      <p>Becoming financially responsible is good for:</p>
-      <ul class="list-with-bullets pl-4">
-        <li>You</li>
+        <p>Becoming financially responsible is good for:</p>
+        <ul class="list-with-bullets pl-5">
+          <li>You</li>
 
-        <li>Your mom and/or dad.</li>
+          <li>Your mom and/or dad.</li>
 
-        <li>Your future or current spouse.</li>
+          <li>Your future or current spouse.</li>
 
-        <li>Your future or current kids.</li>
-      </ul>
+          <li>Your future or current kids.</li>
+        </ul>
 
-      <p>They can’t depend on someone who can’t depend on themselves.</p>
+        <p>They can’t depend on someone who can’t depend on themselves.</p>
 
-      <p>Is "undependable" who you want to be?</p>
+        <p>Is "undependable" who you want to be?</p>
 
-      <p>If so, close the page. You have better things to do!</p>
+        <p>If so, close the page. You have better things to do!</p>
 
-      <p>
-        But if you want to become someone y<span class="underline"
-          >ou, yourself, and the people who count on you, can count on to save the day</span
-        >…
-      </p>
+        <p>
+          But if you want to become someone y<span class="underline"
+            >ou, yourself, and the people who count on you, can count on to save the day</span
+          >…
+        </p>
 
-      <p>
-        Count on you to be there, over and over, every single day of their lives, if and when they
-        need you…
-      </p>
+        <p>
+          Count on you to be there, over and over, every single day of their lives, if and when they
+          need you…
+        </p>
 
-      <p>Well, it would be magnificent if you were there. If you were like that.</p>
+        <p>Well, it would be magnificent if you were there. If you were like that.</p>
 
-      <p>Does it sound worth making a few easy, fully achievable upgrades to become that person?</p>
+        <p>
+          Does it sound worth making a few easy, fully achievable upgrades to become that person?
+        </p>
 
-      <p>If so, use the button:</p>
+        <p>If so, use the button:</p>
 
-      <div class="flex justify-center">
-        <BigBeautifulButton />
+        <div class="mt-4 flex justify-center">
+          <BigBeautifulButton />
+        </div>
       </div>
-    </div>
-  </PaddingBox>
-</StandardBox>
+    </PaddingBox>
+  </StandardBox>
+</div>
 
 <style>
   h1 {

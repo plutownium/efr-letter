@@ -11,6 +11,7 @@ export default {
         rose: '#FFCDCD',
         warning: '#d34730',
         black: '#322D2D',
+        yellow: '#FFFFCF',
       },
     },
   },
