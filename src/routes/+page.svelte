@@ -2017,9 +2017,9 @@
         </span>
       </p>
 
-      <p>Value: <span class="underline">Priceless</span>.</p>
+      <p class="presentation-size">Value: <span class="underline">Priceless</span>.</p>
 
-      <p>
+      <p class="presentation-size">
         But let’s say <span class="font-bold text-green">$5,000</span> because you’ll be able to do it
         five years in a row if you use the guide.
       </p>
@@ -2030,10 +2030,10 @@
           by mistake.</span
         >
       </p>
-      <p>
+      <p class="presentation-size">
         Value: <span class="underline">Priceless</span>.
       </p>
-      <p>
+      <p class="presentation-size">
         But let’s say <span class="font-bold text-green">$4,000</span> if you do it even one time.
       </p>
 
@@ -2042,16 +2042,20 @@
           >(3) Being able to rely on yourself a bit more than you could yesterday.</span
         >
       </p>
-      <p>Value: <span class="underline">Priceless</span>.</p>
-      <p>But let’s say <span class="font-bold text-green">$1,000</span>.</p>
+      <p class="presentation-size">Value: <span class="underline">Priceless</span>.</p>
+      <p class="presentation-size">
+        But let’s say <span class="font-bold text-green">$1,000</span>.
+      </p>
 
       <p class="list-disc">
         <span class="text-2xl"
           >(4) Being able to help your kids make the most of their childhood.</span
         >
       </p>
-      <p>Value: <span class="underline">Priceless</span>.</p>
-      <p>But let’s say <span class="font-bold text-green">$26,000</span>.</p>
+      <p class="presentation-size">Value: <span class="underline">Priceless</span>.</p>
+      <p class="presentation-size">
+        But let’s say <span class="font-bold text-green">$26,000</span>.
+      </p>
 
       <h2 class="mt-4">Total value: <span class="font-bold text-green">$36,000</span></h2>
 
@@ -2801,5 +2805,9 @@
 
   .huge-text {
     font-size: 38px;
+  }
+
+  .presentation-size {
+    font-size: 24px;
   }
 </style>
