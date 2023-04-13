@@ -9,7 +9,6 @@
   import WideBox from '../components/WideBox.svelte'
 
   import '../app.css'
-  import FloatyHeader from '../components/FloatyHeader.svelte'
   import CenteredTextBox from '../components/CenteredTextBox.svelte'
 </script>
 
@@ -19,9 +18,9 @@
 <div class="w-full flex flex-col items-center bg-black">
   <div class="w-11/12 sm:w-10/12 md:w-9/12 mt-8 h-full">
     <div class="pb-12 h-3/5 flex flex-col items-center">
-      <h1 class="mt-8 text-center text-off-white text-4xl sm:text-7xl">
+      <h1 class="mt-8 mb-4 text-center text-off-white text-4xl sm:text-7xl">
         How to Escape A Lifetime Of Nagging Financial Fears, Gain A Bank Account Balance You Love to
-        Look At, Become Someone Your Family Can Rely On, and Become a Lifelong Winner in Finance
+        Look At, Become Someone Your Family Can Rely On, and A Lifelong Winner in Finance
       </h1>
     </div>
   </div>
@@ -29,13 +28,13 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
+    <div class="py-8">
       <h2>Reader, Here’s A Guarantee:</h2>
       <h2>If You Read The Full Page, A Life Changing Awareness Is On Its Way!</h2>
-      <h2>
+      <p>
         Would you like to be a disciplined winner in at least one major game of life? Namely the
         money game.
-      </h2>
+      </p>
 
       <p>
         Would you like to find out about how to become a person who acts as if they were addicted to
@@ -44,7 +43,9 @@
 
       <p>So that you end up doing it without any internal effort whatsoever to act on the habit?</p>
 
-      <h2>No Matter How Far You Get In Life You’ll Still Feel Behind Unless You Do This</h2>
+      <h2 class="mt-4">
+        No Matter How Far You Get In Life You’ll Still Feel Behind Unless You Do This
+      </h2>
 
       <p>
         If you never learn to make the right financial moves, automatically, without any worries
@@ -108,7 +109,7 @@
       <p class="flex justify-center">Thomas had less money invested than Derek!</p>
       <p class="flex justify-center">A lower total net worth!</p>
 
-      And this lower net worth was at the age of 49, while Derek was only mid 20’s.
+      <p>And this lower net worth was at the age of 49, while Derek was only mid 20’s.</p>
 
       <p>
         And Thomas was Derek’s boss’s boss’s boss’s boss! Four levels of formal power above him in
@@ -360,9 +361,9 @@
         $5 latte every day, oh no. $5 * 30 = $150. Boring!
       </p>
       <p>What you do have to do is avoid:</p>
-      <p>Making big financial mistakes</p>
+      <p>(1) Making big financial mistakes</p>
       <p>
-        Making repeated financial mistakes that add up to big ones (but if I say lattes you’ll
+        (2) Making repeated financial mistakes that add up to big ones (but if I say lattes you’ll
         rightly quit reading out of boredom)
       </p>
       <p>But back on topic:</p>
@@ -379,14 +380,14 @@
     </div>
     <div>
       <CenteredTextBox>
-        <h2>
+        <h2 class="mt-4">
           The Pleasant And Almost But Not Actually Compulsive Financial Habit That Will Make Your
           Spouse Love You Forever
         </h2>
 
-        <h3>Disclaimer:</h3>
+        <h3 class="mt-2 text-xl">Disclaimer:</h3>
 
-        <h3>Only Works If They Recognize A Catch When They See One…</h3>
+        <h3 class="mt-2 mb-2 text-lg">Only Works If They Recognize A Catch When They See One…</h3>
       </CenteredTextBox>
 
       <p>
@@ -441,7 +442,7 @@
       <p>
         You will like it better than the way your life was before. Because the old version of you:
       </p>
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Had debts for months or years that cost them significant cash… every single month.</li>
         <li>Had routine pains and stresses due to a lack of cash… every single month.</li>
         <li>Feared being jobless for even two months at a time… every single month.</li>
@@ -477,7 +478,7 @@
       <p>This is the boring, normal, special automated habit that will get you ahead:</p>
 
       <CenteredTextBox>
-        <h3>
+        <h3 class="mt-4 text-2xl">
           You will get addicted to the feedback you get from stacking cash in your bank account.
         </h3>
 
@@ -490,7 +491,7 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
+    <div class="pt-8">
       <h2>
         How Eight Hours of Setup Will Earn You Millions, Make You A Disciplined Winner, and Calm
         Your Financial Concerns About Your Future (But Not For Good)
@@ -513,7 +514,7 @@
       </p>
 
       <CenteredTextBox>
-        <h3>How long do you want to be alive for? A long time, right?</h3>
+        <h3 class="mt-4 text-2xl">How long do you want to be alive for? A long time, right?</h3>
 
         <p>Well, do you want those years to be spent as a disciplined winner?</p>
         <p>Do you want a long, long, thirty year streak of win, after win, after win?</p>
@@ -535,15 +536,15 @@
           If the page speaks to you, seems like it’s about you, seems like the “wow, this reader
           cares about his family” part is in fact about you…
         </p>
+
+        <p>You have what it takes to be the Disciplined Winner described in the section title.</p>
+
+        <h3 class="mt-4 text-2xl">Remember:</h3>
+
+        <h3 class="mt-4 text-2xl">If your life is long and happy and filled with successes…</h3>
+
+        <h3 class="mt-4 text-2xl">One day, you’re gonna be OLD.</h3>
       </CenteredTextBox>
-
-      <p>You have what it takes to be the Disciplined Winner described in the section title.</p>
-
-      <h3>Remember:</h3>
-
-      <h3>If your life is long and happy and filled with successes…</h3>
-
-      <h3>One day, you’re gonna be OLD.</h3>
 
       <p>
         What are you willing to do to make sure that old version of you, the old version who is
@@ -557,8 +558,8 @@
       <p>Which set of options do you prefer?</p>
       <div>
         <div>
-          <h3>Set of Options #1</h3>
-          <ul>
+          <h3 class="mt-4 text-2xl">Set of Options #1</h3>
+          <ul class="list-with-bullets pl-4">
             <li>You have to ask your kids for money to keep ownership of your tiny apartment.</li>
             <li>You are accurately described by “did not amount to much.”</li>
             <li>You’ll never leave anything to your kids when you die.</li>
@@ -575,8 +576,8 @@
         </div>
 
         <div>
-          <h3>Set of Options #2</h3>
-          <ul>
+          <h3 class="mt-4 text-2xl">Set of Options #2</h3>
+          <ul class="list-with-bullets pl-4">
             <li>Your kids learned what everyday greatness looks like by watching you.</li>
             <li>
               Your grandkids had lots of happy stories from you about times your strengths
@@ -595,7 +596,9 @@
         </div>
       </div>
 
-      <h3>Attention: The second set of options is remarkably, undeniably better!</h3>
+      <h3 class="mt-4 text-2xl text-center">
+        Attention: The second set of options is remarkably, undeniably better!
+      </h3>
 
       <p>
         You will adapt to the improvements you make, as a result of choosing to become financially
@@ -632,8 +635,8 @@
       <p>I say again:</p>
       <p>You have to give yourself permission to succeed.</p>
     </div>
-    <div>
-      <h2>The Fully Automated Habit That Your Children Will Thank You For</h2>
+    <div class="pb-12">
+      <h2 class="mt-4">The Fully Automated Habit That Your Children Will Thank You For</h2>
 
       <p>
         Given that your children will thank you for your success in various ways… Will you give
@@ -702,11 +705,11 @@
   </PaddingBox>
 </StandardBox>
 
-<div class="bg-rose">
+<div class="bg-rose py-12">
   <WideBox>
     <!-- // todo: big wide red box -->
     <CenteredTextBox>
-      <h3>Would you like to be able to live this story?</h3>
+      <h3 class="text-2xl">Would you like to be able to live this story?</h3>
 
       <p>Make it real?</p>
       <p>What would financial success be worth to you?</p>
@@ -744,14 +747,14 @@
         be a firmly affirmative sign…
       </p>
       <p>That you want to be a hero for somebody!</p>
-      <p>Out of love.</p>
+      <p>Out of love!</p>
     </CenteredTextBox>
   </WideBox>
 </div>
 
 <StandardBox
   ><PaddingBox>
-    <div>
+    <div class="py-8">
       <h2>A Reminder of What This Is About</h2>
 
       <p>
@@ -759,9 +762,9 @@
         previously mentioned guide:
       </p>
 
-      <h3>The Joys of Changing For The Better</h3>
+      <h3 class="mt-4 text-2xl">The Joys of Changing For The Better</h3>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>
           The joy of looking at a bank account that has increased 11 months out of 12 for six
           straight years. (You missed a payment in February; no one’s perfect.)
@@ -781,8 +784,8 @@
 
       <p>Now compare that to the next list:</p>
 
-      <h3>Pains of staying the same</h3>
-      <ul>
+      <h3 class="mt-4 text-2xl">Pains of staying the same</h3>
+      <ul class="list-with-bullets pl-4">
         <li>Looking at credit card debt piling up</li>
         <li>
           Conflict between the desire to enjoy life and the guilt/sting of more credit card debt
@@ -795,14 +798,14 @@
         In case the previous Joys of Success list wasn’t clear what this is about, here’s another
         list:
       </p>
-      <h4>Would you rather have…</h4>
+      <h4 class="mt-4 text-2xl">Would you rather have…</h4>
 
       <li>
         Conversation with a loved one about how they want to go out and spend, but you can’t join
         them because of debt.
       </li>
 
-      <h4>Or…</h4>
+      <h4 class="mt-4 text-2xl">Or…</h4>
 
       <li>
         Conversation with a loved one about how they’re “really pleased” with their net worth
@@ -815,8 +818,8 @@
         stuck going to work every day because you didn’t save up.
       </li>
 
-      <h4>Or this?</h4>
-      <ul>
+      <h4 class="mt-4 text-2xl">Or this?</h4>
+      <ul class="list-with-bullets pl-4">
         <li>
           That same older version of yourself, but you’re retired, laying on the couch at 11 am,
           having a nap on a Tuesday.
@@ -835,7 +838,7 @@
         A debtor is getting themselves into a situation that's harder and harder to escape. Means
         they get closer to a life where:
       </p>
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>They have to say no to fun social outings because they can’t afford it</li>
 
         <li>They can’t replace something that breaks because they can’t afford it</li>
@@ -853,7 +856,7 @@
         better. It snowballs. Until one day in the future they can:
       </p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Spend as much as 30x a month what they’d be able to if they were bad with money</li>
 
         <li>Go out with friends whenever they want to</li>
@@ -877,11 +880,13 @@
 <StandardBox
   ><PaddingBox>
     <CenteredTextBox>
-      <h2>Ask yourself what this would be like:</h2>
+      <h2 class="mt-4">Ask yourself what this would be like:</h2>
 
       <h2>Not only seen as irresponsible, but in truth, a dependably undependable person.</h2>
 
-      <h3>“Even when I come across money, I lose it within a few weeks or months.”</h3>
+      <h3 class="mt-4 text-2xl">
+        “Even when I come across money, I lose it within a few weeks or months.”
+      </h3>
 
       <p>Is that who you want to be?</p>
 
@@ -904,15 +909,15 @@
       <p>You are lying to yourself if you think it isn’t.</p>
 
       <!-- // todo: huge huge text -->
-      <h2>Burdened by debt, unable to be depended on by others.</h2>
+      <h2 class="mt-4">Burdened by debt, unable to be depended on by others.</h2>
 
       <h2>Is that who you want to be?</h2>
 
       <h2>No, it’s not who you want to be.</h2>
 
-      <h3>You want to be great… or as great as you can.</h3>
+      <h3 class="mt-4 text-xl">You want to be great… or as great as you can.</h3>
 
-      <h3>And you’re here to find out that it is possible.</h3>
+      <h3 class="mt-4 text-xl">And you’re here to find out that it is possible.</h3>
 
       <p>
         Because you know that some day your kids, your spouse, your mom or your dad, will need you.
@@ -932,21 +937,21 @@
 
       <p>Prudent.</p>
 
-      <h3>Now:</h3>
+      <h3 class="mt-4 mb-2 text-xl">Now:</h3>
 
-      <h3>Let’s do something to really drive the point home:</h3>
+      <h3 class="mt-2 text-xl">Let’s do something to really drive the point home.</h3>
     </CenteredTextBox>
   </PaddingBox></StandardBox
 >
 
 <WideBox>
-  <div class="">
+  <div class="py-8">
     <h2 class="text-center">Think of an image of a lighthouse.</h2>
 
     <p>
       A lighthouse, standing tall and shining its light off into the distance. Sailing ships use the
       lighthouse to guide them home and keep them safe during turbulent storms. The lighthouse is
-      strong and dependable. They are trusted and accountable for keeping sailors safe.
+      strong and dependable. They are trusted by sailors and accountable for keeping them safe.
     </p>
 
     <p>
@@ -992,7 +997,7 @@
 
     <p>Because you know your parents need you to:</p>
 
-    <ul>
+    <ul class="list-with-bullets pl-4">
       <li>Be trustworthy with large sums of money, including their money.</li>
 
       <li>Be able to plan your finances and stick to the plan.</li>
@@ -1004,7 +1009,7 @@
 
     <p>You know your spouse will need you to:</p>
 
-    <ul>
+    <ul class="list-with-bullets pl-4">
       <li>Be trustworthy with money. (Notice a theme here?)</li>
 
       <li>Be able to make and stick to a financial plan.</li>
@@ -1014,7 +1019,7 @@
 
     <p>…and you can, in fact, experience gratitude for being able to do that.</p>
 
-    <ul>
+    <ul class="list-with-bullets pl-4">
       <li>Be trustworthy with money.</li>
 
       <li>Show them the difference between good behavior and bad behavior.</li>
@@ -1074,7 +1079,7 @@
       thousands of dollars, and provided priceless gains to yourself and others.
     </p>
 
-    <h3>Let’s Be Real:</h3>
+    <h3 class="mt-4 text-3xl">Let’s Be Real:</h3>
 
     <p>
       Routine guilt from debts sucks. It wears you down. Drags your health, your energy. Means you
@@ -1179,8 +1184,8 @@
       </p>
 
       <CenteredTextBox>
-        <h2>Straight Up:</h2>
-        <h2>Debt Isn’t Sexy</h2>
+        <h2 class="mt-4 text-warning">Straight Up:</h2>
+        <h2 class="mt-4 mb-2 font-bold text-warning">Debt Isn’t Sexy</h2>
       </CenteredTextBox>
 
       <p>Sensible men and women both avoid partners who have large debts.</p>
@@ -1256,12 +1261,12 @@
       <p>It works.</p>
 
       <CenteredTextBox>
-        <h3>
+        <h3 class="mt-4 text-2xl">
           Though people who lack financially responsible habits and attitudes may still be prudent,
           their lack of practice with money has yielded bad results.
         </h3>
 
-        <h3>Yet they recognize the value of improving.</h3>
+        <h3 class="mt-4 mb-2 text-2xl">Yet they recognize the value of improving.</h3>
       </CenteredTextBox>
 
       <p>
@@ -1309,11 +1314,11 @@
 
       <p>I say in conclusion:</p>
       <CenteredTextBox>
-        <h3>Debt Isn’t Sexy. I know it isn’t, you know it isn’t.</h3>
+        <h3 class="mt-4 text-2xl">Debt Isn’t Sexy. I know it isn’t, you know it isn’t.</h3>
 
-        <h3>The only remaining question is:</h3>
+        <h3 class="mt-4 text-2xl">The only remaining question is:</h3>
 
-        <h3>What are you going to do with that information?</h3>
+        <h3 class="mt-4 text-2xl">What are you going to do with that information?</h3>
       </CenteredTextBox>
     </div>
   </PaddingBox>
@@ -1321,10 +1326,10 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
+    <div class="py-8">
       <div>
         <CenteredTextBox>
-          <h3>Now Let’s Find Out…</h3>
+          <h3 class="mb-4 text-2xl">Now Let’s Find Out…</h3>
 
           <h2>
             Who Am I To Tell You How To Guide Yourself Out Of Even The Worst Financial Ruin Of Your
@@ -1440,7 +1445,7 @@
 
 <div class="bg-light-blue">
   <WideBox>
-    <div>
+    <div class="py-8">
       <CenteredTextBox>
         <!-- //todo: all massive text -->
         <h2>
@@ -1458,7 +1463,7 @@
         <p>The answers to this question below! And also the answers to:</p>
 
         <h2>And Will It Work For You Even If:</h2>
-        <ul>
+        <ul class="list-with-bullets pl-4">
           <li>You’re A Young Adult With Low Income, or</li>
 
           <li>You’ve been in debt for years, or</li>
@@ -1522,7 +1527,7 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
+    <div class="py-8">
       <h2>
         Why It’ll Work Even If You’re A Young Adult With Low Income, Have Been In Debt For Years,
         and Have No Idea How You’ll Ever Afford A House
@@ -1538,7 +1543,7 @@
 
       <p>A young adult with low income will:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Read the guide.</li>
 
         <li>Apply the guide.</li>
@@ -1568,7 +1573,7 @@
 
       <p>A person who has been in debt for years will:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Read the guide.</li>
 
         <li>Apply the guide.</li>
@@ -1608,7 +1613,7 @@
 
       <p>A person who has no idea how they’ll afford a house will:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Read the guide.</li>
         <li>Apply the guide.</li>
 
@@ -1653,7 +1658,9 @@
 
       <div>
         <CenteredTextBox>
-          <h3>I’ll have helped you give yourself a gift that only you can give.</h3>
+          <h3 class="text-2xl">
+            I’ll have helped you give yourself a gift that only you can give.
+          </h3>
 
           <p>(Cliche, I know, but watch this…)</p>
 
@@ -1744,7 +1751,7 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
+    <div class="py-8">
       <h2>“Ok So What Exactly Is In Your Guide, Zero To Some - How To UnFukt Your Finances?”</h2>
 
       <p>
@@ -1767,7 +1774,7 @@
 
       <p>(1) In section 1, you’ll see how to adopt the right mindset. It includes:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>How the word “deserve” fits into your financial vocabulary.</li>
 
         <li>Whether you should start later or right now.</li>
@@ -1783,7 +1790,7 @@
 
       <p>(2) In section 2, you’ll learn how to get out of debt. This section includes:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Whether to do it like an avalanche or a snowball</li>
 
         <li>The difference between Bad Debt, Less Bad Debt and almost entirely benign debt…</li>
@@ -1796,7 +1803,7 @@
 
       <p>(3) In section 3, you’ll learn how to set up a budget, including:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>How to assess your situation… and why Abundance Mindsets can be misleading.</li>
 
         <li>Your Budget Basics in four easy steps.</li>
@@ -1818,7 +1825,7 @@
         success. Including:
       </p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Why Making More Money Is Always Financially Better</li>
 
         <li>How More Money Makes You More Robust (less likely to be harmed by misfortune)</li>
@@ -1863,7 +1870,7 @@
 
 <div class="bg-light-blue">
   <WideBox>
-    <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
+    <div class="px-2 sm:px-8 lg:px-18 xl:px-40 py-8">
       <p>Now…</p>
 
       <h2>
@@ -1896,18 +1903,18 @@
       <li>Being able to help your kids make the most of their childhood.</li>
       <p>Value: Priceless. But let’s say $26,000.</p>
 
-      <h2>Total value: $36,000</h2>
+      <h2 class="mt-4">Total value: $36,000</h2>
 
-      <h3>Yet today the guide will be yours for only $100.</h3>
+      <h3 class="mt-4 text-2xl">Yet today the guide will be yours for only $100.</h3>
     </div>
     <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
-      <h4>But the question remains: Why invest in changing your life?</h4>
+      <h4 class="mb-4 text-2xl">But the question remains: Why invest in changing your life?</h4>
 
       <h2>Why Act Now?</h2>
 
       <p>Here’s why:</p>
 
-      <h2>Reminder: You stumbled upon this page by chance.</h2>
+      <h2 class="mt-2">Reminder: You stumbled upon this page by chance.</h2>
 
       <p>
         You didn’t really know you were on your way here before you decided to look at the page.
@@ -1917,7 +1924,7 @@
 
       <p>And at this point, we’ve talked about:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>
           Why your parents, if you are lucky enough to still have them, need to up your game
           financially.
@@ -1978,8 +1985,10 @@
       <p>The longer you wait, the more your net worth suffers.</p>
     </div>
 
-    <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
-      <h2>So do you have to take this opportunity to change right now? Right this second?</h2>
+    <div class="px-2 sm:px-8 lg:px-18 xl:px-40 pb-8">
+      <h2 class="mt-4">
+        So do you have to take this opportunity to change right now? Right this second?
+      </h2>
 
       <p>
         Are you a self disciplined winner already? Perhaps the most disciplined winner you’ll ever
@@ -2046,8 +2055,8 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
-      <h2>
+    <div class="py-8">
+      <h2 class="text-center">
         “Nah, I’m too busy to get that guide right now. I am too busy to buy a PDF from the
         Internet. I am too busy to act on under 3 hours of advice a month to get out of debt.”
       </h2>
@@ -2057,7 +2066,7 @@
         <CenteredTextBox>
           <p>I remind you:</p>
 
-          <h3>Spending less money takes less time, not more time.</h3>
+          <h3 class="mt-4 text-2xl">Spending less money takes less time, not more time.</h3>
 
           <p>The act of spending itself is a time sink.</p>
 
@@ -2069,10 +2078,10 @@
 
       <p>But if your real reason you aren’t yet certain you want the guide go something like:</p>
 
-      <h2>“Nah, I’m not sure I’ll get the return on investment I’m promised”...</h2>
+      <h2 class="mt-4">“Nah, I’m not sure I’ll get the return on investment I’m promised”...</h2>
 
       <p>I’m here to tell you:</p>
-      <ul>
+      <ul class="pl-4">
         <li>(1) You receive a 30 day money back guarantee.</li>
 
         <li>
@@ -2084,7 +2093,7 @@
         <CenteredTextBox>
           <p>Let’s talk about that.</p>
 
-          <h3>Regarding point #2:</h3>
+          <h3 class="mt-4 text-2xl">Regarding point #2:</h3>
 
           <p>
             You are already the type of person who would make use of the guide. Or else you would
@@ -2101,7 +2110,9 @@
 
           <p>But you can make it a guarantee yourself.</p>
 
-          <h3>Extension of point #2, about the 30 day money back guarantee:</h3>
+          <h3 class="text-2xl mt-4">
+            Extension of point #1, about the 30 day money back guarantee:
+          </h3>
 
           <p>You are entitled to buy the guide, use the guide, try it out…</p>
 
@@ -2110,11 +2121,11 @@
             to receive…
           </p>
 
-          <h3>A Full Refund!</h3>
+          <h3 class="mt-4 text-3xl">A Full Refund!</h3>
 
           <p>(“Dude Trust Me” is acceptable proof. I'll take your word for it.)</p>
 
-          <p>Now, with that refund offer out of the way…</p>
+          <p>Now, with that out of the way…</p>
         </CenteredTextBox>
       </div>
     </div>
@@ -2135,7 +2146,10 @@
       <h2>Right now…</h2>
       <h2>And responses to them.</h2>
 
-      <h3>Thought: “Effer, I am too busy to act on the advice in your guide.”</h3>
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: “Effer, I am too busy to act on the advice in your
+        guide.”
+      </h3>
 
       <p>
         That’s right! Your life may, in fact, be super busy. I can’t tell from this side of the
@@ -2154,7 +2168,7 @@
 
       <p>From there, the only change you have to make to your schedule is:</p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>(a) Add some more income generating activities, or</li>
 
         <li>(b) Reduce your spending to get yourself out of debt, and then</li>
@@ -2169,7 +2183,7 @@
         Choosing to make more income usually takes time, true. Yet choosing to spend less for a few
         months or years while you work yourself out of debt… Takes less time, because you avoid:
       </p>
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Having to think about the purchase</li>
 
         <li>Having to use the purchase</li>
@@ -2189,268 +2203,286 @@
 
       <p>In fact, you can promise yourself all that even if you believe…</p>
 
-      <h3>Thought: This won’t work for me</h3>
+      <h3 class="mt-4 text-2xl"><span class="underline">Thought</span>: This won’t work for me</h3>
 
       <p>
         Your success with the guide is up to you. However I encourage you to ask yourself: but why?
         Why won’t it work for you? Be specific. For instance:
       </p>
 
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>Do you lack the time?</li>
 
         <li>Do you lack the desire?</li>
 
         <li>Do you lack the belief that you can pull it off?</li>
-
-        <p>
-          If you find yourself saying “yes, yes” to any of those questions, you are encouraged to
-          re-read the rest of the page and look for the time, the desire, or the belief that you can
-          pull it off in the pages.
-        </p>
-
-        <p>
-          What you can believe is that paying off debt and investing in the future are both good
-          behaviors that are self-reinforcing.
-        </p>
-
-        <p>
-          If you’ll allow yourself to start, and allow yourself to proceed, you will get the victory
-          you’re after.
-        </p>
-
-        <p>It will become automatic.</p>
-
-        <p>You will build the habit and character into yourself of your own doing.</p>
-
-        <p>And speaking of character…</p>
-
-        <h3>Thought: This will make me into a Scrooge.</h3>
-
-        <p>That may happen. Nothing in the guide talks about avoiding becoming Scrooge himself.</p>
-
-        <p>
-          Yet the way you are now will get you somewhere worse. Scrooge is a rich penny pincher, but
-          being in debt your whole life means you pinch pennies anyway.
-        </p>
-
-        <p>So if the next thought seems relevant to you also, you should read that segment too…</p>
-
-        <h3>Thought: I don’t have enough income for this advice to be relevant.</h3>
-
-        <p>
-          If you don’t have enough income for this advice to be relevant now, you also won’t have
-          enough income for the guide later. Because you’ll never learn how easy it can be to get
-          there… from the guide!
-        </p>
-
-        <p>
-          If you don’t build good financial habits while you lack money, you’ll always lack money.
-          The future where you have enough money for building good financial habits will never
-          arrive. It’s a catch 22.
-        </p>
-
-        <p>
-          Think about it. What happens when you spend guiltlessly, take no care for wisdom, and
-          still manage to progress from whatever income level you’re at now, to 30% more? To 80%
-          more?
-        </p>
-
-        <p>
-          If you still suck at budgeting and investing, at making good choices, when you have more
-          income than you do now…
-        </p>
-
-        <p>
-          You’ll end up with the same things you have now: Debts and a way-too-tiny investment
-          account.
-        </p>
-
-        <h3>Thought: I don’t need to save for a house yet, OR…</h3>
-
-        <h3>Thought: I don’t know if I’ll want to buy a house.</h3>
-
-        <p>
-          That is completely fine. You don’t need to want to buy a house to make investing in your
-          future and your family’s future worthwhile.
-        </p>
-
-        <p>
-          It’s up to you what you do with the guide, but a house would have been an obvious choice
-          for most readers, so I put it in there. You can go without or skip the “buy a house” part.
-        </p>
-
-        <p>
-          Everyone is welcome to use the guide to pay off debts and learn to invest, even you just
-          want to:
-        </p>
-
-        <ul>
-          <li>Stop losing $86 a month to debt payments</li>
-
-          <li>Start putting away $100 a month of savings or investments</li>
-
-          <p>
-            Incidentally, if you wonder whether you’ll ever even want your own house, I recommend
-            reading the response to the following thought as well…
-          </p>
-
-          <h3>Thought: I don’t need to think about my kids’ future yet OR</h3>
-
-          <h3>Thought: I don’t know if I’ll have kids.</h3>
-
-          <p>
-            One thing I learned when I was young man was that I can’t accurately predict what I’ll
-            want in the future.
-          </p>
-
-          <p>
-            I learned by making both right and wrong moves that had permanently life-changing
-            consequences. (Not mentioned on the page, by the way!)
-          </p>
-
-          <p>
-            I learned by realizing, time after time, that I had neglected preparation for my current
-            problems & opportunities… all by failing to recognize that one day, I might really wish
-            I had been prepared for the desire.
-          </p>
-
-          <p>
-            The lesson is that it is possible to fail to prepare for something you develop the
-            desire to have later, not now.
-          </p>
-
-          <p>Now:</p>
-
-          <p>Are you able to see yourself in that story?</p>
-
-          <p>If so, you tell me what you should do about it…</p>
-
-          <p>
-            And on the topic of what you should do about it, the following thought might still get
-            in your way somehow, so let’s address it…
-          </p>
-
-          <h3>Thought: Saving and investing money isn’t important.</h3>
-
-          <p>
-            If you read the whole page or even most of it and you are still 100% convinced the
-            thought is true, you are invited to go do something else; my guide is not for you.
-          </p>
-
-          <p>However, the entire page is dedicated to conflict with the belief.</p>
-
-          <p>
-            You have ample opportunity to re-read the page and think about the statement, and
-            whether it is true or false.
-          </p>
-
-          <p>
-            Maybe you’re an Ultra High Net Worth Individual. If so, maybe you inherited enough
-            financially responsible habits that the guide would be useless to you. Because it’s
-            already “built in.”
-          </p>
-
-          <p>
-            But if not, to be blunt, I don’t know how you can read the whole page and still believe
-            this. Really. Do it and see what you believe when you’re done.
-          </p>
-
-          <p>It is a long page, so take your time.</p>
-
-          <p>And speaking of taking your time reading things…</p>
-
-          <h3>Thought: “It’s 100 pages long? I won’t be able to finish it.”</h3>
-
-          <p>
-            A 10 page guide would be more finishable. However, you wouldn’t get enough actionable
-            advice to actually implement the advice. In contrast, this guide will take you from
-            where you’re at – wherever that is – and go with you for years.
-          </p>
-
-          <p>
-            You can also choose to consume the guide in ten minutes a week for twenty weeks, for a
-            total of 200 minutes of invested time. You would begin receiving the upsides of reading
-            the guide immediately.
-          </p>
-
-          <h3>Thought: I’ll buy it and won’t apply it.</h3>
-
-          <p>
-            That is up to you. I can’t make you apply it. However, you should know that there are
-            clearly given actions to take at the end of each chapter.
-          </p>
-
-          <p>
-            You should also know that if you break the task of following the guide down into clear,
-            actionable, appealing and bite-sized steps, you will want to use the guide.
-          </p>
-
-          <p>
-            Finally, you are invited to press Ctrl + S and save the whole page to remind yourself of
-            why you chose to invest in yourself and your future.
-          </p>
-
-          <p>
-            Because if you re-read it every few months, you’ll never ever have the following
-            thought:
-          </p>
-
-          <h3>Thought: The cost of applying the guide is too high.</h3>
-
-          <p>
-            The immediate and short term costs are indeed large and will take you a lot of time,
-            money and other resources you suppose you cannot get back.
-          </p>
-
-          <p>
-            You have every reason to wonder about whether the cost is too big for the expected
-            returned value it will provide.
-          </p>
-
-          <p>
-            However, as a responsible saver and investor myself, I want to tell you my real opinion
-            on the matter:
-          </p>
-
-          <p>
-            The cost isn’t too high. You don’t have any better way to sacrifice in the Money
-            category:
-          </p>
-
-          <p>The time it takes is negligible compared to the time it will free up later.</p>
-
-          <p>
-            The money is negligible compared to the money the decision will return back to you over
-            time. The energy you’ll spend is less than the energy you’ll gain by being stress-free
-            about money.
-          </p>
-
-          <p>
-            I’ll say it once more so I’m sure I said it at least once in response to all these
-            worries and concerns: If you get the guide, and you try several times to apply the
-            guide, and you encounter trouble…
-          </p>
-
-          <p>
-            You are welcome to DM me for further instructions. I don’t promise I’ll respond right
-            away, or the very first time you message me. But as a customer, if I recognize you, you
-            will get help.
-          </p>
-        </ul>
       </ul>
+
+      <p>
+        If you find yourself saying “yes, yes” to any of those questions, you are encouraged to
+        re-read the rest of the page and look for the time, the desire, or the belief that you can
+        pull it off in the pages.
+      </p>
+
+      <p>
+        What you can believe is that paying off debt and investing in the future are both good
+        behaviors that are self-reinforcing.
+      </p>
+
+      <p>
+        If you’ll allow yourself to start, and allow yourself to proceed, you will get the victory
+        you’re after.
+      </p>
+
+      <p>It will become automatic.</p>
+
+      <p>You will build the habit and character into yourself of your own doing.</p>
+
+      <p>And speaking of character…</p>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: This will make me into a Scrooge.
+      </h3>
+
+      <p>That may happen. Nothing in the guide talks about avoiding becoming Scrooge himself.</p>
+
+      <p>
+        Yet the way you are now will get you somewhere worse. Scrooge is a rich penny pincher, but
+        being in debt your whole life means you pinch pennies anyway.
+      </p>
+
+      <p>So if the next thought seems relevant to you also, you should read that segment too…</p>
+
+      <h3 class="text-2xl">
+        <span class="underline">Thought</span>: I don’t have enough income for this advice to be
+        relevant.
+      </h3>
+
+      <p>
+        If you don’t have enough income for this advice to be relevant now, you also won’t have
+        enough income for the guide later. Because you’ll never learn how easy it can be to get
+        there… from the guide!
+      </p>
+
+      <p>
+        If you don’t build good financial habits while you lack money, you’ll always lack money. The
+        future where you have enough money for building good financial habits will never arrive.
+        It’s a catch 22.
+      </p>
+
+      <p>
+        Think about it. What happens when you spend guiltlessly, take no care for wisdom, and still
+        manage to progress from whatever income level you’re at now, to 30% more? To 80% more?
+      </p>
+
+      <p>
+        If you still suck at budgeting and investing, at making good choices, when you have more
+        income than you do now…
+      </p>
+
+      <p>
+        You’ll end up with the same things you have now: Debts and a way-too-tiny investment
+        account.
+      </p>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: I don’t need to save for a house yet, OR…
+      </h3>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: I don’t know if I’ll want to buy a house.
+      </h3>
+
+      <p>
+        That is completely fine. You don’t need to want to buy a house to make investing in your
+        future and your family’s future worthwhile.
+      </p>
+
+      <p>
+        It’s up to you what you do with the guide, but a house would have been an obvious choice for
+        most readers, so I put it in there. You can go without or skip the “buy a house” part.
+      </p>
+
+      <p>
+        Everyone is welcome to use the guide to pay off debts and learn to invest, even you just
+        want to:
+      </p>
+
+      <ul class="list-with-bullets pl-4">
+        <li>Stop losing $86 a month to debt payments</li>
+
+        <li>Start putting away $100 a month of savings or investments</li>
+      </ul>
+
+      <p>
+        Incidentally, if you wonder whether you’ll ever even want your own house, I recommend
+        reading the response to the following thought as well…
+      </p>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: I don’t need to think about my kids’ future yet OR
+      </h3>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: I don’t know if I’ll have kids.
+      </h3>
+
+      <p>
+        One thing I learned when I was young man was that I can’t accurately predict what I’ll want
+        in the future.
+      </p>
+
+      <p>
+        I learned by making both right and wrong moves that had permanently life-changing
+        consequences. (Not mentioned on the page, by the way!)
+      </p>
+
+      <p>
+        I learned by realizing, time after time, that I had neglected preparation for my current
+        problems & opportunities… all by failing to recognize that one day, I might really wish I
+        had been prepared for the desire.
+      </p>
+
+      <p>
+        The lesson is that it is possible to fail to prepare for something you develop the desire to
+        have later, not now.
+      </p>
+
+      <p>Now:</p>
+
+      <p>Are you able to see yourself in that story?</p>
+
+      <p>If so, you tell me what you should do about it…</p>
+
+      <p>
+        And on the topic of what you should do about it, the following thought might still get in
+        your way somehow, so let’s address it…
+      </p>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: Saving and investing money isn’t important.
+      </h3>
+
+      <p>
+        If you read the whole page or even most of it and you are still 100% convinced the thought
+        is true, you are invited to go do something else; my guide is not for you.
+      </p>
+
+      <p>However, the entire page is dedicated to conflict with the belief.</p>
+
+      <p>
+        You have ample opportunity to re-read the page and think about the statement, and whether it
+        is true or false.
+      </p>
+
+      <p>
+        Maybe you’re an Ultra High Net Worth Individual. If so, maybe you inherited enough
+        financially responsible habits that the guide would be useless to you. Because it’s already
+        “built in.”
+      </p>
+
+      <p>
+        But if not, to be blunt, I don’t know how you can read the whole page and still believe
+        this. Really. Do it and see what you believe when you’re done.
+      </p>
+
+      <p>It is a long page, so take your time.</p>
+
+      <p>And speaking of taking your time reading things…</p>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: “It’s 100 pages long? I won’t be able to finish it.”
+      </h3>
+
+      <p>
+        A 10 page guide would be more finishable. However, you wouldn’t get enough actionable advice
+        to actually implement the advice. In contrast, this guide will take you from where you’re at
+        – wherever that is – and go with you for years.
+      </p>
+
+      <p>
+        You can also choose to consume the guide in ten minutes a week for twenty weeks, for a total
+        of 200 minutes of invested time. You would begin receiving the upsides of reading the guide
+        immediately.
+      </p>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: I’ll buy it and won’t apply it.
+      </h3>
+
+      <p>
+        That is up to you. I can’t make you apply it. However, you should know that there are
+        clearly given actions to take at the end of each chapter.
+      </p>
+
+      <p>
+        You should also know that if you break the task of following the guide down into clear,
+        actionable, appealing and bite-sized steps, you will want to use the guide.
+      </p>
+
+      <p>
+        Finally, you are invited to press Ctrl + S and save the whole page to remind yourself of why
+        you chose to invest in yourself and your future.
+      </p>
+
+      <p>
+        Because if you re-read it every few months, you’ll never ever have the following thought:
+      </p>
+
+      <h3 class="mt-4 text-2xl">
+        <span class="underline">Thought</span>: The cost of applying the guide is too high.
+      </h3>
+
+      <p>
+        The immediate and short term costs are indeed large and will take you a lot of time, money
+        and other resources you suppose you cannot get back.
+      </p>
+
+      <p>
+        You have every reason to wonder about whether the cost is too big for the expected returned
+        value it will provide.
+      </p>
+
+      <p>
+        However, as a responsible saver and investor myself, I want to tell you my real opinion on
+        the matter:
+      </p>
+
+      <p>
+        The cost isn’t too high. You don’t have any better way to sacrifice in the Money category:
+      </p>
+
+      <p>The time it takes is negligible compared to the time it will free up later.</p>
+
+      <p>
+        The money is negligible compared to the money the decision will return back to you over
+        time. The energy you’ll spend is less than the energy you’ll gain by being stress-free about
+        money.
+      </p>
+
+      <p>
+        I’ll say it once more so I’m sure I said it at least once in response to all these worries
+        and concerns: If you get the guide, and you try several times to apply the guide, and you
+        encounter trouble…
+      </p>
+
+      <p>
+        You are welcome to DM me for further instructions. I don’t promise I’ll respond right away,
+        or the very first time you message me. But as a customer, if I recognize you, you will get
+        help.
+      </p>
     </div>
   </PaddingBox>
 </StandardBox>
 
 <StandardBox>
   <PaddingBox>
-    <CenteredTextBox>
-      <h2>Are You Ready?</h2>
+    <div>
+      <h2 class="mt-4 mb-4 text-4xl">Are You Ready?</h2>
 
       <h2>To Know The Path</h2>
       <h2>To A Successful & Responsible</h2>
-      <h2>Financial Future?</h2>
+      <h2 class="mb-4">Financial Future?</h2>
 
       <p>If you read the whole page, or even half of it, then by this point…</p>
 
@@ -2480,8 +2512,10 @@
 
       <p>If so, tell me:</p>
 
-      <BigBeautifulButton />
-    </CenteredTextBox>
+      <div class="mb-24 mt-8 flex justify-center">
+        <BigBeautifulButton />
+      </div>
+    </div>
   </PaddingBox>
 </StandardBox>
 
@@ -2489,7 +2523,7 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
+    <div class="mb-40">
       <h2>
         P.S. Are you someone who scrolls immediately to the bottom of the page instead of reading
         it?
@@ -2498,7 +2532,7 @@
       <p>Here’s the high level summary of what you missed:</p>
 
       <p>Becoming financially responsible is good for:</p>
-      <ul>
+      <ul class="list-with-bullets pl-4">
         <li>You</li>
 
         <li>Your mom and/or dad.</li>
@@ -2530,7 +2564,9 @@
 
       <p>If so, use the button:</p>
 
-      <BigBeautifulButton />
+      <div class="flex justify-center">
+        <BigBeautifulButton />
+      </div>
     </div>
   </PaddingBox>
 </StandardBox>
@@ -2552,6 +2588,7 @@
 
   .list-with-bullets > li {
     font-size: 20px;
+    list-style-type: disc;
   }
 
   p,
