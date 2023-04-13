@@ -531,6 +531,662 @@
         <p>Do you want a long, long, thirty year streak of win, after win, after win?</p>
         <p>Do you want your L’s to be fewer, less frequent, smaller?</p>
       </div>
+
+      <p>
+        Yes, you have to do the eight hours of setup, and then talk yourself out of disturbing the
+        routine once it gets itself going.
+      </p>
+      <p>No, it isn’t easy to start for every single person who does it.</p>
+      <p>
+        Yet if the text on this page is right for you, you will manage to pull off becoming a
+        disciplined winner.
+      </p>
+
+      <!-- //todo: center text -->
+      <p>
+        If the page speaks to you, seems like it’s about you, seems like the “wow, this reader cares
+        about his family” part is in fact about you…
+      </p>
+
+      <p>You have what it takes to be the Disciplined Winner described in the section title.</p>
+
+      <h3>Remember:</h3>
+
+      <h3>If your life is long and happy and filled with successes…</h3>
+
+      <h3>One day, you’re gonna be OLD.</h3>
+
+      <p>
+        What are you willing to do to make sure that old version of you, the old version who is
+        physically and mentally frail, has a LOT of excess cash?
+      </p>
+      <p>When the hair on your head is old and gray…</p>
+      <p>And you need someone to help you walk up the stairs…</p>
+      <p>Do you want your kids to have to take time out of the day to help you?</p>
+      <p>Which of these two sets of options sounds better to you?</p>
+
+      <p>Which set of options do you prefer?</p>
+      <div>
+        <div>
+          <h3>Set of Options #1</h3>
+          <ul>
+            <li>You have to ask your kids for money to keep ownership of your tiny apartment.</li>
+            <li>You are accurately described by “did not amount to much.”</li>
+            <li>You’ll never leave anything to your kids when you die.</li>
+            <li>
+              You were haunted by memories of how you failed to give your parents’ any money back in
+              thanks for all they did for you. For decades.
+            </li>
+            <li>
+              You were haunted by memories of your kids having less than other kids on the block.
+              For decades.
+            </li>
+            <li>They learned from your mistakes, not your successes.</li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Set of Options #2</h3>
+          <ul>
+            <li>Your kids learned what everyday greatness looks like by watching you.</li>
+            <li>
+              Your grandkids had lots of happy stories from you about times your strengths
+              overwhelmed your weaknesses.
+            </li>
+            <li>
+              You give your kids money every time they ask, which is rare, because you taught them
+              well.
+            </li>
+            <li>You donate to charities you support in your spare time.</li>
+            <li>
+              You LOVE yourself for all the work you did on your character in your
+              whatever-decade-of-life-you’re-in-now.
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <h3>Attention: The second set of options is remarkably, undeniably better!</h3>
+
+      <p>
+        You will adapt to the improvements you make, as a result of choosing to become financially
+        responsible. You will adapt to the changes, and they will become nearly permanent. Close,
+        but not actually. You could slip up and spiral downwards. It’s true.
+      </p>
+      <p>
+        What’s also true is that the calm about your financial concerns will reappear over and over.
+      </p>
+      <p>Because you actively take steps to solve your financial woes…</p>
+      <p>You will eventually subdue your nagging, seemingly lifelong financial fears.</p>
+      <p>They’ll disappear entirely for months at a time.</p>
+      <p>But not for good, no, not for good.</p>
+      <p>Because fear about your financial future is natural.</p>
+      <p>Ancient farmers understood that if they did not protect their harvests well…</p>
+      <p>They would not eat.</p>
+      <p>Ancient hunters understood that if they stalked the same terrain too long…</p>
+      <p>They would not eat.</p>
+      <p>
+        Because of this built-in tendency to fear the future, you absolutely will not be free of
+        financial concerns forever.
+      </p>
+      <p>Yet it will be easier to deal with.</p>
+      <p>You’ll suffer less.</p>
+      <p>Your defeats will be fewer and easier to deal with.</p>
+      <p>
+        And the victory you experience as a result of building up even four thousand dollars into
+        your investment accounts…
+      </p>
+      <p>
+        Will quickly spiral out of control in the good direction if you permit yourself to let it
+        happen.
+      </p>
+      <p>I say again:</p>
+      <p>You have to give yourself permission to succeed.</p>
+    </div>
+    <div>
+      <h2>The Fully Automated Habit That Your Children Will Thank You For</h2>
+
+      <p>
+        Given that your children will thank you for your success in various ways… Will you give
+        yourself permission to succeed in this domain?
+      </p>
+      <p>
+        We’ve talked about the financial habit being “fully automated.” Meaning you will
+        automatically carry out the behavior.
+      </p>
+      <p>
+        You won’t have to think about whether it’s worth it. You won’t have to think about whether
+        it’s doable. You won’t have to talk yourself into getting it done. You’ll just do it.
+      </p>
+      <p>
+        You’ll discover that it is possible to become that person, and in fact guaranteed if you
+        choose to guarantee it.
+      </p>
+      <p>
+        You’ll discover that you had the capacity to be that magnificent inside of you all along.
+      </p>
+      <p>
+        What that means is that, when it comes time to teach your children to be financially
+        responsible, you’ll know all the ins and outs of how a person pulls it off.
+      </p>
+      <p>
+        You’ll be able to tell them which challenges they’ll encounter. You’ll be able to tell them
+        how to get it done. You’ll be able to tell them how to go around the challenges, go over the
+        challenges, how to push through the challenges.
+      </p>
+      <p>
+        If the challenge of financial responsibility was a wall with no way to go around it, or over
+        it, you’d be able to show them how to push on the wall so hard that it breaks, shatters,
+        crumbles, in opposition to the force applied to that wall. All to get to the glory on the
+        other side.
+      </p>
+      <p>You’ll know how to break through the wall because you did it yourself.</p>
+      <p>You’ll know how to dig through it when all you have is a rusty spoon to dig with.</p>
+      <p>Because you did it yourself already.</p>
+      <p>
+        The metaphor is accurate. You yourself have, at best, only an idea of how to become
+        financially responsible. (Or else you would have realized the page was irrelevant to you by
+        now.)
+      </p>
+      <p>Yet if you continue reading, you’ll discover how it’s possible that, in a few years…</p>
+      <p>
+        You’ll have changed so much that you would have been happy to pay $5,000 to change that way.
+      </p>
+      <p>
+        And then you’ll be able to show your children, when it comes time to show them, how it’s
+        done.
+      </p>
+      <p>They will know it was possible, because you’ll be able to tell them:</p>
+      <p>
+        “When I was young, I had debts. I had the wrong habits. The wrong routines. The wrong
+        rules.”
+      </p>
+      <p>
+        “I made myself better. Built myself up from nothing with a guide I found on the Internet.”
+      </p>
+      <p>
+        “I still have the guide that taught me to do it. It’s yours if you want it. I’ll tell you
+        how I did it so you can learn from it. *If* you do what I say, and *if* you work on
+        understanding why following the advice is a wise decision, it will work for you too.”
+      </p>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<WideBox>
+  <!-- // todo: big wide red box -->
+  <!-- // todo: centered text box -->
+  <div>
+    <h3>Would you like to be able to live this story?</h3>
+
+    <p>Make it real?</p>
+    <p>What would financial success be worth to you?</p>
+    <p>Here’s the answer I would give if the story were about me and my children:</p>
+    <p>Everything.</p>
+
+    <!-- // fixme: make this text REALLY BIG. -->
+    <h2>If You Read This Far, It’s Time For The Big Reveal</h2>
+
+    <p>The entire document you’re reading right now is not “just” about finances.</p>
+    <p>It’s about love.</p>
+    <p>
+      Do you love yourself enough to follow a guide given to you from an expert in debt reduction
+      and net worth enhancement?
+    </p>
+    <p>
+      Are you willing to do a little work (but truthfully not much) every month or two to manage
+      your own behavior…
+    </p>
+    <p>So that your current or future spouse can rely on you when they need to?</p>
+    <p>
+      So that your current or future kids can trust you to teach them about care and responsibility?
+    </p>
+    <p>
+      If you answer affirmatively, and yet you recognize that some challenges are guaranteed along
+      the way…
+    </p>
+    <p>You are saying that yourself and your family are entirely, entirely worth doing this for.</p>
+    <p>(And if you can't will yourself to do it, it’s still about love. Just in another way.)</p>
+    <p>
+      Whether you do or don’t, you must acknowledge, at the minimum, that choosing to do so would be
+      a firmly affirmative sign…
+    </p>
+    <p>That you want to be a hero for somebody!</p>
+    <p>Out of love.</p>
+  </div>
+</WideBox>
+
+<StandardBox
+  ><PaddingBox>
+    <div>
+      <h2>A Reminder of What This Is About</h2>
+
+      <p>
+        Here are some experiences you can reasonably expect to achieve while using and applying the
+        previously mentioned guide:
+      </p>
+
+      <h3>The Joys of Changing For The Better</h3>
+
+      <ul>
+        <li>
+          The joy of looking at a bank account that has increased 11 months out of 12 for six
+          straight years. (You missed a payment in February; no one’s perfect.)
+        </li>
+        <li>
+          Retiring early at the age of 49, early enough to spend all the time you want with your
+          grandkids if and when you have them
+        </li>
+        <li>
+          Earn $30,000/year passively from investments even though people making 5x your income
+          “don’t think it’s possible for them to save” and then list a bunch of excuses. (Spoiler:
+          That number is very doable.)
+        </li>
+
+        <li>Get addicted to progressing, not regressing.</li>
+      </ul>
+
+      <p>Now compare that to the next list:</p>
+
+      <h3>Pains of staying the same</h3>
+      <ul>
+        <li>Looking at credit card debt piling up</li>
+        <li>
+          Conflict between the desire to enjoy life and the guilt/sting of more credit card debt
+        </li>
+
+        <li>The pain of knowing that “even if I start now, I’ll already be behind”</li>
+      </ul>
+
+      <p>
+        In case the previous Joys of Success list wasn’t clear what this is about, here’s another
+        list:
+      </p>
+      <h4>Would you rather have…</h4>
+
+      <li>
+        Conversation with a loved one about how they want to go out and spend, but you can’t join
+        them because of debt.
+      </li>
+
+      <h4>Or…</h4>
+
+      <li>
+        Conversation with a loved one about how they’re “really pleased” with their net worth
+        growing “automatically” because of interest.
+      </li>
+
+      <h4>This…</h4>
+      <li>
+        The older version of yourself, at age 60, wrinkles on your face and grey in your hair, still
+        stuck going to work every day because you didn’t save up.
+      </li>
+
+      <h4>Or this?</h4>
+      <ul>
+        <li>
+          That same older version of yourself, but you’re retired, laying on the couch at 11 am,
+          having a nap on a Tuesday.
+        </li>
+
+        <li>
+          Seeing interest added to the savings account every month. “+$30.97” on top of money you
+          already add to routinely.
+        </li>
+      </ul>
+    </div>
+    <div>
+      <h2>If You’ve Read This Far… Do You Get It Yet?</h2>
+
+      <p>
+        A debtor is getting themselves into a situation that's harder and harder to escape. Means
+        they get closer to a life where:
+      </p>
+      <ul>
+        <li>They have to say no to fun social outings because they can’t afford it</li>
+
+        <li>They can’t replace something that breaks because they can’t afford it</li>
+
+        <li>Lovers won’t marry them because it means adopting all their debt</li>
+      </ul>
+
+      <p>
+        Yes, investing means the same at first, but for different reasons. Going somewhere good vs
+        not going somewhere bad.
+      </p>
+
+      <p>
+        Meanwhile, an investor is getting themselves into a situation thats better and better and
+        better. It snowballs. Until one day in the future they can:
+      </p>
+
+      <ul>
+        <li>Spend as much as 30x a month what they’d be able to if they were bad with money</li>
+
+        <li>Go out with friends whenever they want to</li>
+
+        <li>Enjoy high quality household items (that last a long time)</li>
+
+        <li>Spend lavishly on their spouse when they want to</li>
+      </ul>
+
+      <p>
+        Yes, it means sacrificing some now for more later. But that’s life. You get better by
+        sacrificing.
+      </p>
+      <p>So:</p>
+
+      <p>Which type of person do you want to be?</p>
+    </div>
+  </PaddingBox></StandardBox
+>
+
+<StandardBox
+  ><PaddingBox>
+    <!-- // todo: centered text box (whole thing) -->
+    <div>
+      <h2>Ask yourself what this would be like:</h2>
+
+      <h2>Not only seen as irresponsible, but in truth, a dependably undependable person.</h2>
+
+      <h3>“Even when I come across money, I lose it within a few weeks or months.”</h3>
+
+      <p>Is that who you want to be?</p>
+
+      <p>Would that be good?</p>
+
+      <p>What if you could become the opposite?</p>
+
+      <p>You’d enjoy comments like:</p>
+
+      <p>“So dependable I don’t know what I’d do without him!”</p>
+
+      <p>“My dad/husband/son got out of debt over six years ago.”</p>
+
+      <p>“My mother has protected me from lots of financial hardship…”</p>
+
+      <p>“As long as I’ve known her, her finances have always been in order.”</p>
+
+      <p>High net worth is significantly better than the alternative:</p>
+
+      <p>You are lying to yourself if you think it isn’t.</p>
+
+      <!-- // todo: huge huge text -->
+      <h2>Burdened by debt, unable to be depended on by others.</h2>
+
+      <h2>Is that who you want to be?</h2>
+
+      <h2>No, it’s not who you want to be.</h2>
+
+      <h3>You want to be great… or as great as you can.</h3>
+
+      <h3>And you’re here to find out that it is possible.</h3>
+
+      <p>
+        Because you know that some day your kids, your spouse, your mom or your dad, will need you.
+      </p>
+
+      <p>They’ll need you to be:</p>
+
+      <p>Trustworthy.</p>
+
+      <p>Dependable.</p>
+
+      <p>Responsible.</p>
+
+      <p>Resourceful.</p>
+
+      <p>Reliable.</p>
+
+      <p>Prudent.</p>
+
+      <h3>Now:</h3>
+
+      <h3>Let’s do something to really drive the point home:</h3>
+    </div>
+  </PaddingBox></StandardBox
+>
+
+<WideBox>
+  <div>
+    <h2>Think of an image of a lighthouse.</h2>
+
+    <p>
+      A lighthouse, standing tall and shining its light off into the distance. Sailing ships use the
+      lighthouse to guide them home and keep them safe during turbulent storms. The lighthouse is
+      strong and dependable. They are trusted and accountable for keeping sailors safe.
+    </p>
+
+    <p>
+      Similarly, a person who saves and invests regularly, and avoids credit card debt, acts as a
+      beacon of safety.
+    </p>
+
+    <p>They guide the way.</p>
+
+    <p>
+      This person guards themselves and their family from disasters. You trust them to guide you
+      through the unknown, and always be there for you.
+    </p>
+
+    <p>
+      Even when you have financial trouble, you trust that this person will be solid, dependable,
+      and prevent disorder from taking over. They provide a model of good behavior to follow and
+      learn from.
+    </p>
+
+    <p>You might know someone like this, or you might not.</p>
+
+    <p>
+      If you don’t know someone like that, you could ask a handful of people if they know a person
+      like that. About thirty percent of them will say yes.
+    </p>
+
+    <p>
+      However you learn about this type of person, you’ll find that they are cherished, loved, and
+      appreciated.
+    </p>
+
+    <p>They do a lot for their families.</p>
+
+    <p>Their friends recognize them as dependable.</p>
+
+    <p>Would you like to be one of these reliable types?</p>
+
+    <p>
+      Would you be willing to become a beacon of safety, even if just financially, for yourself and
+      your family?
+    </p>
+
+    <p>Because you know your parents need you to:</p>
+
+    <ul>
+      <li>Be trustworthy with large sums of money, including their money.</li>
+
+      <li>Be able to plan your finances and stick to the plan.</li>
+
+      <li>Be ready to support them when they’re old, both financially and with your time.</li>
+    </ul>
+
+    <p>…and you can, in fact, experience gratitude for being able to do that.</p>
+
+    <p>You know your spouse will need you to:</p>
+
+    <ul>
+      <li>Be trustworthy with money. (Notice a theme here?)</li>
+
+      <li>Be able to make and stick to a financial plan.</li>
+
+      <li>Be ready to support them in case of an accident or tragedy.</li>
+    </ul>
+
+    <p>…and you can, in fact, experience gratitude for being able to do that.</p>
+
+    <ul>
+      <li>Be trustworthy with money.</li>
+
+      <li>Show them the difference between good behavior and bad behavior.</li>
+
+      <li>
+        Help them understand that saving for a major expenditure, like a car or a school payment, is
+        doable even on minimum wage.
+      </li>
+    </ul>
+
+    <p>
+      …and you’ll experience immense, humongous, great giant heaping piles of gratitude for being
+      able to do that for them.
+    </p>
+
+    <p>So you do want to be someone who can step up to support a family member.</p>
+
+    <p>
+      You want to be so reliable that, when tragedy strikes, the tragedy is already minimized by
+      your preparedness.
+    </p>
+
+    <p>
+      Yes, it seems unrealistic for an achievable change like saving money and sticking to a budget
+      to make you magnificent all on its own.
+    </p>
+
+    <p>Yet over twenty or thirty years, life is bound to throw you a few curve balls.</p>
+
+    <p>You want to be firmly in the category called “ready to help.”</p>
+
+    <p>You want to be “ready for anything” or as close to it as you can be.</p>
+
+    <p>It’s the version of you who is financially responsible who can do this.</p>
+
+    <p>It doesn’t even have to be that dire:</p>
+
+    <p>Plainly, your spouse, your parents, your kids…</p>
+
+    <p>
+      They all need you to be able to take care of yourself and your finances so they don’t have to
+      do it for you.
+    </p>
+
+    <p>
+      It can and will happen, over and over. So what would you prefer? To prepare for it, right?
+    </p>
+
+    <p>You know this is the case. You recognize it as truth.</p>
+
+    <p>You can see it coming, if you look far enough ahead, over and over.</p>
+
+    <p>Problem after problem, tragedy after tragedy.</p>
+
+    <p>
+      Yet if you are prepared, your will to prepare will have saved you thousands or hundreds of
+      thousands of dollars, and provided priceless gains to yourself and others.
+    </p>
+
+    <h3>Let’s Be Real:</h3>
+
+    <p>
+      Routine guilt from debts sucks. It wears you down. Drags your health, your energy. Means you
+      have less internal resources available for other issues.
+    </p>
+
+    <p>
+      Routine shame from debts sucks. It wears on you, drains your energy. Means you’re too busy
+      with the shame of debt to concern yourself with other responsibilities.
+    </p>
+
+    <p>
+      Fearing your financial future wears on you. It’s dreadful. You want to avoid the worry that
+      you won’t be able to afford a home. Avoid the worry that you’ll be living with your parents 5,
+      or 10 years from now. That your kids will wear worn out clothing.
+    </p>
+
+    <p>The responsible saver and investor feels great about who he is. (Or she is.)</p>
+
+    <p>The neglectful irresponsible feels guilty, shameful, and takes hits to their self esteem.</p>
+
+    <p>
+      But the responsible investor causes their parents to feel at ease about their child’s future.
+      Their parents worry less. In contrast, people with debts cause their parents stress and
+      concern.
+    </p>
+
+    <p>The upsides are not limited to the domain of parent-child relationships either:</p>
+
+    <p>Financial responsibility also matters to romance.</p>
+
+    <p>
+      By becoming someone who grows their net worth, they become a person others want to date/marry.
+    </p>
+
+    <p>
+      It isn’t a big deal to everyone, but on average, men and women both prefer to be with someone
+      who has great finances. People who are a great match really really do care.
+    </p>
+
+    <p>
+      A high quality person will avoid someone who is in debt. Because they recognize them as
+      unreliable.
+    </p>
+
+    <p>
+      A high quality person will recognize that “has a high net worth” is an attractive quality.
+    </p>
+
+    <p>
+      The type of person who keeps their net worth on the upswing regardless of what life throws at
+      them… is a person who will succeed long term. It’s not even about the money: It’s about who
+      you become in the process.
+    </p>
+
+    <p>
+      A person with debts is in serious risk of being taken out by one or two tragedies in a row. An
+      investor can have several bad outcomes in a row and be OK, and then go on to recover.
+    </p>
+
+    <p>
+      A financially responsible person is ahead of the pack on at least one important dimension. A
+      debtor is lagging behind and has to live with that knowledge.
+    </p>
+
+    <div>
+      <!-- todo: centered text box -->
+
+      <p>All this last giant, giant block of text…</p>
+
+      <p>All of it was about being that lighthouse mentioned further up in the letter.</p>
+
+      <p>(You didn’t skip past it, did you? Ctrl + F “lighthouse”)</p>
+
+      <p>Now it’s time to find out…</p>
+    </div>
+  </div>
+</WideBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <h2>Why I Really Want You to Start Doing All This</h2>
+
+      <p>
+        Had I not been an absolute unit of financial responsibility when I met my wife, I wouldn’t
+        have been able to marry her.
+      </p>
+
+      <p>Her debts might have been too big of a problem for me.</p>
+
+      <p>Had I not been prepared, I would not have been able to marry her when I wanted to.</p>
+
+      <p>
+        My resistance to taking on responsibility for her debts would have stopped me from marrying
+        her.
+      </p>
+
+      <p>Even though she loved me, and I loved her, the burden might have been too much to bear.</p>
+
+      <p>
+        I would not have wanted to experience the alternative, and I would not want it for you
+        either.
+      </p>
     </div>
   </PaddingBox>
 </StandardBox>
