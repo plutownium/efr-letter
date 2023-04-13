@@ -1187,9 +1187,799 @@
         I would not have wanted to experience the alternative, and I would not want it for you
         either.
       </p>
+
+      <div>
+        <h2>Straight Up:</h2>
+        <h2>Debt Isn’t Sexy</h2>
+      </div>
+
+      <p>Sensible men and women both avoid partners who have large debts.</p>
+
+      <p>
+        My wife has confirmed for me that she found my status as a “confirmed provider” attractive.
+        (My words in the quotes, not hers, by the way.)
+      </p>
+
+      <p>
+        I confirm that her debt was squarely unattractive to me (she said she was OK with me saying
+        this, by the way).
+      </p>
+
+      <p>“Oh so you married a gold digger.”</p>
+
+      <p>Yeah, about that. Have you seen this diagram before?</p>
+
+      <!-- // todo: effer wife venn diagram -->
+
+      <p>
+        “She’s a gold digger!” is a predictable response, so I have to address it. If I didn’t, you
+        might miss the point of the article.
+      </p>
+
+      <p>The takeaway is this:</p>
+
+      <p>If you want to marry a gold digger, you could use the guide I want to give you.</p>
+
+      <p>
+        But if you want to attract someone who is normal and a great catch, you could also use the
+        guide.
+      </p>
+
+      <p>PSA: I am not a sucker. I did not marry a gold digger.</p>
+
+      <p>The happy halfway point between selfish greed and selfless generosity is prudence.</p>
+
+      <p>Prudence means: “Acting with or showing care and thought for the future.”</p>
+
+      <p>I was able to marry my wife only because I was prudent years in advance.</p>
+
+      <p>
+        Yet the question remains: Why would you listen to me? My advice? My methods? Why would you
+        implement my advice, my guide?
+      </p>
+
+      <p>And who even am I? (That question will be fully addressed in a minute.)</p>
+
+      <p>Facts: I was and am generous about helping others fix their financial woes.</p>
+
+      <p>
+        Facts: I was able to choose to marry someone with $300,000 of debt… and then pay it off in
+        less than ten years.
+      </p>
+
+      <p>
+        Facts: I was able to do and be all that precisely because I follow the advice in my own
+        guide.
+      </p>
+
+      <p>Facts: I was able to prudently enter into co-ownership of my wife’s debts.</p>
+
+      <p>Facts: I was able to prudently judge myself capable of bearing the responsibility.</p>
+
+      <p>(And I was right.)</p>
+
+      <p>
+        I live out the advice in my own guide. I follow all my own steps. I don’t do everything
+        right all the time, but I try. I get it right most of the time. And guess what?
+      </p>
+
+      <p>It works.</p>
+
+      <div>
+        <!-- //todo: centered text box -->
+
+        <h3>
+          Though people who lack financially responsible habits and attitudes may still be prudent,
+          their lack of practice with money has yielded bad results.
+        </h3>
+
+        <h3>Yet they recognize the value of improving.</h3>
+      </div>
+
+      <p>
+        The overarching point is that you could lose a great catch because they don’t want to help
+        you with your debts.
+      </p>
+
+      <p>Let’s examine a few scenarios:</p>
+
+      <p>Potential Future #1</p>
+
+      <p>
+        The year is 2028. You are your future self. You are married. Your spouse tells you they are
+        leaving you because they don’t want to help you with your debts anymore.
+      </p>
+
+      <p>
+        It feels bad and worse, it’s a disaster. You got divorced and lost the person who was
+        helping you clean up your own mess out of the goodness of their heart.
+      </p>
+
+      <p>Potential Future #2</p>
+
+      <p>
+        The year is 2028. You are dating someone. You are madly in love, but your relationship is
+        having problems.
+      </p>
+
+      <p>Your spouse tells you they are “trying so hard to not be expensive” during a fight.</p>
+
+      <p>
+        You realize you are dragging them down, and you are forced to leave them so they can do
+        better.
+      </p>
+
+      <p>Potential Future #3</p>
+
+      <p>
+        The year is 2031. You are single. The last person you had a crush on told you: “Sorry,
+        you’re a great person, but I can’t allow myself to marry someone who’s financially
+        irresponsible.”
+      </p>
+
+      <p>None of the scenes are guaranteed, and yet they are all plausible.</p>
+
+      <p>I say in conclusion:</p>
+      <div>
+        <!-- //todo: centered text box -->
+        <h3>Debt Isn’t Sexy. I know it isn’t, you know it isn’t.</h3>
+
+        <h3>The only remaining question is:</h3>
+
+        <h3>What are you going to do with that information?</h3>
+      </div>
     </div>
   </PaddingBox>
 </StandardBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <div>
+        <!-- //todo; center text box -->
+        <h3>Now Let’s Find Out…</h3>
+
+        <h2>
+          Who Am I To Tell You How To Guide Yourself Out Of Even The Worst Financial Ruin Of Your
+          Life?
+        </h2>
+      </div>
+
+      <p>Real talk: Why would you listen to me?</p>
+
+      <p>
+        (1) I married into over $300,000 of non-mortgage debt in my mid-20s and in under 5 years I
+        turned my net worth very positive with just a normal, boring, salaried position.
+      </p>
+
+      <p>
+        I gained the debt via marriage. But I was able to choose to tackle my wife’s financial
+        problems on her behalf with a complete conviction that I would prevail.
+      </p>
+
+      <p>
+        And indeed I did. The debt was paid off aggressively. Part of why I was able to pay it off
+        so aggressively is that I was prepared.
+      </p>
+
+      <p>(2) I am a credentialed actuary.</p>
+
+      <p>
+        An actuary uses math and statistics to estimate the financial impact of uncertainty and
+        helps clients minimize risk.
+      </p>
+
+      <p>Yes. I am credentialed in all sorts of finance and risk.</p>
+
+      <p>
+        So, crunching numbers and comparing alternative solutions is both (1) my day job, and (2) my
+        second source of income.
+      </p>
+
+      <p>My Substack readers tell me my advice is good.</p>
+
+      <p>
+        Still, for the beginner and intermediate student, or for people who are still in the “pay
+        off your debts” stage of personal finance, my Substack would be irrelevant.
+      </p>
+
+      <p>Yet I want to help that crowd. So I asked myself:</p>
+
+      <p>How could I do it?</p>
+
+      <p>This guide was the end result.</p>
+
+      <p>
+        I grew up in a single mother home and mother F’er, though she would have if she could have,
+        was unable to help us in understanding finance and math. I had to help with bills (both make
+        money to pay them and actually figure out finances).
+      </p>
+
+      <p>
+        The information most people get is scattered, poor, or downright harmful. I basically had to
+        figure it out on my own. A financial product that helps lay out the basics would have let us
+        jump ahead instead of struggling to piece it together through trial and error.
+      </p>
+
+      <p>Lots of budget guys are overly prescriptive. I strive to do otherwise.</p>
+
+      <p>
+        Lots of get out of debt advice rely on inefficient rules (snowball method, credit card
+        balance transfers, etc) instead of focusing on automating a system.
+      </p>
+
+      <p>
+        In contrast, I strive to automate not only your external behaviors, but your internal self…
+        By making finance easy and rewarding.
+      </p>
+
+      <p>
+        Lots of saving and investing advice is generic. For people who don’t love finance, spending
+        a ton of time in a spreadsheet looking at it is terrible.
+      </p>
+
+      <p>
+        In contrast, I offer a way to do it once, and then you just have 1 account to monitor. It's
+        simple but works.
+      </p>
+
+      <p>Gooroos want to tell you that it’s complicated. But I believe it can be simple:</p>
+
+      <p>
+        My advice doesn’t involve uprooting your life. Other gooroos tell people to put cash in
+        envelopes and be super cheap. Instead I tell you to automate the automatable things and then
+        once you do that, you just look at one account and spend… keeping yourself in check as
+        needed, automatically.
+      </p>
+
+      <p>
+        I believe finance is important. People are in massive debt, ignore their struggles, and are
+        one bad break away from being completely screwed.
+      </p>
+
+      <p>
+        When over half of Americans can’t afford a surprise $500 bill and an entire generation is
+        struggling to pay student loans, there must be a lack of helpful information.
+      </p>
+
+      <p>
+        So I wrote this guide for you, because you deserve to get all the info you need all in one
+        spot, if you want that.
+      </p>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<WideBox>
+  <div>
+    <!-- // todo: centered box  -->
+
+    <!-- //todo: all massive text -->
+    <h2>
+      “Okay Effer, You’ve Convinced Me: Responsibility With Personal Finance Is Important and Worth
+      Doing. Tell Me About The Guide.”
+    </h2>
+
+    <p>Well for one, it’s title is:</p>
+
+    <h2>Zero To Some:</h2>
+    <h2>How To UnFukt Your Finances</h2>
+
+    <h2>“Great Title, But How Does The Advice In The Guide Actually Work?”</h2>
+
+    <p>The answers to this question below! And also the answers to:</p>
+
+    <h2>And Will It Work For You Even If:</h2>
+    <ul>
+      <li>You’re A Young Adult With Low Income, or</li>
+
+      <li>You’ve been in debt for years, or</li>
+
+      <li>You currently have no idea how you’ll ever afford a house, or</li>
+
+      <li>Some combination of the above 3 things</li>
+    </ul>
+
+    <p>Spoiler: The answer is yes, now find out how & why</p>
+
+    <!-- //todo: all massive text -->
+  </div>
+  <div>
+    <!-- todo: center text box -->
+    <!-- disclaimer -->
+    <!-- disclaimer -->
+    <!-- disclaimer -->
+    <!-- disclaimer -->
+    <!-- disclaimer -->
+    <h3>But first, two disclaimers:</h3>
+
+    <h4>Disclaimer #1:</h4>
+
+    <p>You notice how “even if you don’t have a job” isn’t in the list?</p>
+
+    <p>It will work for you if you get a job, but you’ll need to get one!</p>
+
+    <p>So if you don’t have a job, and…</p>
+
+    <p>(and, and, and, please notice the and)</p>
+
+    <p>You are also unwilling to get one, well, sorry.</p>
+
+    <p>But the guide is not for you.</p>
+
+    <p>It could be for your husband, your wife, your son, your daughter.</p>
+
+    <p>But not for you.</p>
+
+    <p>
+      (Disclaimer about the disclaimer: The moment you change your mind about the job thing, the
+      disclaimer is irrelevant. The guide will start to work the instant you change your mind and
+      decide you’re willing to work. Also, concerns about joblessness would be invalidated if you
+      wanted to learn to control your spending anyway.)
+    </p>
+
+    <h4>Disclaimer #2:</h4>
+
+    <p>
+      If you are unwilling to implement the advice, or you’re the type of person to “buy and never
+      try,” the guide won’t work!
+    </p>
+
+    <p>With that out of the way, onward…</p>
+  </div>
+</WideBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <h2>
+        Why It’ll Work Even If You’re A Young Adult With Low Income, Have Been In Debt For Years,
+        and Have No Idea How You’ll Ever Afford A House
+      </h2>
+
+      <p>I’ll address these entirely reasonable questions one by one.</p>
+
+      <h3>Even If You’re A Young Adult With Low Income</h3>
+
+      <p>You’re a young adult with low income?</p>
+
+      <p>Good, good. You’re one of the types of people I wanted to help with this guide.</p>
+
+      <p>A young adult with low income will:</p>
+
+      <ul>
+        <li>Read the guide.</li>
+
+        <li>Apply the guide.</li>
+
+        <li>
+          Have lots of time to push through, to break through, challenges and barriers in their way.
+        </li>
+
+        <li>
+          Likely recognize they are young. So they will be willing to think about the guide’s
+          meanings.
+        </li>
+
+        <li>
+          Because young adults are not “so far behind” the way a 45 year old person with $0 net
+          worth would be, they will have an easier time acting on the info.
+        </li>
+      </ul>
+
+      <p>Trust me, as a young adult, points (3) and (4) and (5) will do a lot for you.</p>
+
+      <h3>Even If You’ve Been In Debt For Years</h3>
+
+      <p>You’ve been in debt for years?</p>
+
+      <p>Good, good. You’re one of the types of people I wanted to help with this guide.</p>
+
+      <p>A person who has been in debt for years will:</p>
+
+      <ul>
+        <li>Read the guide.</li>
+
+        <li>Apply the guide.</li>
+
+        <li>Appreciate the guide and its wisdom.</li>
+
+        <li>
+          Have enough money to pay off their debts, or else they would have spiraled out beyond
+          control by now (financially).
+        </li>
+
+        <li>
+          Understand the sensation of paying off their last dollar of debt will be a slow & steady
+          build to an orgasm quality relief and be inclined to act.
+        </li>
+      </ul>
+
+      <p>
+        (Hint: I know exactly how it feels to rid myself of my last dollar of a $300,000 debt. It is
+        a GOOD feeling.)
+      </p>
+
+      <h3>Even If You Have No Idea How You’ll Afford A House</h3>
+
+      <p>You have no idea how you’ll afford a house?</p>
+
+      <p>
+        This is beyond good. In fact: It’s great. You’re one of the types of person I would love to
+        help.
+      </p>
+
+      <p>You’re someone I want to disabuse of the notion that they are stuck.</p>
+
+      <p>
+        That they will have to live with their parents, or rent an apartment, their entire lives.
+      </p>
+
+      <p>A person who has no idea how they’ll afford a house will:</p>
+
+      <ul>
+        <li>Read the guide.</li>
+        <li>Apply the guide.</li>
+
+        <li>Appreciate the hope that it brings them.</li>
+
+        <li>Act on the hope that it brings them.</li>
+
+        <li>
+          Recognize, after a few months of doing it: “Hey, Effer was right. I had it inside me all
+          along.”
+        </li>
+      </ul>
+    </div>
+    <div>
+      <h2>Notice How My Responses Were Kind Of The Same?</h2>
+
+      <p>It’s a similar path, similar story, available for everyone to tell about themselves.</p>
+
+      <p>
+        I’ll tell you right now: It is possible. You can do it. I’ve thought about people and what
+        they’re like. I’ve crunched the numbers. Seen the math.
+      </p>
+
+      <p>
+        I’m here to tell you that “I have no idea how to afford a house” makes you perfect for this
+        offer. As does “I’m too far in debt,” and/or “I’m too young to start.”
+      </p>
+
+      <p>
+        Because, then, when you do discover how you’ll afford a house, how it’s not “too early” to
+        start investing, or “too late” to start paying off a debt…
+      </p>
+
+      <p>That you do have the resources, the energy, the time, the money, to get it done…</p>
+
+      <p>It’s a victory for both of us.</p>
+
+      <p>
+        Because when you do put your first dollar down into an investment account made specifically
+        for your house…
+      </p>
+
+      <div>
+        //todo; center text box
+        <h3>I’ll have helped you give yourself a gift that only you can give.</h3>
+
+        <p>(Cliche, I know, but watch this…)</p>
+
+        <p>I’ll help you wrap the gift.</p>
+
+        <p>I’ll tell you where to get the present.</p>
+
+        <p>I’ll show you the best way to wrap the gift.</p>
+
+        <p>Tie the knot.</p>
+
+        <p>And yet only you can give yourself the gift.</p>
+      </div>
+
+      <p>
+        So if you’ll give yourself permission to believe that even though you currently have no idea
+        how to afford a house right now, it remains possible…
+      </p>
+
+      <p>
+        If you’ll give yourself permission to believe that you aren’t too young to start investing…
+      </p>
+
+      <p>Permission to believe that you can pay off your debts…</p>
+
+      <p>You’ll move yourself the first inch of a long mile towards your dream.</p>
+
+      <p>And it will simply be too late for you to stop yourself from changing.</p>
+
+      <p>And while it is “just a guide”...</p>
+
+      <p>
+        The victory of moving into your first house: You can start that battle here. Make no
+        mistake: It is a battle.
+      </p>
+
+      <p>But it’s also normal to win that battle, more normal than you might think…</p>
+
+      <p>Even for people without the guide!</p>
+
+      <p>
+        Here’s the high level summary of how the guide works for every type of person the guide
+        might help:
+      </p>
+
+      <p>First, you’ll pay off your debts.</p>
+
+      <p>
+        Yes, it’s a boring, boring habit if you aren’t excited by progress. Yet you will become
+        addicted to it within a few months. Because… you do like progress!
+      </p>
+
+      <p>
+        Second, you’ll start funneling the money you used to pay off your debt into investments.
+      </p>
+
+      <p>Yes, it will also become addictive if you do it right.</p>
+
+      <p>Third, you’ll keep doing it.</p>
+
+      <p>Fourth, you will never allow yourself to go back into credit card debt.</p>
+
+      <p>
+        Fifth, some day, when you judge yourself to be ready, you’ll yank enough money for a down
+        payment on a house out of your investment accounts, and…
+      </p>
+
+      <!-- //todo: center text -->
+      <h2>You Will Own A House!</h2>
+
+      <p>See? Wasn’t that better than a bunch of boring numbers?</p>
+
+      <p>Here’s what you’ll get in terms of relief right away:</p>
+
+      <p>
+        (1) While paying off debts, you’ll recognize that the progress you made was possible, and so
+        more progress is also possible.
+      </p>
+      <p>
+        (2) While investing into your investment accounts, you’ll recognize, again, that progress
+        was possible all along.
+      </p>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div>
+      <h2>“Ok So What Exactly Is In Your Guide, Zero To Some - How To UnFukt Your Finances?”</h2>
+
+      <p>
+        I wrote higher up on the page that this is a guide aimed at beginners and intermediates.
+      </p>
+
+      <p>
+        My substack contains advice for advanced savers and investors. People who have all their
+        financial ducks lined up in a neat little row.
+      </p>
+
+      <p>But you aren’t those people… not yet.</p>
+
+      <p>
+        So what you need is solid advice that is aimed at a beginner or intermediate in the domain
+        of financial responsibility.
+      </p>
+
+      <p>That means you’ll receive specific and detailed instructions about how to...</p>
+
+      <p>(1) In section 1, you’ll see how to adopt the right mindset. It includes:</p>
+
+      <ul>
+        <li>How the word “deserve” fits into your financial vocabulary.</li>
+
+        <li>Whether you should start later or right now.</li>
+
+        <li>How to think short term and long term… and when to do it.</li>
+
+        <li>How to go from “weighted down by debt” to weightless.</li>
+
+        <li>How to recognize big decisions and small ones (yes, we mention lattes)</li>
+
+        <li>How systems and habits are key to a lasting success.</li>
+      </ul>
+
+      <p>(2) In section 2, you’ll learn how to get out of debt. This section includes:</p>
+
+      <ul>
+        <li>Whether to do it like an avalanche or a snowball</li>
+
+        <li>The difference between Bad Debt, Less Bad Debt and almost entirely benign debt…</li>
+
+        <li>
+          Why some debts might not be worth paying at all. (Spoiler: These debts are not your credit
+          card debts.)
+        </li>
+      </ul>
+
+      <p>(3) In section 3, you’ll learn how to set up a budget, including:</p>
+
+      <ul>
+        <li>How to assess your situation… and why Abundance Mindsets can be misleading.</li>
+
+        <li>Your Budget Basics in four easy steps.</li>
+
+        <li>
+          What the right division is between spending, paying off debt, and investing (And why the
+          most common financial advice is too taxing to use)
+        </li>
+
+        <li>How to get your “true” monthly income by using documents your employer gives you.</li>
+
+        <li>What to invest in and why.</li>
+
+        <li>Why you should pick up the free money other people offer you.</li>
+      </ul>
+
+      <p>
+        (4) In section 4, you’ll learn why making more money is important and crucial to financial
+        success. Including:
+      </p>
+
+      <ul>
+        <li>Why Making More Money Is Always Financially Better</li>
+
+        <li>How More Money Makes You More Robust (less likely to be harmed by misfortune)</li>
+
+        <li>
+          Your Spending Inflection Point: How a simple orange line will revolutionize your mindset
+          (Ctrl F “When you are starting out and you don’t have much, every additional dollar of
+          income is getting spent” to find it!)
+        </li>
+      </ul>
+
+      <p>
+        The list is incomplete, yet you can find all those individual points within the guide. So…
+      </p>
+
+      <div>
+        <!-- centered text section -->
+        <h2>You’ll Get All That And More!</h2>
+
+        <p>But you might still be asking:</p>
+
+        <p>Does the info in the guide really work?</p>
+      </div>
+
+      <p>Well, if you’re asking yourself that right now, here’s the answer:</p>
+
+      <p>It is the system I use for myself.</p>
+
+      <p>
+        I married into over a quarter million in student loan debt + live in an expensive area/got
+        married/started a family. Had over $300k in non mortgage debt and a mortgage. In under 10
+        years, I got it paid off and hit a 7 figure net worth.
+      </p>
+
+      <p>I spend 20 minutes a month on our personal finances with the system.</p>
+
+      <p>Twenty minutes.</p>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<WideBox>
+  <div>
+    <p>Now…</p>
+
+    <h2>
+      Here’s Some Upgrades To Life You Can Expect To Get From Using This Guide… And What You Might
+      Value Them At
+    </h2>
+
+    <p>You read the page, right?</p>
+
+    <p>Ok, so you’ll remember that we talked about:</p>
+
+    <li>Being able to pay for your parents’ to have in-home senior care when they’re old.</li>
+
+    <p>Here’s the value: Priceless.</p>
+
+    <p>
+      But let’s say $5,000 because you’ll be able to do it five years in a row if you use the guide.
+    </p>
+
+    <li>
+      Being able to help your current or future spouse out when they encounter a huge debt by
+      mistake.
+    </li>
+    <p>Value: Priceless. But let’s say $4,000 if you do it even one time.</p>
+
+    <li>Being able to rely on yourself a bit more than you could yesterday.</li>
+    <p>Value: Priceless. But let’s say $1,000.</p>
+
+    <li>Being able to help your kids make the most of their childhood.</li>
+    <p>Value: Priceless. But let’s say $26,000.</p>
+
+    <h2>Total value: $36,000</h2>
+
+    <h3>Yet today the guide will be yours for only $100.</h3>
+  </div>
+  <div>
+    <h4>But the question remains: Why invest in changing your life?</h4>
+
+    <h2>Why Act Now?</h2>
+
+    <p>Here’s why:</p>
+
+    <h2>Reminder: You stumbled upon this page by chance.</h2>
+
+    <p>You didn’t really know you were on your way here before you decided to look at the page.</p>
+
+    <p>Yet you arrived. That’s the definition of blind luck.</p>
+
+    <p>And at this point, we’ve talked about:</p>
+
+    <ul>
+      <li>
+        Why your parents, if you are lucky enough to still have them, need to up your game
+        financially.
+      </li>
+      <li>Why your current or future spouse needs you to up your game financially</li>
+      <li>Why your current or future kids need you to up your game financially</li>
+      <li>Why you, yourself, right now, need you to up your game financially</li>
+    </ul>
+
+    <p>
+      Those are all great points, and they are great on their own. Yet you might want a specific
+      reminder about what it is about you that brought you here.
+    </p>
+
+    <p>
+      See, you’re a responsible type. Maybe not the most responsible, but to a degree, you fit in
+      that category.
+    </p>
+
+    <p>
+      You also recognize that the momentum you’ve built up towards change, internally, will pass.
+    </p>
+
+    <p>
+      If you leave and do not act now, you’ll go back to being the same person you were before you
+      got to the page.
+    </p>
+
+    <p>
+      That means the odds of being unable to pay for a giant, unforeseen bill, will go up. If you’re
+      lucky enough to live a long time, in fact, it’s guaranteed you’ll have a few.
+    </p>
+
+    <p>
+      It means the day when a spouse, a child, a parent, needs your help financially, is moving
+      closer and closer… yet you are not prepared.
+    </p>
+
+    <p>Yet you’re ready to act now, not later.</p>
+
+    <p>If you don’t act, the moment will pass.</p>
+
+    <p>
+      And the day when you’re a hero for being prepared with a large bank account of Rainy Day Money
+      will never arrive.
+    </p>
+
+    <p>But the Rainy Day itself will still come.</p>
+
+    <p>You want to be prepared for it by having $0 credit card debt.</p>
+
+    <p>
+      Waiting to pay off your credit card debt only makes your situation worse. Your debt accrues
+      interest, making it harder to pay off. You are missing out on investing and earning market
+      returns.
+    </p>
+
+    <p>The longer you wait, the more your net worth suffers.</p>
+  </div>
+</WideBox>
 
 <style>
   h1 {
