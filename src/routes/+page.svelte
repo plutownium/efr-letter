@@ -712,20 +712,25 @@
         We’ve talked about the financial habit being “fully automated.” Meaning you will
         <span class="underline">automatically</span> carry out the behavior.
       </p>
-      <p>
+      <p class="underline">
         You won’t have to think about whether it’s worth it. You won’t have to think about whether
-        it’s doable. You won’t have to talk yourself into getting it done. You’ll just do it.
+        it’s doable. You won’t have to talk yourself into getting it done. <span class="font-bold"
+          >You’ll just do it.</span
+        >
       </p>
       <p>
-        You’ll discover that it is possible to become that person, and in fact guaranteed if you
-        choose to guarantee it.
+        You’ll discover that it is <span class="underline">possible</span> to become that person, and
+        in fact guaranteed if you choose to guarantee it.
       </p>
       <p>
-        You’ll discover that you had the capacity to be that magnificent inside of you all along.
+        You’ll discover that you had the capacity to be <span class="underline">magnificent</span> in
+        finance inside of you all along.
       </p>
       <p>
-        What that means is that, when it comes time to teach your children to be financially
-        responsible, you’ll know all the ins and outs of how a person pulls it off.
+        What that means is that, <span class="underline"
+          >when it comes time to teach your children to be financially responsible, you’ll know all
+          the ins and outs of how a person pulls it off.</span
+        >
       </p>
       <p>
         You’ll be able to tell them which challenges they’ll encounter. You’ll be able to tell them
@@ -748,13 +753,19 @@
       </p>
       <p>Yet if you continue reading, you’ll discover how it’s possible that, in a few years…</p>
       <p>
-        You’ll have changed so much that you would have been happy to pay $5,000 to change that way.
+        <span class="underline"
+          >You’ll have changed so much that you would have been happy to pay $5,000 to change that
+          way</span
+        >.
       </p>
       <p>
         And then you’ll be able to show your children, when it comes time to show them, how it’s
         done.
       </p>
-      <p>They will know it was possible, because you’ll be able to tell them:</p>
+      <p>
+        They will <span class="underline">know</span> it was possible, because you’ll be able to tell
+        them:
+      </p>
       <p>
         “When I was young, I had debts. I had the wrong habits. The wrong routines. The wrong
         rules.”
@@ -765,7 +776,9 @@
       <p>
         “I still have the guide that taught me to do it. It’s yours if you want it. I’ll tell you
         how I did it so you can learn from it. *If* you do what I say, and *if* you work on
-        understanding why following the advice is a wise decision, it will work for you too.”
+        understanding why following the advice is a wise decision, <span class="underline"
+          >it will work for you too</span
+        >.”
       </p>
     </div>
   </PaddingBox>
@@ -778,9 +791,9 @@
       <h3 class="text-2xl">Would you like to be able to live this story?</h3>
 
       <p>Make it real?</p>
-      <p>What would financial success be worth to you?</p>
+      <p>What would financial success be <span class="underline">worth</span> to you?</p>
       <p>Here’s the answer I would give if the story were about me and my children:</p>
-      <p>Everything.</p>
+      <p class="font-bold"><span class="underline">Everything</span>.</p>
 
       <!-- // fixme: make this text REALLY BIG. -->
       <h2>If You Read This Far, It’s Time For...</h2>
@@ -811,8 +824,8 @@
       Whether you do or don’t, you must acknowledge, at the minimum, that choosing to do so would be
       a firmly affirmative sign…
     </p>
-    <p>That you want to be a hero for somebody!</p>
-    <p>Out of love!</p>
+    <p class="underline">That you want to or will want to be a hero for somebody!</p>
+    <p class="undelrine">Out of love!</p>
   </WideBox>
 </div>
 
@@ -826,7 +839,7 @@
         previously mentioned guide:
       </p>
 
-      <h3 class="mt-4 text-2xl">The Joys of Changing For The Better</h3>
+      <h3 class="mt-4 text-2xl underline">The Joys of Changing For The Better</h3>
 
       <ul class="list-with-bullets pl-4">
         <li>
@@ -848,7 +861,7 @@
 
       <p>Now compare that to the next list:</p>
 
-      <h3 class="mt-4 text-2xl">Pains of staying the same</h3>
+      <h3 class="mt-4 text-2xl underline">Pains Of Staying The Same</h3>
       <ul class="list-with-bullets pl-4">
         <li>Looking at credit card debt piling up</li>
         <li>
@@ -882,7 +895,7 @@
         stuck going to work every day because you didn’t save up.
       </li>
 
-      <h4 class="mt-4 text-2xl">Or this?</h4>
+      <h4 class="mt-4 text-2xl"><span class="underline">Or this</span>?</h4>
       <ul class="list-with-bullets pl-4">
         <li>
           That same older version of yourself, but you’re retired, laying on the couch at 11 am,
@@ -973,17 +986,19 @@
       <p>You are lying to yourself if you think it isn’t.</p>
 
       <!-- // todo: huge huge text -->
-      <h2 class="mt-4">Burdened by debt, unable to be depended on by others.</h2>
+      <h2 class="mt-4 huge-text">Burdened by debt, unable to be depended on by others.</h2>
 
-      <h2>Is that who you want to be?</h2>
+      <h2 class="mt-4 huge-text">Is that who you want to be?</h2>
 
-      <h2>No, it’s not who you want to be.</h2>
+      <h2 class="mt-4 huge-text underline font-bold">No, it’s not who you want to be.</h2>
 
-      <h3 class="mt-4 text-xl">You want to be great… or as great as you can.</h3>
+      <h3 class="mt-4 text-2xl">You want to be great… or as great as you can.</h3>
 
-      <h3 class="mt-4 text-xl">And you’re here to find out that it is possible.</h3>
+      <h3 class="mt-4 mb-4 text-2xl">
+        And you’re here to find out that <span class="underline">it is possible</span>.
+      </h3>
 
-      <p>
+      <p class="mt-4 underline">
         Because you know that some day your kids, your spouse, your mom or your dad, will need you.
       </p>
 
@@ -1095,8 +1110,8 @@
     </ul>
 
     <p>
-      …and you’ll experience immense, humongous, great giant heaping piles of gratitude for being
-      able to do that for them.
+      …and you’ll experience <span class="font-bold">enormous gratitude</span> for being able to do that
+      for them.
     </p>
 
     <p>So you do want to be someone who can step up to support a family member.</p>
@@ -1111,7 +1126,9 @@
       to make you magnificent all on its own.
     </p>
 
-    <p>Yet over twenty or thirty years, life is bound to throw you a few curve balls.</p>
+    <p class="underline">
+      Yet over twenty or thirty years, life is bound to throw you a few curve balls.
+    </p>
 
     <p>You want to be firmly in the category called “ready to help.”</p>
 
@@ -1124,8 +1141,9 @@
     <p>Plainly, your spouse, your parents, your kids…</p>
 
     <p>
-      They all need you to be able to take care of yourself and your finances so they don’t have to
-      do it for you.
+      They all need you to be able to <span class="underline"
+        >take care of yourself and your finances</span
+      > so they don’t have to do it for you.
     </p>
 
     <p>
@@ -1138,12 +1156,12 @@
 
     <p>Problem after problem, tragedy after tragedy.</p>
 
-    <p>
+    <p class="font-bold">
       Yet if you are prepared, your will to prepare will have saved you thousands or hundreds of
       thousands of dollars, and provided priceless gains to yourself and others.
     </p>
 
-    <h3 class="mt-4 text-3xl">Let’s Be Real:</h3>
+    <h3 class="mt-4 text-2xl"><span class="underline">Let’s Be Real</span>:</h3>
 
     <p>
       Routine guilt from debts sucks. It wears you down. Drags your health, your energy. Means you
@@ -1171,9 +1189,11 @@
       concern.
     </p>
 
-    <p>The upsides are not limited to the domain of parent-child relationships either:</p>
+    <p class="font-bold">
+      The upsides are not limited to the domain of parent-child relationships either:
+    </p>
 
-    <p>Financial responsibility also matters to romance.</p>
+    <p class="font-bold">Financial responsibility also matters to romance.</p>
 
     <p>
       By becoming someone who grows their net worth, they become a person others want to date/marry.
@@ -1231,7 +1251,7 @@
         have been able to marry her.
       </p>
 
-      <p>Her debts might have been too big of a problem for me.</p>
+      <p class="font-bold">Her debts might have been too big of a problem for me.</p>
 
       <p>Had I not been prepared, I would not have been able to marry her when I wanted to.</p>
 
@@ -1277,43 +1297,62 @@
 
       <p>The takeaway is this:</p>
 
-      <p>If you want to marry a gold digger, you could use the guide I want to give you.</p>
+      <p class="italics">
+        If you want to marry a gold digger, you could use the guide I want to give you.
+      </p>
 
-      <p>
-        But if you want to attract someone who is normal and a great catch, you could also use the
-        guide.
+      <p class="italics">
+        But <span class="font-bold"
+          >if you want to attract someone who is normal and a great catch,</span
+        > you could also use the guide.
       </p>
 
       <p>PSA: I am not a sucker. I did not marry a gold digger.</p>
 
-      <p>The happy halfway point between selfish greed and selfless generosity is prudence.</p>
+      <p>
+        The happy halfway point between selfish greed and selfless generosity is <span
+          class="underline">prudence</span
+        >.
+      </p>
 
       <p>Prudence means: “Acting with or showing care and thought for the future.”</p>
 
       <p>I was able to marry my wife only because I was prudent years in advance.</p>
 
-      <p>
+      <p class="font-bold">
         Yet the question remains: Why would you listen to me? My advice? My methods? Why would you
         implement my advice, my guide?
       </p>
 
-      <p>And who even am I? (That question will be fully addressed in a minute.)</p>
-
-      <p>Facts: I was and am generous about helping others fix their financial woes.</p>
-
-      <p>
-        Facts: I was able to choose to marry someone with $300,000 of debt… and then pay it off in
-        less than ten years.
+      <p class="">
+        <span class="font-bold">And who even am I?</span> (That question will be fully addressed in a
+        minute.)
       </p>
 
       <p>
-        Facts: I was able to do and be all that precisely because I follow the advice in my own
-        guide.
+        <span class="underline">Facts</span>: I was and am generous about helping others fix their
+        financial woes.
       </p>
 
-      <p>Facts: I was able to prudently enter into co-ownership of my wife’s debts.</p>
+      <p>
+        <span class="underline">Facts</span>: I was able to choose to marry someone with $300,000 of
+        debt… and then pay it off in less than ten years.
+      </p>
 
-      <p>Facts: I was able to prudently judge myself capable of bearing the responsibility.</p>
+      <p>
+        <span class="underline">Facts</span>: I was able to do and be all that precisely because I
+        follow the advice in my own guide.
+      </p>
+
+      <p>
+        <span class="underline">Facts</span>: I was able to enter into co-ownership of my wife’s
+        debts with prudence.
+      </p>
+
+      <p>
+        <span class="underline">Facts</span>: I was able to judge myself capable of bearing the
+        responsibility with prudence.
+      </p>
 
       <p>(And I was right.)</p>
 
@@ -1325,7 +1364,7 @@
       <p>It works.</p>
 
       <CenteredTextBox>
-        <h3 class="mt-4 text-2xl">
+        <h3 class="mt-4 text-2xl text-center">
           Though people who lack financially responsible habits and attitudes may still be prudent,
           their lack of practice with money has yielded bad results.
         </h3>
@@ -1340,7 +1379,7 @@
 
       <p>Let’s examine a few scenarios:</p>
 
-      <p>Potential Future #1</p>
+      <p class="underline">Potential Future #1</p>
 
       <p>
         The year is 2028. You are your future self. You are married. Your spouse tells you they are
@@ -1352,7 +1391,7 @@
         helping you clean up your own mess out of the goodness of their heart.
       </p>
 
-      <p>Potential Future #2</p>
+      <p class="underline">Potential Future #2</p>
 
       <p>
         The year is 2028. You are dating someone. You are madly in love, but your relationship is
@@ -1366,7 +1405,7 @@
         better.
       </p>
 
-      <p>Potential Future #3</p>
+      <p class="underline">Potential Future #3</p>
 
       <p>
         The year is 2031. You are single. The last person you had a crush on told you: “Sorry,
@@ -1374,15 +1413,17 @@
         irresponsible.”
       </p>
 
-      <p>None of the scenes are guaranteed, and yet they are all plausible.</p>
+      <p class="font-bold">None of the scenes are guaranteed, and yet they are all plausible.</p>
 
       <p>I say in conclusion:</p>
       <CenteredTextBox>
-        <h3 class="mt-4 text-2xl">Debt Isn’t Sexy. I know it isn’t, you know it isn’t.</h3>
+        <h3 class="mt-4 text-2xl font-bold">
+          Debt Isn’t Sexy. I know it isn’t, you know it isn’t.
+        </h3>
 
         <h3 class="mt-4 text-2xl">The only remaining question is:</h3>
 
-        <h3 class="mt-4 text-2xl">What are you going to do with that information?</h3>
+        <h3 class="mt-4 text-2xl font-bold">What are you going to do with that information?</h3>
       </CenteredTextBox>
     </div>
   </PaddingBox>
@@ -1410,13 +1451,14 @@
       </p>
 
       <p>
-        I gained the debt via marriage. But I was able to choose to tackle my wife’s financial
-        problems on her behalf with a complete conviction that I would prevail.
+        I gained the debt via marriage. But I was able to <span class="underline">choose</span> to
+        tackle my wife’s financial problems on her behalf with a
+        <span class="underline">complete conviction</span> that I would prevail.
       </p>
 
       <p>
         And indeed I did. The debt was paid off aggressively. Part of why I was able to pay it off
-        so aggressively is that I was prepared.
+        so aggressively is that <span class="underline">I was prepared</span>.
       </p>
 
       <p>(2) I am a credentialed actuary.</p>
@@ -1435,7 +1477,7 @@
 
       <p>My Substack readers tell me my advice is good.</p>
 
-      <p>
+      <p class="font-bold">
         Still, for the beginner and intermediate student, or for people who are still in the “pay
         off your debts” stage of personal finance, my Substack would be irrelevant.
       </p>
@@ -1519,7 +1561,7 @@
 
         <p>Well for one, it’s title is:</p>
 
-        <h2 class="guide-title">Zero To Some:</h2>
+        <h2 class="guide-title"><span class="underline">Zero To Some</span>:</h2>
         <h2 class="guide-title">How To UnFukt Your Finances</h2>
       </CenteredTextBox>
 
@@ -1555,7 +1597,7 @@
 
         <p>It will work for you if you get a job, but you’ll need to get one!</p>
 
-        <p>So if you don’t have a job, and…</p>
+        <p>So if you don’t have a job, <span class="font-bold">and…</span></p>
 
         <p>You are also unwilling to get one...</p>
         <p>Well, sorry.</p>
@@ -1568,9 +1610,10 @@
 
         <p>
           (Disclaimer about the disclaimer: The moment you change your mind about the job thing, the
-          disclaimer is irrelevant. The guide will start to work the instant you change your mind
-          and decide you’re willing to work. Also, concerns about joblessness would be invalidated
-          if you wanted to learn to control your spending anyway.)
+          disclaimer is irrelevant. The guide will start to work <span class="underline"
+            >the instant</span
+          > you change your mind and decide you’re willing to work. Also, concerns about joblessness
+          would be invalidated if you wanted to learn to control your spending anyway.)
         </p>
 
         <h4 class="mt-4 text-xl">Disclaimer #2:</h4>
@@ -1737,19 +1780,24 @@
       </div>
 
       <p>
-        So if you’ll give yourself permission to believe that even though you currently have no idea
-        how to afford a house right now, it remains possible…
+        So if you’ll give yourself <span class="font-bold">permission</span> to believe that even though
+        you currently have no idea how to afford a house right now, it remains possible…
       </p>
 
       <p>
-        If you’ll give yourself permission to believe that you aren’t too young to start investing…
+        If you’ll give yourself <span class="font-bold">permission</span> to believe that you aren’t
+        too young to start investing…
       </p>
 
-      <p>Permission to believe that you can pay off your debts…</p>
+      <p><span class="font-bold">Permission</span> to believe that you can pay off your debts…</p>
 
       <p>You’ll move yourself the first inch of a long mile towards your dream.</p>
 
-      <p>And it will simply be too late for you to stop yourself from changing.</p>
+      <p>
+        And, because you’ll like the change, it will simply be <span class="font-bold"
+          >too late</span
+        > for you to stop yourself from changing.
+      </p>
 
       <p>And while it is “just a guide”...</p>
 
@@ -1767,24 +1815,26 @@
         might help:
       </p>
 
-      <p>First, you’ll pay off your debts.</p>
+      <p class="underline">First, you’ll pay off your debts.</p>
 
       <p>
         Yes, it’s a boring, boring habit if you aren’t excited by progress. Yet you will become
         addicted to it within a few months. Because… you do like progress!
       </p>
 
-      <p>
+      <p class="underline">
         Second, you’ll start funneling the money you used to pay off your debt into investments.
       </p>
 
       <p>Yes, it will also become addictive if you do it right.</p>
 
-      <p>Third, you’ll keep doing it.</p>
+      <p class="underline">Third, you’ll keep doing it.</p>
 
-      <p>Fourth, you will never allow yourself to go back into credit card debt.</p>
+      <p class="underline">
+        Fourth, you will never allow yourself to go back into credit card debt.
+      </p>
 
-      <p>
+      <p class="underline">
         Fifth, some day, when you judge yourself to be ready, you’ll yank enough money for a down
         payment on a house out of your investment accounts, and…
       </p>
@@ -1826,8 +1876,9 @@
       <p>But you aren’t those people… not yet.</p>
 
       <p>
-        So what you need is solid advice that is aimed at a beginner or intermediate in the domain
-        of financial responsibility.
+        So what you need is solid advice that is <span class="underline"
+          >aimed at a beginner or intermediate</span
+        > in the domain of financial responsibility.
       </p>
 
       <p>That means you’ll receive specific and detailed instructions about how to...</p>
@@ -1931,7 +1982,7 @@
 <div class="bg-light-blue">
   <WideBox>
     <div class="px-2 sm:px-8 lg:px-18 xl:px-40 py-8">
-      <p>Now…</p>
+      <p class=""><span class="text-xl">Now…</span></p>
 
       <h2>
         Here’s Some Upgrades To Life You Can Expect To Get From Using This Guide… And What You Might
@@ -1944,24 +1995,29 @@
 
       <li>Being able to pay for your parents’ to have in-home senior care when they’re old.</li>
 
-      <p>Here’s the value: Priceless.</p>
+      <p>Value: <span class="underline">Priceless</span>.</p>
 
       <p>
-        But let’s say $5,000 because you’ll be able to do it five years in a row if you use the
-        guide.
+        But let’s say <span class="font-bold">$5,000</span> because you’ll be able to do it five years
+        in a row if you use the guide.
       </p>
 
       <li>
         Being able to help your current or future spouse out when they encounter a huge debt by
         mistake.
       </li>
-      <p>Value: Priceless. But let’s say $4,000 if you do it even one time.</p>
+      <p>
+        Value: <span class="underline">Priceless</span>.
+      </p>
+      <p>But let’s say <span class="font-bold">$4,000</span> if you do it even one time.</p>
 
       <li>Being able to rely on yourself a bit more than you could yesterday.</li>
-      <p>Value: Priceless. But let’s say $1,000.</p>
+      <p>Value: <span class="underline">Priceless</span>.</p>
+      <p>But let’s say <span class="font-bold">$1,000</span>.</p>
 
       <li>Being able to help your kids make the most of their childhood.</li>
-      <p>Value: Priceless. But let’s say $26,000.</p>
+      <p>Value: <span class="underline">Priceless</span>.</p>
+      <p>But let’s say <span class="font-bold">$26,000</span>.</p>
 
       <h2 class="mt-4">Total value: $36,000</h2>
 
@@ -1970,11 +2026,13 @@
     <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
       <h4 class="mb-4 text-2xl">But the question remains: Why invest in changing your life?</h4>
 
-      <h2>Why Act Now?</h2>
+      <h2>Why do you need to act now?</h2>
 
-      <p>Here’s why:</p>
+      <h2 class="mt-4">Here’s why:</h2>
 
-      <h2 class="mt-2">Reminder: You stumbled upon this page by chance.</h2>
+      <h2 class="mt-2">
+        Reminder: <span class="underline">You stumbled upon this page by chance</span>.
+      </h2>
 
       <p>
         You didn’t really know you were on your way here before you decided to look at the page.
@@ -2004,11 +2062,11 @@
         that category.
       </p>
 
-      <p>
+      <p class="font-bold">
         You also recognize that the momentum you’ve built up towards change, internally, will pass.
       </p>
 
-      <p>
+      <p class="font-bold">
         If you leave and do not act now, you’ll go back to being the same person you were before you
         got to the page.
       </p>
@@ -2032,20 +2090,21 @@
         Money will never arrive.
       </p>
 
-      <p>But the Rainy Day itself will still come.</p>
+      <p class="font-bold">But the Rainy Day itself will still come.</p>
 
       <p>You want to be prepared for it by having $0 credit card debt.</p>
 
       <p>
-        Waiting to pay off your credit card debt only makes your situation worse. Your debt accrues
-        interest, making it harder to pay off. You are missing out on investing and earning market
-        returns.
+        <span class="font-bold"
+          >Waiting to pay off your credit card debt only makes your situation worse.</span
+        > Your debt accrues interest, making it harder to pay off. You are missing out on investing and
+        earning market returns.
       </p>
 
       <p>The longer you wait, the more your net worth suffers.</p>
     </div>
 
-    <div class="px-2 sm:px-8 lg:px-18 xl:px-40 pb-8">
+    <div class="px-2 sm:px-8 lg:px-18 xl:px-40 pb-12">
       <h2 class="mt-4">
         So do you have to take this opportunity to change right now? Right this second?
       </h2>
@@ -2059,15 +2118,20 @@
 
       <p>Or is it more than that?</p>
 
-      <p>Maybe you’ve decided you’ll take advantage of the opportunity…</p>
+      <p>
+        Maybe you’ve <span class="underline">decided</span> you’ll take advantage of the opportunity…
+      </p>
 
-      <p>Maybe you’ve given yourself permission to take advantage of the opportunity…</p>
+      <p>
+        Maybe you’ve given yourself <span class="underline">permission</span> to take advantage of the
+        opportunity…
+      </p>
 
       <p>Yet it is not clear whether this is something you can put off until tomorrow.</p>
 
       <p>Something you could do later, not today.</p>
 
-      <p>I’m here to tell you the time is now, and here’s why:</p>
+      <p>I’m here to tell you <span class="underline">the time is now, and here’s why</span>:</p>
 
       <p>You do want to change now.</p>
 
@@ -2076,8 +2140,10 @@
       <p>You do recognize the wisdom contained within the pages.’</p>
 
       <p>
-        The problem is that after the moment to act has passed, the odds of it returning are
-        immensely low.
+        <span class="underline"
+          >The problem is that after the moment to act has passed, the odds of it returning are
+          immensely low</span
+        >.
       </p>
 
       <p>You’ll go back to your busy life, with lots of other important tasks to complete.</p>
@@ -2088,7 +2154,11 @@
 
       <!-- todo: before/after img "option #1" "option #2" -->
 
-      <p>What I want for you is unimportant, but what you want for yourself is your whole world.</p>
+      <p>
+        What I want for you is unimportant, <span class="underline"
+          >but what you want for yourself is your whole world</span
+        >.
+      </p>
 
       <p>Your desires and decisions make your world. You create the future with your actions.</p>
 
@@ -2104,7 +2174,7 @@
       <p>But you’d make it a lot easier on yourself by investing in the guide.</p>
 
       <CenteredTextBox>
-        <p>
+        <p class="font-bold">
           And if you act now, you’re guaranteed to avoid the possibility of forgetting the page,
           forgetting the important visions of the future you saw, and avoid saying to yourself:
         </p>
@@ -2117,23 +2187,21 @@
   <PaddingBox>
     <div class="py-8">
       <h2 class="text-center">
-        “Nah, I’m too busy to get that guide right now. I am too busy to buy a PDF from the
+        “Nah, I’m too busy to get that guide right now. I am too busy to read a PDF from the
         Internet. I am too busy to act on under 3 hours of advice a month to get out of debt.”
       </h2>
 
       <div>
         <!-- todo: centered text box  -->
-        <CenteredTextBox>
-          <p>I remind you:</p>
+        <p>I remind you:</p>
 
-          <h3 class="mt-4 text-2xl">Spending less money takes less time, not more time.</h3>
+        <h3 class="mt-4 text-2xl">Spending less money takes less time, not more time.</h3>
 
-          <p>The act of spending itself is a time sink.</p>
+        <p class="mt-4">The act of spending itself is a time sink.</p>
 
-          <p>You have less stuff to deal with.</p>
+        <p>You have less stuff to deal with.</p>
 
-          <p>More time for progress.</p>
-        </CenteredTextBox>
+        <p>More time for progress.</p>
       </div>
 
       <p>But if your real reason you aren’t yet certain you want the guide go something like:</p>
@@ -2150,43 +2218,40 @@
       </ul>
 
       <div>
-        <CenteredTextBox>
-          <p>Let’s talk about that.</p>
+        <p>Let’s talk about that.</p>
 
-          <h3 class="mt-4 text-2xl">Regarding point #2:</h3>
+        <h3 class="mt-4 text-2xl">Regarding point #2:</h3>
 
-          <p>
-            You are already the type of person who would make use of the guide. Or else you would
-            have left already.
-          </p>
+        <p>
+          You are already the type of person who would make use of the guide. Or else you would have
+          left already.
+        </p>
 
-          <p>I can’t tell you that you’re guaranteed to get:</p>
+        <p>I can’t tell you that you’re guaranteed to get:</p>
 
-          <p>Enough money to pay for your parents’ home care when they’re old.</p>
+        <p>Enough money to pay for your parents’ home care when they’re old.</p>
 
-          <p>Enough money to pay for your kids’ to use their young years their best.</p>
+        <p>Enough money to pay for your kids’ to use their young years their best.</p>
 
-          <p>Enough money to help your current/future spouse out when you are called to do so.</p>
+        <p>Enough money to help your current/future spouse out when you are called to do so.</p>
 
-          <p>But you can make it a guarantee yourself.</p>
+        <p>But you can make it a guarantee yourself.</p>
 
-          <h3 class="text-2xl mt-4">
-            Extension of point #1, about the 30 day money back guarantee:
-          </h3>
+        <h3 class="text-2xl mt-4">Extension of point #1, about the 30 day money back guarantee:</h3>
 
-          <p>You are entitled to buy the guide, use the guide, try it out…</p>
+        <p>You are entitled to buy the guide, use the guide, try it out…</p>
 
-          <p>
-            And so long as you prove you took action on paying off $50 of debt, you’ll be eligible
-            to receive…
-          </p>
+        <p>
+          And <span class="underline"
+            >so long as you prove you took action on paying off $50 of debt</span
+          >, you’ll be eligible to receive…
+        </p>
 
-          <h3 class="mt-4 text-3xl">A Full Refund!</h3>
+        <h3 class="mt-4 mb-4 text-2xl">A Full Refund!</h3>
 
-          <p>(“Dude Trust Me” is acceptable proof. I'll take your word for it.)</p>
+        <p>(“Dude Trust Me” is acceptable proof. I'll take your word for it.)</p>
 
-          <p>Now, with that out of the way…</p>
-        </CenteredTextBox>
+        <p>Now, with that out of the way…</p>
       </div>
     </div>
   </PaddingBox>
@@ -2284,7 +2349,7 @@
         pull it off in the pages.
       </p>
 
-      <p>
+      <p class="font-bold">
         What you can believe is that paying off debt and investing in the future are both good
         behaviors that are self-reinforcing.
       </p>
@@ -2307,8 +2372,10 @@
       <p>That may happen. Nothing in the guide talks about avoiding becoming Scrooge himself.</p>
 
       <p>
-        Yet the way you are now will get you somewhere worse. Scrooge is a rich penny pincher, but
-        being in debt your whole life means you pinch pennies anyway.
+        Yet the way you are now will get you somewhere worse. <span class="font-bold"
+          >Scrooge is a rich penny pincher, but being in debt your whole life means you pinch
+          pennies anyway.</span
+        >
       </p>
 
       <p>So if the next thought seems relevant to you also, you should read that segment too…</p>
@@ -2477,13 +2544,16 @@
       </p>
 
       <p>
-        You should also know that if you break the task of following the guide down into clear,
-        actionable, appealing and bite-sized steps, you will want to use the guide.
+        You should also know that i<span class="underline"
+          >f you break the task of following the guide down into clear, actionable, appealing and
+          bite-sized steps, you will want to use the guide.</span
+        >
       </p>
 
       <p>
-        Finally, you are invited to press Ctrl + S and save the whole page to remind yourself of why
-        you chose to invest in yourself and your future.
+        Finally, you are invited to press Ctrl + S and <span class="underline"
+          >save the whole page</span
+        > to remind yourself of why you chose to invest in yourself and your future.
       </p>
 
       <p>
@@ -2532,6 +2602,8 @@
         or the very first time you message me. But as a customer, if I recognize you, you will get
         help.
       </p>
+
+      <p>With all that out of the way, tell me…</p>
     </div>
   </PaddingBox>
 </StandardBox>
@@ -2539,7 +2611,7 @@
 <StandardBox>
   <PaddingBox>
     <div>
-      <h2 class="mt-4 mb-4 text-4xl">Are You Ready?</h2>
+      <h2 class="mt-4 mb-4 text-4xl">Are You Ready...</h2>
 
       <h2>To Know The Path</h2>
       <h2>To A Successful & Responsible</h2>
@@ -2561,8 +2633,8 @@
       </p>
 
       <p>
-        Yet you recognize that you can use the guide to create your own financial future. A better
-        future. A good one, or possibly, if I did my job right, a great one.
+        Yet you recognize that you can use the guide to create an improved financial future. A
+        better future. A good one, or possibly, if I did my job right, a great one.
       </p>
 
       <p>So what’ll it be?</p>
@@ -2610,8 +2682,9 @@
       <p>If so, close the page. You have better things to do!</p>
 
       <p>
-        But if you want to become someone you, yourself, and the people who count on you, can count
-        on to save the day…
+        But if you want to become someone y<span class="underline"
+          >ou, yourself, and the people who count on you, can count on to save the day</span
+        >…
       </p>
 
       <p>
@@ -2680,5 +2753,9 @@
 
   .tailwind-failed-text-size {
     font-size: 22px;
+  }
+
+  .huge-text {
+    font-size: 38px;
   }
 </style>
