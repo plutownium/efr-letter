@@ -5,13 +5,12 @@ export default {
     extend: {
       colors: {
         'off-white': '#D9F0FF',
-        'light-blue': '#5693ba',
-        'mid-blue': '#2278b8',
-        'dark-blue': '#0e3458',
+        'light-blue': '#BAE3FC',
+        'mid-blue': '#2278B8',
+        'dark-blue': '#0E3458',
+        rose: '#FFCDCD',
         warning: '#d34730',
-        'dark-grey': '#494c4e',
-        'mid-grey': '#6d6767',
-        'off-black': '#322d2d',
+        black: '#322D2D',
       },
     },
   },

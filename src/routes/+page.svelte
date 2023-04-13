@@ -10,27 +10,19 @@
 
   import '../app.css'
   import FloatyHeader from '../components/FloatyHeader.svelte'
+  import CenteredTextBox from '../components/CenteredTextBox.svelte'
 </script>
 
-<FloatyHeader />
+<!-- <FloatyHeader /> -->
 
-<div class="h-24" />
-<div class="w-full flex flex-col items-center bg-blue">
+<!-- <div class="h-24" /> -->
+<div class="w-full flex flex-col items-center bg-off-black">
   <div class="w-11/12 sm:w-10/12 md:w-9/12 mt-8 h-full">
     <div class="pb-12 h-3/5 flex flex-col items-center">
-      <h1 class="mt-8 font-bold text-center text-oxford text-3xl sm:text-5xl">
+      <h1 class="mt-8 text-center text-off-white text-3xl sm:text-5xl">
         How to Escape A Lifetime Of Nagging Financial Fears, Gain A Bank Account Balance You Love to
         Look At, Become Someone Your Family Can Rely On, and Become a Lifelong Winner in Finance
       </h1>
-    </div>
-    <div class="h-2/5 pb-4">
-      <div
-        class="h-full px-4 sm:px-12 lg:px-24 xl:px-40 py-8 flex justify-center flex-col items-center bg-sand"
-      >
-        <h2>Reader, Here’s A Guarantee:</h2>
-
-        <h2>If You Commit To Reading The Full Page, A Life Changing Awareness Is On Its Way!</h2>
-      </div>
     </div>
   </div>
 </div>
@@ -38,6 +30,9 @@
 <StandardBox>
   <PaddingBox>
     <div>
+      <h2>Reader, Here’s A Guarantee:</h2>
+
+      <h2>If You Read The Full Page, A Life Changing Awareness Is On Its Way!</h2>
       <h2>
         Would you like to be a disciplined winner in at least one major game of life? Namely the
         money game.
@@ -126,8 +121,7 @@
       <p>Who was younger by more than twenty years…</p>
       <p>Was ahead of him in terms of net worth.</p>
 
-      <div>
-        <!-- // todo: convert to CenteredTextBox -->
+      <CenteredTextBox>
         <h2>Scary story right?</h2>
 
         <p>I repeat: This person is not real, yet he exists.</p>
@@ -135,10 +129,10 @@
         <p>People who were born rich or poor, short or tall, weak or strong.</p>
         <p>
           All types of people recognize themselves in the story, because the story could just as
-          well be about them.
+          well be about them:
         </p>
         <p>“If I was Thomas Whitman, I too would feel behind.”</p>
-      </div>
+      </CenteredTextBox>
 
       <p>
         The point of the story is this: No matter how much money you make, if your financial
@@ -154,8 +148,9 @@
         is admirable.
       </p>
 
-      <!-- // todo: center the below line -->
-      <p>Set yourself up for success. Become financially responsible.</p>
+      <CenteredTextBox>
+        <p>Set yourself up for success. Become financially responsible.</p>
+      </CenteredTextBox>
 
       <h2>How Living Within Your Means Gets You Ahead… And How to Make the Most of It</h2>
 
@@ -363,7 +358,7 @@
       <p>You’re already going to earn less than you’ll spend this month.</p>
       <p>
         No, you don’t have to “skip lattes,” because that is a yawn fest and majoring in the minor.
-        $5 latte every day, oh no. $5 * 30 = $150. BORING!
+        $5 latte every day, oh no. $5 * 30 = $150. Boring!
       </p>
       <p>What you do have to do is avoid:</p>
       <p>Making big financial mistakes</p>
@@ -384,8 +379,7 @@
       </p>
     </div>
     <div>
-      <div>
-        <!-- // todo: centered text box component -->
+      <CenteredTextBox>
         <h2>
           The Pleasant And Almost But Not Actually Compulsive Financial Habit That Will Make Your
           Spouse Love You Forever
@@ -394,7 +388,7 @@
         <h3>Disclaimer:</h3>
 
         <h3>Only Works If They Recognize A Catch When They See One…</h3>
-      </div>
+      </CenteredTextBox>
 
       <p>
         I’m not going to tell you that being financially responsible is sexy. Quite the opposite. To
@@ -420,14 +414,13 @@
       </p>
     </div>
     <div>
-      <div>
-        <!-- todo: centered text box -->
+      <CenteredTextBox>
         <h3>
           I said this was about “normal, boring, yet special automated habits you haven’t heard
           about before” (ctrl + F “Normal, Boring Yet Special” to find the quote). Here’s what that
           means:
         </h3>
-      </div>
+      </CenteredTextBox>
 
       <p>
         Everyone and their mother has heard of setting up an automatic transfer from their chequing
@@ -484,17 +477,14 @@
       <p>But if wanting is good, doing is even better.</p>
       <p>This is the boring, normal, special automated habit that will get you ahead:</p>
 
-      <div>
-        <!-- todo: centered text box component
-   -->
-
+      <CenteredTextBox>
         <h3>
           You will get addicted to the feedback you get from stacking cash in your bank account.
         </h3>
 
         <p>“Oh no, I might over-save!”</p>
         <p>Trust me, it’s better than being in debt.</p>
-      </div>
+      </CenteredTextBox>
     </div>
   </PaddingBox></StandardBox
 >
@@ -523,14 +513,13 @@
         earning will give you a high net worth.”
       </p>
 
-      <div>
-        <!-- todo: centered text box -->
+      <CenteredTextBox>
         <h3>How long do you want to be alive for? A long time, right?</h3>
 
         <p>Well, do you want those years to be spent as a disciplined winner?</p>
         <p>Do you want a long, long, thirty year streak of win, after win, after win?</p>
         <p>Do you want your L’s to be fewer, less frequent, smaller?</p>
-      </div>
+      </CenteredTextBox>
 
       <p>
         Yes, you have to do the eight hours of setup, and then talk yourself out of disturbing the
@@ -542,11 +531,12 @@
         disciplined winner.
       </p>
 
-      <!-- //todo: center text -->
-      <p>
-        If the page speaks to you, seems like it’s about you, seems like the “wow, this reader cares
-        about his family” part is in fact about you…
-      </p>
+      <CenteredTextBox>
+        <p>
+          If the page speaks to you, seems like it’s about you, seems like the “wow, this reader
+          cares about his family” part is in fact about you…
+        </p>
+      </CenteredTextBox>
 
       <p>You have what it takes to be the Disciplined Winner described in the section title.</p>
 
@@ -713,48 +703,52 @@
   </PaddingBox>
 </StandardBox>
 
-<WideBox>
-  <!-- // todo: big wide red box -->
-  <!-- // todo: centered text box -->
-  <div>
-    <h3>Would you like to be able to live this story?</h3>
+<div class="bg-rose">
+  <WideBox>
+    <!-- // todo: big wide red box -->
+    <CenteredTextBox>
+      <h3>Would you like to be able to live this story?</h3>
 
-    <p>Make it real?</p>
-    <p>What would financial success be worth to you?</p>
-    <p>Here’s the answer I would give if the story were about me and my children:</p>
-    <p>Everything.</p>
+      <p>Make it real?</p>
+      <p>What would financial success be worth to you?</p>
+      <p>Here’s the answer I would give if the story were about me and my children:</p>
+      <p>Everything.</p>
 
-    <!-- // fixme: make this text REALLY BIG. -->
-    <h2>If You Read This Far, It’s Time For The Big Reveal</h2>
+      <!-- // fixme: make this text REALLY BIG. -->
+      <h2>If You Read This Far, It’s Time For The Big Reveal</h2>
 
-    <p>The entire document you’re reading right now is not “just” about finances.</p>
-    <p>It’s about love.</p>
-    <p>
-      Do you love yourself enough to follow a guide given to you from an expert in debt reduction
-      and net worth enhancement?
-    </p>
-    <p>
-      Are you willing to do a little work (but truthfully not much) every month or two to manage
-      your own behavior…
-    </p>
-    <p>So that your current or future spouse can rely on you when they need to?</p>
-    <p>
-      So that your current or future kids can trust you to teach them about care and responsibility?
-    </p>
-    <p>
-      If you answer affirmatively, and yet you recognize that some challenges are guaranteed along
-      the way…
-    </p>
-    <p>You are saying that yourself and your family are entirely, entirely worth doing this for.</p>
-    <p>(And if you can't will yourself to do it, it’s still about love. Just in another way.)</p>
-    <p>
-      Whether you do or don’t, you must acknowledge, at the minimum, that choosing to do so would be
-      a firmly affirmative sign…
-    </p>
-    <p>That you want to be a hero for somebody!</p>
-    <p>Out of love.</p>
-  </div>
-</WideBox>
+      <p>The entire document you’re reading right now is not “just” about finances.</p>
+      <p>It’s about love.</p>
+      <p>
+        Do you love yourself enough to follow a guide given to you from an expert in debt reduction
+        and net worth enhancement?
+      </p>
+      <p>
+        Are you willing to do a little work (but truthfully not much) every month or two to manage
+        your own behavior…
+      </p>
+      <p>So that your current or future spouse can rely on you when they need to?</p>
+      <p>
+        So that your current or future kids can trust you to teach them about care and
+        responsibility?
+      </p>
+      <p>
+        If you answer affirmatively, and yet you recognize that some challenges are guaranteed along
+        the way…
+      </p>
+      <p>
+        You are saying that yourself and your family are entirely, entirely worth doing this for.
+      </p>
+      <p>(And if you can't will yourself to do it, it’s still about love. Just in another way.)</p>
+      <p>
+        Whether you do or don’t, you must acknowledge, at the minimum, that choosing to do so would
+        be a firmly affirmative sign…
+      </p>
+      <p>That you want to be a hero for somebody!</p>
+      <p>Out of love.</p>
+    </CenteredTextBox>
+  </WideBox>
+</div>
 
 <StandardBox
   ><PaddingBox>
@@ -883,8 +877,7 @@
 
 <StandardBox
   ><PaddingBox>
-    <!-- // todo: centered text box (whole thing) -->
-    <div>
+    <CenteredTextBox>
       <h2>Ask yourself what this would be like:</h2>
 
       <h2>Not only seen as irresponsible, but in truth, a dependably undependable person.</h2>
@@ -943,7 +936,7 @@
       <h3>Now:</h3>
 
       <h3>Let’s do something to really drive the point home:</h3>
-    </div>
+    </CenteredTextBox>
   </PaddingBox></StandardBox
 >
 
@@ -1148,9 +1141,7 @@
       debtor is lagging behind and has to live with that knowledge.
     </p>
 
-    <div>
-      <!-- todo: centered text box -->
-
+    <CenteredTextBox>
       <p>All this last giant, giant block of text…</p>
 
       <p>All of it was about being that lighthouse mentioned further up in the letter.</p>
@@ -1158,7 +1149,7 @@
       <p>(You didn’t skip past it, did you? Ctrl + F “lighthouse”)</p>
 
       <p>Now it’s time to find out…</p>
-    </div>
+    </CenteredTextBox>
   </div>
 </WideBox>
 
@@ -1265,16 +1256,14 @@
 
       <p>It works.</p>
 
-      <div>
-        <!-- //todo: centered text box -->
-
+      <CenteredTextBox>
         <h3>
           Though people who lack financially responsible habits and attitudes may still be prudent,
           their lack of practice with money has yielded bad results.
         </h3>
 
         <h3>Yet they recognize the value of improving.</h3>
-      </div>
+      </CenteredTextBox>
 
       <p>
         The overarching point is that you could lose a great catch because they don’t want to help
@@ -1320,14 +1309,13 @@
       <p>None of the scenes are guaranteed, and yet they are all plausible.</p>
 
       <p>I say in conclusion:</p>
-      <div>
-        <!-- //todo: centered text box -->
+      <CenteredTextBox>
         <h3>Debt Isn’t Sexy. I know it isn’t, you know it isn’t.</h3>
 
         <h3>The only remaining question is:</h3>
 
         <h3>What are you going to do with that information?</h3>
-      </div>
+      </CenteredTextBox>
     </div>
   </PaddingBox>
 </StandardBox>
@@ -1336,13 +1324,14 @@
   <PaddingBox>
     <div>
       <div>
-        <!-- //todo; center text box -->
-        <h3>Now Let’s Find Out…</h3>
+        <CenteredTextBox>
+          <h3>Now Let’s Find Out…</h3>
 
-        <h2>
-          Who Am I To Tell You How To Guide Yourself Out Of Even The Worst Financial Ruin Of Your
-          Life?
-        </h2>
+          <h2>
+            Who Am I To Tell You How To Guide Yourself Out Of Even The Worst Financial Ruin Of Your
+            Life?
+          </h2>
+        </CenteredTextBox>
       </div>
 
       <p>Real talk: Why would you listen to me?</p>
@@ -1452,80 +1441,81 @@
 
 <WideBox>
   <div>
-    <!-- // todo: centered box  -->
+    <CenteredTextBox>
+      <!-- //todo: all massive text -->
+      <h2>
+        “Okay Effer, You’ve Convinced Me: Responsibility With Personal Finance Is Important and
+        Worth Doing. Tell Me About The Guide.”
+      </h2>
 
-    <!-- //todo: all massive text -->
-    <h2>
-      “Okay Effer, You’ve Convinced Me: Responsibility With Personal Finance Is Important and Worth
-      Doing. Tell Me About The Guide.”
-    </h2>
+      <p>Well for one, it’s title is:</p>
 
-    <p>Well for one, it’s title is:</p>
+      <h2>Zero To Some:</h2>
+      <h2>How To UnFukt Your Finances</h2>
 
-    <h2>Zero To Some:</h2>
-    <h2>How To UnFukt Your Finances</h2>
+      <h2>“Great Title, But How Does The Advice In The Guide Actually Work?”</h2>
 
-    <h2>“Great Title, But How Does The Advice In The Guide Actually Work?”</h2>
+      <p>The answers to this question below! And also the answers to:</p>
 
-    <p>The answers to this question below! And also the answers to:</p>
+      <h2>And Will It Work For You Even If:</h2>
+      <ul>
+        <li>You’re A Young Adult With Low Income, or</li>
 
-    <h2>And Will It Work For You Even If:</h2>
-    <ul>
-      <li>You’re A Young Adult With Low Income, or</li>
+        <li>You’ve been in debt for years, or</li>
 
-      <li>You’ve been in debt for years, or</li>
+        <li>You currently have no idea how you’ll ever afford a house, or</li>
 
-      <li>You currently have no idea how you’ll ever afford a house, or</li>
+        <li>Some combination of the above 3 things</li>
+      </ul>
 
-      <li>Some combination of the above 3 things</li>
-    </ul>
+      <p>Spoiler: The answer is yes, now find out how & why</p>
 
-    <p>Spoiler: The answer is yes, now find out how & why</p>
+      <!-- //todo: all massive text -->
+    </CenteredTextBox>
+    <div>
+      <CenteredTextBox>
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <!-- disclaimer -->
+        <h3>But first, two disclaimers:</h3>
 
-    <!-- //todo: all massive text -->
-  </div>
-  <div>
-    <!-- todo: center text box -->
-    <!-- disclaimer -->
-    <!-- disclaimer -->
-    <!-- disclaimer -->
-    <!-- disclaimer -->
-    <!-- disclaimer -->
-    <h3>But first, two disclaimers:</h3>
+        <h4>Disclaimer #1:</h4>
 
-    <h4>Disclaimer #1:</h4>
+        <p>You notice how “even if you don’t have a job” isn’t in the list?</p>
 
-    <p>You notice how “even if you don’t have a job” isn’t in the list?</p>
+        <p>It will work for you if you get a job, but you’ll need to get one!</p>
 
-    <p>It will work for you if you get a job, but you’ll need to get one!</p>
+        <p>So if you don’t have a job, and…</p>
 
-    <p>So if you don’t have a job, and…</p>
+        <p>(and, and, and, please notice the and)</p>
 
-    <p>(and, and, and, please notice the and)</p>
+        <p>You are also unwilling to get one, well, sorry.</p>
 
-    <p>You are also unwilling to get one, well, sorry.</p>
+        <p>But the guide is not for you.</p>
 
-    <p>But the guide is not for you.</p>
+        <p>It could be for your husband, your wife, your son, your daughter.</p>
 
-    <p>It could be for your husband, your wife, your son, your daughter.</p>
+        <p>But not for you.</p>
 
-    <p>But not for you.</p>
+        <p>
+          (Disclaimer about the disclaimer: The moment you change your mind about the job thing, the
+          disclaimer is irrelevant. The guide will start to work the instant you change your mind
+          and decide you’re willing to work. Also, concerns about joblessness would be invalidated
+          if you wanted to learn to control your spending anyway.)
+        </p>
 
-    <p>
-      (Disclaimer about the disclaimer: The moment you change your mind about the job thing, the
-      disclaimer is irrelevant. The guide will start to work the instant you change your mind and
-      decide you’re willing to work. Also, concerns about joblessness would be invalidated if you
-      wanted to learn to control your spending anyway.)
-    </p>
+        <h4>Disclaimer #2:</h4>
 
-    <h4>Disclaimer #2:</h4>
+        <p>
+          If you are unwilling to implement the advice, or you’re the type of person to “buy and
+          never try,” the guide won’t work!
+        </p>
 
-    <p>
-      If you are unwilling to implement the advice, or you’re the type of person to “buy and never
-      try,” the guide won’t work!
-    </p>
-
-    <p>With that out of the way, onward…</p>
+        <p>With that out of the way, onward…</p>
+      </CenteredTextBox>
+    </div>
   </div>
 </WideBox>
 
@@ -1661,20 +1651,21 @@
       </p>
 
       <div>
-        //todo; center text box
-        <h3>I’ll have helped you give yourself a gift that only you can give.</h3>
+        <CenteredTextBox>
+          <h3>I’ll have helped you give yourself a gift that only you can give.</h3>
 
-        <p>(Cliche, I know, but watch this…)</p>
+          <p>(Cliche, I know, but watch this…)</p>
 
-        <p>I’ll help you wrap the gift.</p>
+          <p>I’ll help you wrap the gift.</p>
 
-        <p>I’ll tell you where to get the present.</p>
+          <p>I’ll tell you where to get the present.</p>
 
-        <p>I’ll show you the best way to wrap the gift.</p>
+          <p>I’ll show you the best way to wrap the gift.</p>
 
-        <p>Tie the knot.</p>
+          <p>Tie the knot.</p>
 
-        <p>And yet only you can give yourself the gift.</p>
+          <p>And yet only you can give yourself the gift.</p>
+        </CenteredTextBox>
       </div>
 
       <p>
@@ -1730,8 +1721,9 @@
         payment on a house out of your investment accounts, and…
       </p>
 
-      <!-- //todo: center text -->
-      <h2>You Will Own A House!</h2>
+      <CenteredTextBox>
+        <h2>You Will Own A House!</h2>
+      </CenteredTextBox>
 
       <p>See? Wasn’t that better than a bunch of boring numbers?</p>
 
@@ -1842,12 +1834,13 @@
       </p>
 
       <div>
-        <!-- centered text section -->
-        <h2>You’ll Get All That And More!</h2>
+        <CenteredTextBox>
+          <h2>You’ll Get All That And More!</h2>
 
-        <p>But you might still be asking:</p>
+          <p>But you might still be asking:</p>
 
-        <p>Does the info in the guide really work?</p>
+          <p>Does the info in the guide really work?</p>
+        </CenteredTextBox>
       </div>
 
       <p>Well, if you’re asking yourself that right now, here’s the answer:</p>
@@ -1867,182 +1860,188 @@
   </PaddingBox>
 </StandardBox>
 
-<WideBox>
-  <div>
-    <p>Now…</p>
+<div class="bg-light-blue">
+  <WideBox>
+    <div class="px-4 sm:px-12 lg:px-24 xl:px-40">
+      <p>Now…</p>
 
-    <h2>
-      Here’s Some Upgrades To Life You Can Expect To Get From Using This Guide… And What You Might
-      Value Them At
-    </h2>
+      <h2>
+        Here’s Some Upgrades To Life You Can Expect To Get From Using This Guide… And What You Might
+        Value Them At
+      </h2>
 
-    <p>You read the page, right?</p>
+      <p>You read the page, right?</p>
 
-    <p>Ok, so you’ll remember that we talked about:</p>
+      <p>Ok, so you’ll remember that we talked about:</p>
 
-    <li>Being able to pay for your parents’ to have in-home senior care when they’re old.</li>
+      <li>Being able to pay for your parents’ to have in-home senior care when they’re old.</li>
 
-    <p>Here’s the value: Priceless.</p>
+      <p>Here’s the value: Priceless.</p>
 
-    <p>
-      But let’s say $5,000 because you’ll be able to do it five years in a row if you use the guide.
-    </p>
+      <p>
+        But let’s say $5,000 because you’ll be able to do it five years in a row if you use the
+        guide.
+      </p>
 
-    <li>
-      Being able to help your current or future spouse out when they encounter a huge debt by
-      mistake.
-    </li>
-    <p>Value: Priceless. But let’s say $4,000 if you do it even one time.</p>
-
-    <li>Being able to rely on yourself a bit more than you could yesterday.</li>
-    <p>Value: Priceless. But let’s say $1,000.</p>
-
-    <li>Being able to help your kids make the most of their childhood.</li>
-    <p>Value: Priceless. But let’s say $26,000.</p>
-
-    <h2>Total value: $36,000</h2>
-
-    <h3>Yet today the guide will be yours for only $100.</h3>
-  </div>
-  <div>
-    <h4>But the question remains: Why invest in changing your life?</h4>
-
-    <h2>Why Act Now?</h2>
-
-    <p>Here’s why:</p>
-
-    <h2>Reminder: You stumbled upon this page by chance.</h2>
-
-    <p>You didn’t really know you were on your way here before you decided to look at the page.</p>
-
-    <p>Yet you arrived. That’s the definition of blind luck.</p>
-
-    <p>And at this point, we’ve talked about:</p>
-
-    <ul>
       <li>
-        Why your parents, if you are lucky enough to still have them, need to up your game
-        financially.
+        Being able to help your current or future spouse out when they encounter a huge debt by
+        mistake.
       </li>
-      <li>Why your current or future spouse needs you to up your game financially</li>
-      <li>Why your current or future kids need you to up your game financially</li>
-      <li>Why you, yourself, right now, need you to up your game financially</li>
-    </ul>
+      <p>Value: Priceless. But let’s say $4,000 if you do it even one time.</p>
 
-    <p>
-      Those are all great points, and they are great on their own. Yet you might want a specific
-      reminder about what it is about you that brought you here.
-    </p>
+      <li>Being able to rely on yourself a bit more than you could yesterday.</li>
+      <p>Value: Priceless. But let’s say $1,000.</p>
 
-    <p>
-      See, you’re a responsible type. Maybe not the most responsible, but to a degree, you fit in
-      that category.
-    </p>
+      <li>Being able to help your kids make the most of their childhood.</li>
+      <p>Value: Priceless. But let’s say $26,000.</p>
 
-    <p>
-      You also recognize that the momentum you’ve built up towards change, internally, will pass.
-    </p>
+      <h2>Total value: $36,000</h2>
 
-    <p>
-      If you leave and do not act now, you’ll go back to being the same person you were before you
-      got to the page.
-    </p>
+      <h3>Yet today the guide will be yours for only $100.</h3>
+    </div>
+    <div class="px-4 sm:px-12 lg:px-24 xl:px-40">
+      <h4>But the question remains: Why invest in changing your life?</h4>
 
-    <p>
-      That means the odds of being unable to pay for a giant, unforeseen bill, will go up. If you’re
-      lucky enough to live a long time, in fact, it’s guaranteed you’ll have a few.
-    </p>
+      <h2>Why Act Now?</h2>
 
-    <p>
-      It means the day when a spouse, a child, a parent, needs your help financially, is moving
-      closer and closer… yet you are not prepared.
-    </p>
+      <p>Here’s why:</p>
 
-    <p>Yet you’re ready to act now, not later.</p>
+      <h2>Reminder: You stumbled upon this page by chance.</h2>
 
-    <p>If you don’t act, the moment will pass.</p>
+      <p>
+        You didn’t really know you were on your way here before you decided to look at the page.
+      </p>
 
-    <p>
-      And the day when you’re a hero for being prepared with a large bank account of Rainy Day Money
-      will never arrive.
-    </p>
+      <p>Yet you arrived. That’s the definition of blind luck.</p>
 
-    <p>But the Rainy Day itself will still come.</p>
+      <p>And at this point, we’ve talked about:</p>
 
-    <p>You want to be prepared for it by having $0 credit card debt.</p>
+      <ul>
+        <li>
+          Why your parents, if you are lucky enough to still have them, need to up your game
+          financially.
+        </li>
+        <li>Why your current or future spouse needs you to up your game financially</li>
+        <li>Why your current or future kids need you to up your game financially</li>
+        <li>Why you, yourself, right now, need you to up your game financially</li>
+      </ul>
 
-    <p>
-      Waiting to pay off your credit card debt only makes your situation worse. Your debt accrues
-      interest, making it harder to pay off. You are missing out on investing and earning market
-      returns.
-    </p>
+      <p>
+        Those are all great points, and they are great on their own. Yet you might want a specific
+        reminder about what it is about you that brought you here.
+      </p>
 
-    <p>The longer you wait, the more your net worth suffers.</p>
-  </div>
+      <p>
+        See, you’re a responsible type. Maybe not the most responsible, but to a degree, you fit in
+        that category.
+      </p>
 
-  <div>
-    <h2>So do you have to take this opportunity to change right now? Right this second?</h2>
+      <p>
+        You also recognize that the momentum you’ve built up towards change, internally, will pass.
+      </p>
 
-    <p>
-      Are you a self disciplined winner already? Perhaps the most disciplined winner you’ll ever
-      want to be?
-    </p>
+      <p>
+        If you leave and do not act now, you’ll go back to being the same person you were before you
+        got to the page.
+      </p>
 
-    <p>Is it just something you sense that you want but are unwilling to work for?</p>
+      <p>
+        That means the odds of being unable to pay for a giant, unforeseen bill, will go up. If
+        you’re lucky enough to live a long time, in fact, it’s guaranteed you’ll have a few.
+      </p>
 
-    <p>Or is it more than that?</p>
+      <p>
+        It means the day when a spouse, a child, a parent, needs your help financially, is moving
+        closer and closer… yet you are not prepared.
+      </p>
 
-    <p>Maybe you’ve decided you’ll take advantage of the opportunity…</p>
+      <p>Yet you’re ready to act now, not later.</p>
 
-    <p>Maybe you’ve given yourself permission to take advantage of the opportunity…</p>
+      <p>If you don’t act, the moment will pass.</p>
 
-    <p>Yet it is not clear whether this is something you can put off until tomorrow.</p>
+      <p>
+        And the day when you’re a hero for being prepared with a large bank account of Rainy Day
+        Money will never arrive.
+      </p>
 
-    <p>Something you could do later, not today.</p>
+      <p>But the Rainy Day itself will still come.</p>
 
-    <p>I’m here to tell you the time is now, and here’s why:</p>
+      <p>You want to be prepared for it by having $0 credit card debt.</p>
 
-    <p>You do want to change now.</p>
+      <p>
+        Waiting to pay off your credit card debt only makes your situation worse. Your debt accrues
+        interest, making it harder to pay off. You are missing out on investing and earning market
+        returns.
+      </p>
 
-    <p>You do recognize the opportunity.</p>
+      <p>The longer you wait, the more your net worth suffers.</p>
+    </div>
 
-    <p>You do recognize the wisdom contained within the pages.’</p>
+    <div class="px-4 sm:px-12 lg:px-24 xl:px-40">
+      <h2>So do you have to take this opportunity to change right now? Right this second?</h2>
 
-    <p>
-      The problem is that after the moment to act has passed, the odds of it returning are immensely
-      low.
-    </p>
+      <p>
+        Are you a self disciplined winner already? Perhaps the most disciplined winner you’ll ever
+        want to be?
+      </p>
 
-    <p>You’ll go back to your busy life, with lots of other important tasks to complete.</p>
+      <p>Is it just something you sense that you want but are unwilling to work for?</p>
 
-    <p>Your fear of all this fukt up stuff I told you was coming… will fade.</p>
+      <p>Or is it more than that?</p>
 
-    <p>Remember this part? What your life will be like when you’re OLD?</p>
+      <p>Maybe you’ve decided you’ll take advantage of the opportunity…</p>
 
-    <!-- todo: before/after img "option #1" "option #2" -->
+      <p>Maybe you’ve given yourself permission to take advantage of the opportunity…</p>
 
-    <p>What I want for you is unimportant, but what you want for yourself is your whole world.</p>
+      <p>Yet it is not clear whether this is something you can put off until tomorrow.</p>
 
-    <p>Your desires and decisions make your world. You create the future with your actions.</p>
+      <p>Something you could do later, not today.</p>
 
-    <p>So what’ll it be…? Do you want to use the guide?</p>
+      <p>I’m here to tell you the time is now, and here’s why:</p>
 
-    <p>
-      You could get it with 100 hours of research and planning and execution spread across months
-      and months of activity.
-    </p>
+      <p>You do want to change now.</p>
 
-    <p>You could do it yourself.</p>
+      <p>You do recognize the opportunity.</p>
 
-    <p>But you’d make it a lot easier on yourself by investing in the guide.</p>
+      <p>You do recognize the wisdom contained within the pages.’</p>
 
-    <!-- todo: centered text  -->
-    <p>
-      And if you act now, you’re guaranteed to avoid the possibility of forgetting the page,
-      forgetting the important visions of the future you saw, and avoid saying to yourself:
-    </p>
-  </div>
-</WideBox>
+      <p>
+        The problem is that after the moment to act has passed, the odds of it returning are
+        immensely low.
+      </p>
+
+      <p>You’ll go back to your busy life, with lots of other important tasks to complete.</p>
+
+      <p>Your fear of all this fukt up stuff I told you was coming… will fade.</p>
+
+      <p>Remember this part? What your life will be like when you’re OLD?</p>
+
+      <!-- todo: before/after img "option #1" "option #2" -->
+
+      <p>What I want for you is unimportant, but what you want for yourself is your whole world.</p>
+
+      <p>Your desires and decisions make your world. You create the future with your actions.</p>
+
+      <p>So what’ll it be…? Do you want to use the guide?</p>
+
+      <p>
+        You could get it with 100 hours of research and planning and execution spread across months
+        and months of activity.
+      </p>
+
+      <p>You could do it yourself.</p>
+
+      <p>But you’d make it a lot easier on yourself by investing in the guide.</p>
+
+      <CenteredTextBox>
+        <p>
+          And if you act now, you’re guaranteed to avoid the possibility of forgetting the page,
+          forgetting the important visions of the future you saw, and avoid saying to yourself:
+        </p>
+      </CenteredTextBox>
+    </div>
+  </WideBox>
+</div>
 
 <StandardBox>
   <PaddingBox>
@@ -2054,16 +2053,17 @@
 
       <div>
         <!-- todo: centered text box  -->
+        <CenteredTextBox>
+          <p>I remind you:</p>
 
-        <p>I remind you:</p>
+          <h3>Spending less money takes less time, not more time.</h3>
 
-        <h3>Spending less money takes less time, not more time.</h3>
+          <p>The act of spending itself is a time sink.</p>
 
-        <p>The act of spending itself is a time sink.</p>
+          <p>You have less stuff to deal with.</p>
 
-        <p>You have less stuff to deal with.</p>
-
-        <p>More time for progress.</p>
+          <p>More time for progress.</p>
+        </CenteredTextBox>
       </div>
 
       <p>But if your real reason you aren’t yet certain you want the guide go something like:</p>
@@ -2080,41 +2080,41 @@
       </ul>
 
       <div>
-        <!-- // todo: centered text box -->
+        <CenteredTextBox>
+          <p>Let’s talk about that.</p>
 
-        <p>Let’s talk about that.</p>
+          <h3>Regarding point #2:</h3>
 
-        <h3>Regarding point #2:</h3>
+          <p>
+            You are already the type of person who would make use of the guide. Or else you would
+            have left already.
+          </p>
 
-        <p>
-          You are already the type of person who would make use of the guide. Or else you would have
-          left already.
-        </p>
+          <p>I can’t tell you that you’re guaranteed to get:</p>
 
-        <p>I can’t tell you that you’re guaranteed to get:</p>
+          <p>Enough money to pay for your parents’ home care when they’re old.</p>
 
-        <p>Enough money to pay for your parents’ home care when they’re old.</p>
+          <p>Enough money to pay for your kids’ to use their young years their best.</p>
 
-        <p>Enough money to pay for your kids’ to use their young years their best.</p>
+          <p>Enough money to help your current/future spouse out when you are called to do so.</p>
 
-        <p>Enough money to help your current/future spouse out when you are called to do so.</p>
+          <p>But you can make it a guarantee yourself.</p>
 
-        <p>But you can make it a guarantee yourself.</p>
+          <h3>Extension of point #2, about the 30 day money back guarantee:</h3>
 
-        <h3>Extension of point #2, about the 30 day money back guarantee:</h3>
+          <p>You are entitled to buy the guide, use the guide, try it out…</p>
 
-        <p>You are entitled to buy the guide, use the guide, try it out…</p>
+          <p>
+            And so long as you prove you took action on paying off $50 of debt, you’ll be eligible
+            to receive…
+          </p>
 
-        <p>
-          And so long as you prove you took action on paying off $50 of debt, you’ll be eligible to
-          receive…
-        </p>
+          <h3>A Full Refund!</h3>
 
-        <h3>A Full Refund!</h3>
+          <p>(“Dude Trust Me” is acceptable proof. I'll take your word for it.)</p>
 
-        <p>(“Dude Trust Me” is acceptable proof. I'll take your word for it.)</p>
-
-        <p>Now, with that refund offer out of the way…</p>
+          <p>Now, with that refund offer out of the way…</p>
+        </CenteredTextBox>
       </div>
     </div>
   </PaddingBox>
