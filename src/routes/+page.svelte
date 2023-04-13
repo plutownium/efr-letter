@@ -16,10 +16,10 @@
 <!-- <FloatyHeader /> -->
 
 <!-- <div class="h-24" /> -->
-<div class="w-full flex flex-col items-center bg-off-black">
+<div class="w-full flex flex-col items-center bg-black">
   <div class="w-11/12 sm:w-10/12 md:w-9/12 mt-8 h-full">
     <div class="pb-12 h-3/5 flex flex-col items-center">
-      <h1 class="mt-8 text-center text-off-white text-3xl sm:text-5xl">
+      <h1 class="mt-8 text-center text-off-white text-4xl sm:text-7xl">
         How to Escape A Lifetime Of Nagging Financial Fears, Gain A Bank Account Balance You Love to
         Look At, Become Someone Your Family Can Rely On, and Become a Lifelong Winner in Finance
       </h1>
@@ -31,7 +31,6 @@
   <PaddingBox>
     <div>
       <h2>Reader, Here’s A Guarantee:</h2>
-
       <h2>If You Read The Full Page, A Life Changing Awareness Is On Its Way!</h2>
       <h2>
         Would you like to be a disciplined winner in at least one major game of life? Namely the
@@ -715,10 +714,10 @@
       <p>Everything.</p>
 
       <!-- // fixme: make this text REALLY BIG. -->
-      <h2>If You Read This Far, It’s Time For The Big Reveal</h2>
+      <h2>If You Read This Far, It’s Time For...<br /> The Big Reveal!</h2>
 
       <p>The entire document you’re reading right now is not “just” about finances.</p>
-      <p>It’s about love.</p>
+      <p>It’s also about love!</p>
       <p>
         Do you love yourself enough to follow a guide given to you from an expert in debt reduction
         and net worth enhancement?
@@ -941,8 +940,8 @@
 >
 
 <WideBox>
-  <div>
-    <h2>Think of an image of a lighthouse.</h2>
+  <div class="">
+    <h2 class="text-center">Think of an image of a lighthouse.</h2>
 
     <p>
       A lighthouse, standing tall and shining its light off into the distance. Sailing ships use the
@@ -1179,10 +1178,10 @@
         either.
       </p>
 
-      <div>
+      <CenteredTextBox>
         <h2>Straight Up:</h2>
         <h2>Debt Isn’t Sexy</h2>
-      </div>
+      </CenteredTextBox>
 
       <p>Sensible men and women both avoid partners who have large debts.</p>
 
@@ -1439,85 +1438,87 @@
   </PaddingBox>
 </StandardBox>
 
-<WideBox>
-  <div>
-    <CenteredTextBox>
-      <!-- //todo: all massive text -->
-      <h2>
-        “Okay Effer, You’ve Convinced Me: Responsibility With Personal Finance Is Important and
-        Worth Doing. Tell Me About The Guide.”
-      </h2>
-
-      <p>Well for one, it’s title is:</p>
-
-      <h2>Zero To Some:</h2>
-      <h2>How To UnFukt Your Finances</h2>
-
-      <h2>“Great Title, But How Does The Advice In The Guide Actually Work?”</h2>
-
-      <p>The answers to this question below! And also the answers to:</p>
-
-      <h2>And Will It Work For You Even If:</h2>
-      <ul>
-        <li>You’re A Young Adult With Low Income, or</li>
-
-        <li>You’ve been in debt for years, or</li>
-
-        <li>You currently have no idea how you’ll ever afford a house, or</li>
-
-        <li>Some combination of the above 3 things</li>
-      </ul>
-
-      <p>Spoiler: The answer is yes, now find out how & why</p>
-
-      <!-- //todo: all massive text -->
-    </CenteredTextBox>
+<div class="bg-light-blue">
+  <WideBox>
     <div>
       <CenteredTextBox>
-        <!-- disclaimer -->
-        <!-- disclaimer -->
-        <!-- disclaimer -->
-        <!-- disclaimer -->
-        <!-- disclaimer -->
-        <h3>But first, two disclaimers:</h3>
+        <!-- //todo: all massive text -->
+        <h2>
+          “Okay Effer, You’ve Convinced Me: Responsibility With Personal Finance Is Important and
+          Worth Doing. Tell Me About The Guide.”
+        </h2>
 
-        <h4>Disclaimer #1:</h4>
+        <p>Well for one, it’s title is:</p>
 
-        <p>You notice how “even if you don’t have a job” isn’t in the list?</p>
+        <h2>Zero To Some:</h2>
+        <h2>How To UnFukt Your Finances</h2>
 
-        <p>It will work for you if you get a job, but you’ll need to get one!</p>
+        <h2>“Great Title, But How Does The Advice In The Guide Actually Work?”</h2>
 
-        <p>So if you don’t have a job, and…</p>
+        <p>The answers to this question below! And also the answers to:</p>
 
-        <p>(and, and, and, please notice the and)</p>
+        <h2>And Will It Work For You Even If:</h2>
+        <ul>
+          <li>You’re A Young Adult With Low Income, or</li>
 
-        <p>You are also unwilling to get one, well, sorry.</p>
+          <li>You’ve been in debt for years, or</li>
 
-        <p>But the guide is not for you.</p>
+          <li>You currently have no idea how you’ll ever afford a house, or</li>
 
-        <p>It could be for your husband, your wife, your son, your daughter.</p>
+          <li>Some combination of the above 3 things</li>
+        </ul>
 
-        <p>But not for you.</p>
+        <p>Spoiler: The answer is yes, now find out how & why</p>
 
-        <p>
-          (Disclaimer about the disclaimer: The moment you change your mind about the job thing, the
-          disclaimer is irrelevant. The guide will start to work the instant you change your mind
-          and decide you’re willing to work. Also, concerns about joblessness would be invalidated
-          if you wanted to learn to control your spending anyway.)
-        </p>
-
-        <h4>Disclaimer #2:</h4>
-
-        <p>
-          If you are unwilling to implement the advice, or you’re the type of person to “buy and
-          never try,” the guide won’t work!
-        </p>
-
-        <p>With that out of the way, onward…</p>
+        <!-- //todo: all massive text -->
       </CenteredTextBox>
+      <div>
+        <CenteredTextBox>
+          <!-- disclaimer -->
+          <!-- disclaimer -->
+          <!-- disclaimer -->
+          <!-- disclaimer -->
+          <!-- disclaimer -->
+          <h3>But first, two disclaimers:</h3>
+
+          <h4>Disclaimer #1:</h4>
+
+          <p>You notice how “even if you don’t have a job” isn’t in the list?</p>
+
+          <p>It will work for you if you get a job, but you’ll need to get one!</p>
+
+          <p>So if you don’t have a job, and…</p>
+
+          <p>(and, and, and, please notice the and)</p>
+
+          <p>You are also unwilling to get one, well, sorry.</p>
+
+          <p>But the guide is not for you.</p>
+
+          <p>It could be for your husband, your wife, your son, your daughter.</p>
+
+          <p>But not for you.</p>
+
+          <p>
+            (Disclaimer about the disclaimer: The moment you change your mind about the job thing,
+            the disclaimer is irrelevant. The guide will start to work the instant you change your
+            mind and decide you’re willing to work. Also, concerns about joblessness would be
+            invalidated if you wanted to learn to control your spending anyway.)
+          </p>
+
+          <h4>Disclaimer #2:</h4>
+
+          <p>
+            If you are unwilling to implement the advice, or you’re the type of person to “buy and
+            never try,” the guide won’t work!
+          </p>
+
+          <p>With that out of the way, onward…</p>
+        </CenteredTextBox>
+      </div>
     </div>
-  </div>
-</WideBox>
+  </WideBox>
+</div>
 
 <StandardBox>
   <PaddingBox>
@@ -1862,7 +1863,7 @@
 
 <div class="bg-light-blue">
   <WideBox>
-    <div class="px-4 sm:px-12 lg:px-24 xl:px-40">
+    <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
       <p>Now…</p>
 
       <h2>
@@ -1899,7 +1900,7 @@
 
       <h3>Yet today the guide will be yours for only $100.</h3>
     </div>
-    <div class="px-4 sm:px-12 lg:px-24 xl:px-40">
+    <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
       <h4>But the question remains: Why invest in changing your life?</h4>
 
       <h2>Why Act Now?</h2>
@@ -1977,7 +1978,7 @@
       <p>The longer you wait, the more your net worth suffers.</p>
     </div>
 
-    <div class="px-4 sm:px-12 lg:px-24 xl:px-40">
+    <div class="px-2 sm:px-8 lg:px-18 xl:px-40">
       <h2>So do you have to take this opportunity to change right now? Right this second?</h2>
 
       <p>
@@ -2444,7 +2445,7 @@
 
 <StandardBox>
   <PaddingBox>
-    <div>
+    <CenteredTextBox>
       <h2>Are You Ready?</h2>
 
       <h2>To Know The Path</h2>
@@ -2480,7 +2481,7 @@
       <p>If so, tell me:</p>
 
       <BigBeautifulButton />
-    </div>
+    </CenteredTextBox>
   </PaddingBox>
 </StandardBox>
 
@@ -2536,7 +2537,13 @@
 
 <style>
   h1 {
-    font-size: 2.4em;
+    font-size: 3.2em;
+  }
+
+  @media screen and (max-width: 1200px) {
+    h1 {
+      font-size: 2.4em;
+    }
   }
 
   h2 {
@@ -2549,6 +2556,7 @@
 
   p,
   li {
+    margin-top: 10px;
     font-size: 20px;
   }
 
