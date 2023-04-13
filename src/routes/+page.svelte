@@ -1561,9 +1561,9 @@
   </PaddingBox>
 </StandardBox>
 
-<div class="bg-light-blue">
+<div class="bg-off-white">
   <WideBox>
-    <div class="py-8">
+    <div class="py-12">
       <CenteredTextBox>
         <h2>
           “Okay Effer, I Agree: Responsibility With Personal Finance Is Important and Worth Doing.
@@ -1775,7 +1775,7 @@
 
       <div>
         <CenteredTextBox>
-          <h3 class="text-2xl">
+          <h3 class="text-2xl mt-4">
             I’ll have helped you give yourself a gift that only you can give.
           </h3>
 
@@ -2020,8 +2020,8 @@
       <p>Value: <span class="underline">Priceless</span>.</p>
 
       <p>
-        But let’s say <span class="font-bold">$5,000</span> because you’ll be able to do it five years
-        in a row if you use the guide.
+        But let’s say <span class="font-bold text-green">$5,000</span> because you’ll be able to do it
+        five years in a row if you use the guide.
       </p>
 
       <p class="list-disc">
@@ -2033,7 +2033,9 @@
       <p>
         Value: <span class="underline">Priceless</span>.
       </p>
-      <p>But let’s say <span class="font-bold">$4,000</span> if you do it even one time.</p>
+      <p>
+        But let’s say <span class="font-bold text-green">$4,000</span> if you do it even one time.
+      </p>
 
       <p class="list-disc">
         <span class="text-2xl"
@@ -2041,7 +2043,7 @@
         >
       </p>
       <p>Value: <span class="underline">Priceless</span>.</p>
-      <p>But let’s say <span class="font-bold">$1,000</span>.</p>
+      <p>But let’s say <span class="font-bold text-green">$1,000</span>.</p>
 
       <p class="list-disc">
         <span class="text-2xl"
@@ -2049,9 +2051,9 @@
         >
       </p>
       <p>Value: <span class="underline">Priceless</span>.</p>
-      <p>But let’s say <span class="font-bold">$26,000</span>.</p>
+      <p>But let’s say <span class="font-bold text-green">$26,000</span>.</p>
 
-      <h2 class="mt-4">Total value: <span class="font-bold">$36,000</span></h2>
+      <h2 class="mt-4">Total value: <span class="font-bold text-green">$36,000</span></h2>
 
       <h3 class="mt-4 text-3xl">
         Yet today the guide will be yours for <span class="underline"
@@ -2739,7 +2741,7 @@
 
         <p>If so, use the button:</p>
 
-        <div class="mt-4 flex justify-center">
+        <div class="mt-8 flex justify-center">
           <BigBeautifulButton />
         </div>
       </div>
