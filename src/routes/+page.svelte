@@ -167,7 +167,9 @@
         <p>Set yourself up for success. Become financially responsible.</p>
       </CenteredTextBox>
 
-      <h2>How Living Within Your Means Gets You Ahead… And How to Make the Most of It</h2>
+      <h2 class="mt-4">
+        How Living Within Your Means Gets You Ahead… And How to Make the Most of It
+      </h2>
 
       <p>To be blunt, I’m not sure you get a lot out of this section.</p>
       <p>
@@ -236,8 +238,10 @@
       </p>
       <p>So how do you get ahead by living within your means?</p>
 
-      <ol>
-        <li>You are, in a “numbers on a spreadsheet” verifiable way, ahead of the pack.</li>
+      <ol class="list-disc">
+        <li class="list-disc ml-5">
+          You are, in a “numbers on a spreadsheet” verifiable way, ahead of the pack.
+        </li>
 
         <p>
           You will be ahead of the pack, better than average. Your accountant or a banker could tell
@@ -251,11 +255,11 @@
           >.
         </p>
 
-        <li>
+        <li class="list-disc ml-5">
           Your future/current husband/wife could tell you: “Um, honey, I chose you for lots of good
           reasons, and your responsible behaviors 100% were among them.”
         </li>
-        <li>
+        <li class="list-disc ml-5">
           Your current/future kids could tell you by asking you: “Mom, dad, the kids at school worry
           about their finances. Even the rich ones. Do we need to worry about that?”
         </li>
