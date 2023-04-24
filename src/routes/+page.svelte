@@ -106,7 +106,7 @@
         during the conversation, the topics of investments come up. And Derek says:
       </p>
       <p>
-        “Yeah, I just finished putting away my third million. My dad helped me out a bit with
+        “Yeah, I just finished putting away my first million. My dad helped me out a bit with
         $12,000 when I was a teenager, but from there it was all me.”
       </p>
       <p>
@@ -2065,7 +2065,7 @@
 
       <h3 class="mt-4 text-3xl">
         Yet today the guide will be yours for <span class="underline"
-          >only <span class="font-bold">$100</span></span
+          >only <span class="font-bold">$24.69</span></span
         >.
       </h3>
     </div>
